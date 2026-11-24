@@ -1,0 +1,36 @@
+﻿table,champ,libelle,description,type_donnee,unite,modalites,exemple,regle_validation,role
+beneficiaires,beneficiaire_id,Identifiant bénéficiaire,Identifiant unique,Texte,,,B00001,"Unique, non vide",PK
+beneficiaires,code_menage,Code ménage,Identifiant du ménage,Texte,,,M15432,Non vide,Référence
+beneficiaires,sexe,Sexe,Sexe déclaré,Catégoriel,,F; M,F,Standardiser,Démographique
+beneficiaires,age,Âge,Âge en années,Numérique,années,18–75 attendu,34,Contrôle des bornes,Démographique
+beneficiaires,zone_id,Zone,Zone d’intervention,Texte,,Z001–Z020,Z005,Existe dans zones,FK
+beneficiaires,statut_vulnerabilite,Vulnérabilité,Niveau de vulnérabilité,Catégoriel,,Très vulnérable; Vulnérable; Modérément vulnérable,Vulnérable,Modalités autorisées,Profil
+beneficiaires,taille_menage,Taille ménage,Nombre de personnes,Numérique,personnes,1–12,5,Entier positif,Profil
+beneficiaires,activite_principale,Activité principale,Source principale d’activité,Catégoriel,,Agriculture; Petit commerce; Élevage; Artisanat; Sans activité,Agriculture,Modalités autorisées,Profil
+beneficiaires,date_enregistrement,Date d’enregistrement,Date d’entrée,Date,AAAA-MM-JJ,,2025-03-12,Date valide,Chronologie
+beneficiaires,statut_beneficiaire,Statut,Statut dans programme,Catégoriel,,Actif; Sorti du programme,Actif,Modalités autorisées,Programme
+activites,activite_id,Identifiant activité,Identifiant unique,Texte,,,A00001,"Unique, non vide",PK
+activites,beneficiaire_id,Bénéficiaire,Bénéficiaire concerné,Texte,,B00001…,B00042,Existe dans beneficiaires,FK
+activites,date_activite,Date activité,Date de réalisation,Date,AAAA-MM-JJ,,2025-05-18,>= date_enregistrement,Chronologie
+activites,type_activite,Type activité,Nature de l’activité,Catégoriel,,Formation; Distribution; Accompagnement; Sensibilisation; Appui AGR,Formation,Modalités autorisées,Programme
+activites,modalite,Modalité,Mode de réalisation,Catégoriel,,Présentiel; Communautaire; À distance,Présentiel,Modalités autorisées,Programme
+activites,theme,Thème,Thème de l’activité,Catégoriel,,Dépend du type,Techniques agricoles,Cohérent avec type,Programme
+activites,presence,Présence,Participation,Catégoriel,,Présent; Absent,Présent,Participation,
+activites,duree_minutes,Durée,Durée de l’activité,Numérique,minutes,0–480,120,Contrôle des bornes,Participation
+activites,agent_id,Agent,Agent ayant enregistré,Texte,,AG001–AG040,AG014,Format AG###,Traçabilité
+activites,zone_id,Zone,Zone d’intervention,Texte,,Z001–Z020,Z005,Correspond à la zone bénéficiaire,FK
+suivi_resultats,suivi_id,Identifiant suivi,Identifiant unique,Texte,,,S00001,"Unique, non vide",PK
+suivi_resultats,beneficiaire_id,Bénéficiaire,Bénéficiaire suivi,Texte,,B00001…,B00042,Existe dans beneficiaires,FK
+suivi_resultats,date_suivi,Date suivi,Date de mesure,Date,AAAA-MM-JJ,,2025-07-21,>= date_enregistrement,Chronologie
+suivi_resultats,indicateur_id,Code indicateur,Code de l’indicateur,Texte,,IND01–IND05,IND02,Cohérent,Référence
+suivi_resultats,indicateur,Indicateur,Indicateur mesuré,Catégoriel,,5 indicateurs,revenu_mensuel,Modalités autorisées,Résultat
+suivi_resultats,valeur,Valeur,Valeur observée,Numérique,Variable,Selon indicateur,85000,Règle selon indicateur,Résultat
+suivi_resultats,unite,Unité,Unité de mesure,Texte,,FCFA/mois; score/15; kg; binaire,FCFA/mois,Cohérente avec indicateur,Résultat
+suivi_resultats,source,Source,Source de l’observation,Texte,,Suivi terrain,Suivi terrain,Valeur attendue,Traçabilité
+suivi_resultats,agent_id,Agent,Agent de suivi,Texte,,AG001–AG040,AG014,Format AG###,Traçabilité
+suivi_resultats,zone_id,Zone,Zone d’intervention,Texte,,Z001–Z020,Z005,Correspond à la zone bénéficiaire,FK
+zones,zone_id,Identifiant zone,Identifiant unique,Texte,,,Z001,Unique,PK
+zones,region,Région,Région administrative,Texte,,,Nord,Référentiel,Géographie
+zones,departement,Département,Département,Texte,,,Bénoué,Référentiel,Géographie
+zones,commune,Commune,Commune d’intervention,Texte,,,Garoua 1er,Référentiel,Géographie
+zones,type_zone,Type de zone,Typologie géographique,Catégoriel,,Urbain; Rural,Urbain,Modalités autorisées,Géographie

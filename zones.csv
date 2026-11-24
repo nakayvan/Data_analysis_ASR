@@ -1,0 +1,21 @@
+﻿zone_id,region,departement,commune,type_zone
+Z001,Extrême-Nord,Diamaré,Maroua 1er,Urbain
+Z002,Extrême-Nord,Diamaré,Maroua 2e,Urbain
+Z003,Extrême-Nord,Mayo-Sava,Mora,Rural
+Z004,Extrême-Nord,Mayo-Tsanaga,Mokolo,Rural
+Z005,Nord,Bénoué,Garoua 1er,Urbain
+Z006,Nord,Bénoué,Garoua 2e,Urbain
+Z007,Nord,Faro,Poli,Rural
+Z008,Adamaoua,Vina,Ngaoundéré 1er,Urbain
+Z009,Adamaoua,Vina,Ngaoundéré 2e,Urbain
+Z010,Adamaoua,Mbéré,Meiganga,Rural
+Z011,Nord-Ouest,Mezam,Bamenda 1er,Urbain
+Z012,Nord-Ouest,Boyo,Fundong,Rural
+Z013,Ouest,Mifi,Bafoussam 1er,Urbain
+Z014,Ouest,Noun,Foumban,Rural
+Z015,Centre,Mfoundi,Yaoundé 6e,Urbain
+Z016,Centre,Nyong-et-So'o,Mbalmayo,Rural
+Z017,Littoral,Wouri,Douala 3e,Urbain
+Z018,Littoral,Sanaga-Maritime,Edéa,Rural
+Z019,Est,Lom-et-Djérem,Bertoua 1er,Urbain
+Z020,Est,Haut-Nyong,Abong-Mbang,Rural

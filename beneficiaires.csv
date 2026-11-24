@@ -1,0 +1,1803 @@
+﻿beneficiaire_id,code_menage,sexe,age,zone_id,statut_vulnerabilite,taille_menage,activite_principale,date_enregistrement,statut_beneficiaire
+B00001,M24244,M,44.0,Z014,Modérément vulnérable,7,Agriculture,2025-01-26,Actif
+B00002,M45886,M,59.0,Z001,Vulnérable,6,Élevage,2025-06-03,Actif
+B00003,M67289,M,19.0,Z004,Vulnérable,9,Agriculture,2025-06-08,Actif
+B00004,M90807,M,50.0,Z003,Vulnérable,9,Élevage,2025-03-08,Actif
+B00005,M11588,F,57.0,Z003,Vulnérable,8,Artisanat,2025-03-11,Actif
+B00006,M29577,M,56.0,Z016,Vulnérable,7,Agriculture,2025-05-26,Sorti du programme
+B00007,M65848,F,38.0,Z018,Très vulnérable,6,Élevage,2025-04-22,Actif
+B00008,M74546,M,40.0,Z005,Très vulnérable,9,Élevage,2025-01-21,Actif
+B00009,M76664,M,31.0,Z016,Vulnérable,6,Petit commerce,2025-09-01,Actif
+B00010,M85859,M,46.0,Z018,Vulnérable,12,Agriculture,2025-04-07,Actif
+B00011,M11299,M,39.0,Z010,Modérément vulnérable,7,Agriculture,2025-05-13,Actif
+B00012,M55828,F,35.0,Z005,Vulnérable,5,Petit commerce,2025-05-12,Actif
+B00013,M57652,F,29.0,Z016,Vulnérable,10,Petit commerce,2025-02-08,Actif
+B00014,M35006,F,37.0,Z004,Vulnérable,4,Élevage,2025-04-11,Actif
+B00015,M96018,M,68.0,Z015,Très vulnérable,4,Agriculture,2025-01-05,Actif
+B00016,M79333,M,28.0,Z013,Très vulnérable,7,Élevage,2025-03-21,Actif
+B00017,M81303,F,21.0,Z019,Vulnérable,4,Agriculture,2025-06-09,Actif
+B00018,M90897,M,39.0,Z004,Vulnérable,4,Agriculture,2025-04-03,Actif
+B00019,M82565,F,24.0,Z016,Vulnérable,6,Agriculture,2025-05-20,Actif
+B00020,M12036,M,18.0,Z010,Très vulnérable,7,Agriculture,2025-08-15,Actif
+B00021,M26622,M,32.0,Z004,Vulnérable,8,Agriculture,2025-06-27,Actif
+B00022,M73128,M,27.0,Z003,Vulnérable,2,Petit commerce,2025-07-28,Actif
+B00023,M64806,F,37.0,Z009,Vulnérable,3,Agriculture,2025-04-01,Actif
+B00024,M53537,M,36.0,Z011,Vulnérable,6,Élevage,2025-03-21,Sorti du programme
+B00025,M67727,M,47.0,Z003,Modérément vulnérable,3,Agriculture,2025-08-30,Actif
+B00026,M62058,F,20.0,Z001,Vulnérable,5,Agriculture,2025-01-06,Actif
+B00027,M63752,F,34.0,Z009,Très vulnérable,7,Agriculture,2025-07-07,Actif
+B00028,M87234,F,32.0,Z015,Vulnérable,8,Sans activité,2025-05-31,Actif
+B00029,M25980,F,33.0,Z018,Vulnérable,7,Agriculture,2025-06-21,Actif
+B00030,M15665,M,57.0,Z013,Vulnérable,8,Petit commerce,2025-05-08,Actif
+B00031,M97888,M,59.0,Z018,Très vulnérable,5,Agriculture,2025-03-29,Actif
+B00032,M22242,F,40.0,Z017,Vulnérable,8,Agriculture,2025-03-23,Sorti du programme
+B00033,M10754,F,43.0,Z004,Modérément vulnérable,6,Agriculture,2025-04-28,Actif
+B00034,M57132,F,47.0,Z017,Très vulnérable,6,Agriculture,2025-04-01,Actif
+B00035,M10518,F,48.0,Z015,Modérément vulnérable,7,Agriculture,2025-07-08,Actif
+B00036,M52633,F,50.0,Z005,Très vulnérable,5,Élevage,2025-02-12,Actif
+B00037,M93364,F,24.0,Z016,Très vulnérable,6,Sans activité,2025-08-15,Actif
+B00038,M38025,F,46.0,Z017,Modérément vulnérable,10,,2025-06-11,Actif
+B00039,M37511,F,51.0,Z005,Vulnérable,5,Agriculture,2025-03-30,Actif
+B00040,M40630,F,19.0,Z010,Modérément vulnérable,4,Petit commerce,2025-07-10,Actif
+B00041,M23228,M,37.0,Z001,Vulnérable,6,Agriculture,2025-05-14,Actif
+B00042,M44596,F,18.0,Z011,Très vulnérable,6,Élevage,2025-01-10,Actif
+B00043,M65440,F,18.0,Z004,Modérément vulnérable,7,Sans activité,2025-01-23,Actif
+B00044,M35908,F,34.0,Z015,Vulnérable,6,Artisanat,2025-02-28,Actif
+B00045,M86816,M,50.0,Z003,Vulnérable,5,Agriculture,2025-02-07,Actif
+B00046,M32843,M,54.0,Z006,Très vulnérable,3,Agriculture,2025-02-02,Actif
+B00047,M28363,M,41.0,Z001,Vulnérable,5,Agriculture,2025-04-02,Actif
+B00048,M62371,F,23.0,Z001,Modérément vulnérable,5,Agriculture,2025-04-16,Actif
+B00049,M95688,M,50.0,Z009,Vulnérable,4,Agriculture,2025-04-09,Actif
+B00050,M57781,F,31.0,Z009,Vulnérable,3,Élevage,2025-08-12,Actif
+B00051,M66747,F,38.0,Z002,Très vulnérable,6,Agriculture,2025-04-24,Actif
+B00052,M94186,F,37.0,Z005,Vulnérable,6,Agriculture,2025-03-07,Actif
+B00053,M54837,F,55.0,Z001,Très vulnérable,8,Sans activité,2025-04-11,Actif
+B00054,M10249,M,58.0,Z007,Vulnérable,9,Artisanat,2025-06-08,Actif
+B00055,M76074,F,46.0,Z011,Vulnérable,10,Petit commerce,2025-05-06,Actif
+B00056,M35893,M,51.0,Z008,Très vulnérable,7,Sans activité,2025-01-30,Actif
+B00057,M99978,F,38.0,Z017,Très vulnérable,5,Sans activité,2025-01-08,Actif
+B00058,M35620,Femme,25.0,Z012,Vulnérable,6,Agriculture,2025-08-09,Actif
+B00059,M89680,F,37.0,Z005,Modérément vulnérable,9,Petit commerce,2025-02-06,Actif
+B00060,M70225,M,54.0,Z016,Vulnérable,10,Agriculture,2025-07-31,Actif
+B00061,M21570,M,37.0,Z009,Vulnérable,4,Artisanat,2025-04-13,Actif
+B00062,M56619,M,33.0,Z015,Très vulnérable,6,Agriculture,2025-05-01,Actif
+B00063,M25424,F,35.0,Z011,Très vulnérable,6,Élevage,2025-07-22,Actif
+B00064,M84731,M,26.0,Z008,Vulnérable,6,Agriculture,2025-05-03,Actif
+B00065,M52383,M,50.0,Z007,Vulnérable,6,Élevage,2025-03-08,Actif
+B00066,M46723,M,59.0,Z001,Vulnérable,4,Agriculture,2025-06-02,Actif
+B00067,M89360,M,28.0,Z009,Vulnérable,7,Petit commerce,2025-02-19,Actif
+B00068,M70318,M,46.0,Z013,Vulnérable,2,Agriculture,2025-03-25,Actif
+B00069,M98489,F,20.0,Z019,Vulnérable,6,Petit commerce,2025-08-06,Actif
+B00070,M73851,M,51.0,Z008,Modérément vulnérable,6,Artisanat,2025-05-06,Actif
+B00071,M49603,M,37.0,Z009,Vulnérable,6,Agriculture,2025-07-16,Actif
+B00072,M97932,M,28.0,Z010,Vulnérable,4,Agriculture,2025-02-27,Actif
+B00073,M66134,M,31.0,Z008,Vulnérable,5,Agriculture,2025-08-30,Actif
+B00074,M21762,M,35.0,Z011,Très vulnérable,5,Sans activité,2025-03-27,Actif
+B00075,M44790,F,43.0,Z001,Vulnérable,5,Agriculture,2025-03-11,Actif
+B00076,M77138,F,25.0,Z009,Modérément vulnérable,7,Petit commerce,2025-06-08,Actif
+B00077,M26403,M,32.0,Z012,Très vulnérable,5,Agriculture,2025-08-16,Actif
+B00078,M15828,M,24.0,Z015,Très vulnérable,7,Sans activité,2025-06-09,Actif
+B00079,M55902,M,50.0,Z008,Très vulnérable,8,Élevage,2025-08-25,Actif
+B00080,M65705,M,43.0,Z005,Vulnérable,4,Agriculture,2025-01-28,Actif
+B00081,M92699,F,46.0,Z001,Vulnérable,9,Artisanat,2025-04-05,Actif
+B00082,M19654,F,33.0,Z015,Très vulnérable,8,Agriculture,2025-01-30,Actif
+B00083,M30713,F,62.0,Z002,Vulnérable,5,Agriculture,2025-07-14,Actif
+B00084,M15566,F,30.0,Z009,Vulnérable,4,Agriculture,2025-03-19,Actif
+B00085,M25590,F,,Z005,Très vulnérable,5,Élevage,2025-02-09,Actif
+B00086,M65326,M,48.0,Z017,Modérément vulnérable,4,Artisanat,2025-02-15,Actif
+B00087,M55260,F,23.0,Z019,Modérément vulnérable,4,Artisanat,2025-05-14,Actif
+B00088,M86060,F,53.0,Z006,Très vulnérable,3,Artisanat,2025-03-13,Actif
+B00089,M77421,F,44.0,Z018,Modérément vulnérable,10,Agriculture,2025-07-13,Actif
+B00090,M22410,M,44.0,Z006,Vulnérable,8,Sans activité,2025-06-18,Actif
+B00091,M56738,F,53.0,Z016,Vulnérable,7,Agriculture,2025-01-22,Actif
+B00092,M77451,F,55.0,Z016,Vulnérable,5,Agriculture,2025-07-11,Actif
+B00093,M55653,M,42.0,Z013,Modérément vulnérable,4,Agriculture,2025-07-11,Actif
+B00094,M37893,F,43.0,Z004,Très vulnérable,6,Agriculture,2025-07-11,Actif
+B00095,M82775,M,31.0,Z003,Vulnérable,5,Agriculture,2025-04-12,Actif
+B00096,M24206,M,18.0,Z008,Modérément vulnérable,6,Sans activité,2025-05-20,Actif
+B00097,M19015,M,34.0,Z003,Très vulnérable,9,Agriculture,2025-05-04,Actif
+B00098,M92309,F,18.0,Z017,Vulnérable,5,Agriculture,2025-08-03,Actif
+B00099,M30779,M,36.0,Z003,Très vulnérable,9,Élevage,2025-08-01,Sorti du programme
+B00100,M51407,F,56.0,Z001,Très vulnérable,6,Agriculture,2025-07-08,Actif
+B00101,M47961,F,37.0,Z011,Vulnérable,5,Sans activité,2025-02-22,Sorti du programme
+B00102,M71814,F,46.0,Z008,Très vulnérable,3,Artisanat,2025-01-11,Actif
+B00103,M65914,F,35.0,Z017,Vulnérable,7,Artisanat,2025-08-03,Actif
+B00104,M65184,F,42.0,Z003,Très vulnérable,4,Artisanat,2025-08-27,Actif
+B00105,M67989,M,37.0,Z006,Vulnérable,10,Agriculture,2025-05-27,Actif
+B00106,M61475,M,53.0,Z013,Modérément vulnérable,6,Agriculture,2025-04-19,Actif
+B00107,M59740,F,40.0,Z019,Vulnérable,6,Élevage,2025-05-02,Actif
+B00108,M26603,F,18.0,Z005,Vulnérable,6,Sans activité,2025-04-23,Actif
+B00109,M89138,F,27.0,Z014,Vulnérable,5,Agriculture,2025-08-28,Actif
+B00110,M47760,F,35.0,Z003,Vulnérable,7,Élevage,2025-08-01,Actif
+B00111,M39966,F,26.0,Z015,Très vulnérable,6,Petit commerce,2025-06-22,Actif
+B00112,M82129,M,41.0,Z005,Vulnérable,9,Agriculture,2025-02-12,Actif
+B00113,M71270,F,33.0,Z005,Vulnérable,9,Agriculture,2025-08-25,Actif
+B00114,M33394,M,18.0,Z004,Vulnérable,6,Agriculture,2025-06-30,Actif
+B00115,M84174,F,48.0,Z007,Vulnérable,3,Sans activité,2025-06-06,Actif
+B00116,M17413,M,35.0,Z006,Vulnérable,4,Agriculture,2025-05-14,Actif
+B00117,M33467,M,30.0,Z012,Modérément vulnérable,5,Agriculture,2025-08-16,Actif
+B00118,M71607,F,40.0,Z010,Très vulnérable,4,Agriculture,2025-03-19,Actif
+B00119,M92458,M,37.0,Z015,Modérément vulnérable,8,Petit commerce,2025-03-09,Actif
+B00120,M77728,M,24.0,Z005,Modérément vulnérable,7,Petit commerce,2025-02-13,Actif
+B00121,M86560,M,36.0,Z019,Modérément vulnérable,4,Agriculture,2025-02-05,Actif
+B00122,M84594,M,23.0,Z010,Très vulnérable,6,Petit commerce,2025-04-19,Actif
+B00123,M63992,F,65.0,Z014,Vulnérable,8,Artisanat,2025-07-23,Actif
+B00124,M65588,F,38.0,Z014,Vulnérable,5,Petit commerce,2025-01-24,Actif
+B00125,M44310,M,43.0,Z003,Très vulnérable,3,Agriculture,2025-08-16,Actif
+B00126,M36783,F,53.0,Z003,Modérément vulnérable,6,Agriculture,2025-07-03,Actif
+B00127,M16045,M,58.0,Z009,Vulnérable,10,Agriculture,2025-06-12,Actif
+B00128,M25655,M,34.0,Z010,Vulnérable,4,Agriculture,2025-04-12,Actif
+B00129,M71445,M,58.0,Z005,Vulnérable,7,Agriculture,2025-01-21,Actif
+B00130,M37517,F,18.0,Z003,Vulnérable,9,Élevage,2025-06-25,Actif
+B00131,M80919,F,54.0,Z009,Très vulnérable,8,Agriculture,2025-01-30,Actif
+B00132,M10183,F,64.0,Z013,Très vulnérable,9,Petit commerce,2025-07-28,Actif
+B00133,M98803,F,45.0,Z004,Vulnérable,7,Agriculture,2025-08-10,Actif
+B00134,M32933,M,46.0,Z004,Vulnérable,3,Sans activité,2025-01-14,Actif
+B00135,M70543,F,46.0,Z019,Très vulnérable,9,Agriculture,2025-03-14,Sorti du programme
+B00136,M53310,F,27.0,Z015,Vulnérable,9,Agriculture,2025-08-25,Actif
+B00137,M42749,F,32.0,Z001,Très vulnérable,9,Artisanat,2025-07-15,Actif
+B00138,M85121,M,37.0,Z020,Très vulnérable,5,Agriculture,2025-08-09,Actif
+B00139,M82740,M,55.0,Z001,Modérément vulnérable,4,Petit commerce,2025-01-06,Actif
+B00140,M33294,F,50.0,Z005,Vulnérable,6,Sans activité,2025-05-10,Actif
+B00141,M83808,M,50.0,Z018,Vulnérable,8,Élevage,2025-03-26,Actif
+B00142,M20067,M,47.0,Z002,Vulnérable,7,Sans activité,2025-01-15,Actif
+B00143,M98427,F,42.0,Z017,Vulnérable,4,Agriculture,2025-07-23,Actif
+B00144,M37915,F,41.0,Z003,Modérément vulnérable,5,Agriculture,2025-05-01,Actif
+B00145,M95522,M,32.0,Z003,Vulnérable,5,Sans activité,2025-04-19,Actif
+B00146,M82777,F,31.0,Z015,Vulnérable,5,Petit commerce,2025-01-29,Actif
+B00147,M57053,F,45.0,Z018,Vulnérable,3,Petit commerce,2025-05-17,Actif
+B00148,M95600,F,59.0,Z009,Vulnérable,6,Sans activité,2025-06-09,Actif
+B00149,M19338,F,39.0,Z001,Vulnérable,6,Petit commerce,2025-03-17,Actif
+B00150,M16807,F,56.0,Z006,Vulnérable,8,Petit commerce,2025-06-27,Actif
+B00151,M75282,F,44.0,Z001,Modérément vulnérable,9,Agriculture,2025-01-30,Actif
+B00152,M80504,F,26.0,Z006,Vulnérable,8,Sans activité,2025-03-26,Actif
+B00153,M16136,M,34.0,Z013,Très vulnérable,7,Agriculture,2025-05-06,Sorti du programme
+B00154,M51453,M,51.0,Z005,Vulnérable,5,Petit commerce,2025-03-20,Actif
+B00155,M12291,F,39.0,Z013,Vulnérable,5,Sans activité,2025-01-09,Actif
+B00156,M51237,F,33.0,Z019,Très vulnérable,7,Petit commerce,2025-04-20,Actif
+B00157,M72403,F,42.0,Z009,Très vulnérable,5,Petit commerce,2025-03-14,Actif
+B00158,M55925,F,38.0,Z004,Très vulnérable,7,Agriculture,2025-02-16,Actif
+B00159,M40895,F,36.0,Z018,Très vulnérable,5,Agriculture,2025-06-27,Actif
+B00160,M78228,F,19.0,Z019,Très vulnérable,5,Petit commerce,2025-06-11,Actif
+B00161,M55019,F,36.0,Z003,Très vulnérable,10,Petit commerce,2025-05-02,Actif
+B00162,M92481,F,34.0,Z018,Vulnérable,7,Artisanat,2025-04-19,Actif
+B00163,M16012,F,45.0,Z005,Vulnérable,7,Élevage,2025-06-28,Actif
+B00164,M21563,F,44.0,Z002,Vulnérable,7,Petit commerce,2025-06-02,Actif
+B00165,M50157,M,38.0,Z002,Modérément vulnérable,3,Agriculture,2025-07-04,Actif
+B00166,M33272,F,67.0,Z015,Vulnérable,8,Agriculture,2025-04-08,Actif
+B00167,M19380,F,47.0,Z002,Très vulnérable,6,Agriculture,2025-01-29,Actif
+B00168,M72708,F,45.0,Z015,Très vulnérable,2,Petit commerce,2025-06-20,Actif
+B00169,M38078,M,18.0,Z005,Vulnérable,5,Agriculture,2025-08-18,Actif
+B00170,M10525,F,18.0,Z008,Modérément vulnérable,8,Agriculture,2025-03-02,Actif
+B00171,M87301,F,50.0,Z003,Vulnérable,7,Agriculture,2025-02-26,Actif
+B00172,M72306,M,23.0,Z013,Vulnérable,4,Artisanat,2025-05-27,Actif
+B00173,M79713,M,27.0,Z009,Vulnérable,10,Petit commerce,2025-08-02,Actif
+B00174,M51365,F,28.0,Z007,Vulnérable,6,Agriculture,2025-02-08,Actif
+B00175,M18180,F,48.0,Z016,Vulnérable,5,Sans activité,2025-08-13,Actif
+B00176,M50546,F,47.0,Z009,Vulnérable,3,Petit commerce,2025-08-26,Actif
+B00177,M33855,M,44.0,Z014,Vulnérable,4,Agriculture,2025-07-08,Actif
+B00178,M76618,F,45.0,Z015,Vulnérable,8,Sans activité,2025-04-23,Actif
+B00179,M73418,F,25.0,Z012,Vulnérable,7,Agriculture,2025-01-25,Actif
+B00180,M42581,M,38.0,Z019,Vulnérable,5,Petit commerce,2025-03-17,Actif
+B00181,M43864,M,68.0,Z010,Vulnérable,8,Artisanat,2025-06-14,Actif
+B00182,M22348,F,28.0,Z004,Vulnérable,5,Agriculture,2025-03-29,Sorti du programme
+B00183,M45464,M,18.0,Z010,Très vulnérable,8,Sans activité,2025-07-04,Actif
+B00184,M68658,F,25.0,Z005,Vulnérable,6,Agriculture,2025-03-08,Actif
+B00185,M25250,F,29.0,Z002,Très vulnérable,8,Petit commerce,2025-07-30,Actif
+B00186,M80460,F,34.0,Z015,Très vulnérable,6,Artisanat,2025-03-30,Actif
+B00187,M70221,F,43.0,Z005,Vulnérable,6,Sans activité,2025-07-31,Actif
+B00188,M95700,F,44.0,Z006,Vulnérable,8,Agriculture,2025-08-06,Actif
+B00189,M39938,M,36.0,Z020,Vulnérable,5,Sans activité,2025-02-06,Actif
+B00190,M36086,F,40.0,Z008,Vulnérable,4,Agriculture,2025-06-30,Actif
+B00191,M73131,F,36.0,Z008,Vulnérable,6,Petit commerce,2025-06-09,Actif
+B00192,M71972,M,25.0,Z018,Très vulnérable,7,Sans activité,2025-06-15,Actif
+B00193,M45025,F,40.0,Z015,Modérément vulnérable,5,Agriculture,2025-01-31,Actif
+B00194,M79293,M,52.0,Z017,Vulnérable,10,Petit commerce,2025-09-01,Actif
+B00195,M75768,M,56.0,Z009,Vulnérable,3,Élevage,2025-06-02,Actif
+B00196,M51253,M,23.0,Z004,Très vulnérable,8,Agriculture,2025-04-20,Actif
+B00197,M87583,M,45.0,Z001,Très vulnérable,5,Agriculture,2025-06-19,Actif
+B00198,M94488,M,35.0,Z002,Vulnérable,5,Élevage,2025-04-21,Actif
+B00199,M70055,F,33.0,Z003,Très vulnérable,7,Artisanat,2025-03-31,Actif
+B00200,M78685,F,31.0,Z005,Vulnérable,2,Agriculture,2025-04-03,Actif
+B00201,M85186,F,47.0,Z015,Très vulnérable,9,Agriculture,2025-01-21,Actif
+B00202,M22319,F,27.0,Z004,Très vulnérable,7,Élevage,2025-02-05,Actif
+B00203,M50521,F,18.0,Z008,Modérément vulnérable,3,Petit commerce,2025-03-16,Actif
+B00204,M60098,F,31.0,Z009,Vulnérable,6,Sans activité,2025-04-14,Actif
+B00205,M28349,M,55.0,Z006,Vulnérable,7,Petit commerce,2025-07-16,Actif
+B00206,M51822,F,34.0,Z003,Vulnérable,5,Agriculture,2025-08-04,Actif
+B00207,M36624,M,41.0,Z005,Très vulnérable,4,Petit commerce,2025-04-08,Sorti du programme
+B00208,M31925,M,35.0,Z017,Très vulnérable,3,Petit commerce,2025-08-12,Actif
+B00209,M34988,M,53.0,Z020,Modérément vulnérable,5,Agriculture,2025-02-14,Actif
+B00210,M22142,M,45.0,Z007,Vulnérable,6,Agriculture,2025-08-26,Actif
+B00211,M79393,M,70.0,Z009,Très vulnérable,7,Agriculture,2025-02-19,Actif
+B00212,M58687,F,48.0,Z006,Très vulnérable,7,Petit commerce,2025-09-01,Actif
+B00213,M90501,F,21.0,Z007,Très vulnérable,4,Petit commerce,2025-01-10,Actif
+B00214,M92516,F,39.0,Z014,Modérément vulnérable,9,Petit commerce,2025-02-23,Actif
+B00215,M13459,F,59.0,Z015,Vulnérable,6,,2025-03-11,Actif
+B00216,M78709,F,18.0,Z006,Vulnérable,7,Agriculture,2025-07-02,Actif
+B00217,M19039,M,63.0,Z003,Vulnérable,5,Agriculture,2025-08-16,Actif
+B00218,M23667,F,38.0,Z014,Très vulnérable,10,Agriculture,2025-08-05,Actif
+B00219,M15716,M,30.0,Z008,Vulnérable,11,Agriculture,2025-04-09,Actif
+B00220,M86191,F,28.0,Z018,Vulnérable,4,Agriculture,2025-07-04,Sorti du programme
+B00221,M57691,M,35.0,Z008,Vulnérable,9,Artisanat,2025-06-26,Actif
+B00222,M29963,F,39.0,Z001,Vulnérable,3,Petit commerce,2025-08-24,Actif
+B00223,M75440,M,28.0,Z015,Vulnérable,5,Artisanat,2025-01-21,Actif
+B00224,M83514,F,34.0,Z020,Modérément vulnérable,4,Agriculture,2025-01-18,Actif
+B00225,M31876,F,58.0,Z009,Vulnérable,7,Artisanat,2025-01-12,Actif
+B00226,M93236,M,27.0,Z019,Vulnérable,4,Agriculture,2025-01-05,Actif
+B00227,M92415,F,38.0,Z003,Très vulnérable,2,Petit commerce,2025-08-28,Actif
+B00228,M51015,F,49.0,Z004,Vulnérable,6,Sans activité,2025-01-29,Actif
+B00229,M26178,M,59.0,Z006,Vulnérable,10,Agriculture,2025-01-18,Actif
+B00230,M73385,F,35.0,Z008,Vulnérable,7,Petit commerce,2025-02-19,Actif
+B00231,M75041,F,41.0,Z018,Vulnérable,9,Artisanat,2025-04-06,Actif
+B00232,M53033,F,24.0,Z020,Vulnérable,2,Artisanat,2025-02-13,Actif
+B00233,M76389,M,41.0,Z010,Modérément vulnérable,9,Petit commerce,2025-04-14,Actif
+B00234,M48283,F,44.0,Z014,Vulnérable,6,Sans activité,2025-05-29,Actif
+B00235,M89084,M,42.0,Z013,Vulnérable,5,Artisanat,2025-06-10,Sorti du programme
+B00236,M52762,M,34.0,Z017,Vulnérable,4,Agriculture,2025-01-09,Actif
+B00237,M16541,F,42.0,Z002,Vulnérable,9,Agriculture,2025-04-24,Actif
+B00238,M40298,F,18.0,Z011,Vulnérable,5,Agriculture,2025-06-02,Actif
+B00239,M80354,M,51.0,Z016,Très vulnérable,5,Artisanat,2025-03-03,Actif
+B00240,M42994,F,20.0,Z015,Très vulnérable,10,Agriculture,2025-02-26,Actif
+B00241,M70951,F,24.0,Z015,Très vulnérable,4,Petit commerce,2025-04-09,Actif
+B00242,M26960,M,18.0,Z020,Très vulnérable,7,Artisanat,2025-05-04,Actif
+B00243,M34704,M,29.0,Z001,Vulnérable,2,Sans activité,2025-08-17,Actif
+B00244,M68205,F,41.0,Z002,Vulnérable,7,Agriculture,2025-07-09,Actif
+B00245,M88075,M,54.0,Z003,Vulnérable,8,Agriculture,2025-06-16,Actif
+B00246,M97786,M,61.0,Z011,Modérément vulnérable,4,Élevage,2025-01-27,Actif
+B00247,M11884,F,57.0,Z008,Très vulnérable,5,Agriculture,2025-04-01,Actif
+B00248,M24724,M,40.0,Z001,Vulnérable,9,Élevage,2025-05-13,Actif
+B00249,M61883,M,29.0,Z005,Vulnérable,4,Agriculture,2025-06-08,Actif
+B00250,M45163,F,34.0,Z007,Vulnérable,12,Élevage,2025-07-02,Actif
+B00251,M95623,F,37.0,Z010,Modérément vulnérable,4,Élevage,2025-07-12,Actif
+B00252,M35463,F,45.0,Z015,Vulnérable,5,Agriculture,2025-08-30,Actif
+B00253,M58723,M,37.0,Z009,Modérément vulnérable,4,Petit commerce,2025-01-08,Actif
+B00254,M79571,M,47.0,Z016,Très vulnérable,7,Petit commerce,2025-06-20,Actif
+B00255,M73307,F,20.0,Z010,Vulnérable,6,Agriculture,2025-05-06,Sorti du programme
+B00256,M42462,M,34.0,Z006,Modérément vulnérable,7,Artisanat,2025-08-18,Actif
+B00257,M80248,M,32.0,Z016,Très vulnérable,4,Sans activité,2025-01-05,Actif
+B00258,M10388,M,33.0,Z003,Vulnérable,4,Agriculture,2025-05-26,Actif
+B00259,M17732,M,39.0,Z018,Vulnérable,5,Sans activité,2025-05-22,Actif
+B00260,M38200,F,40.0,Z013,Très vulnérable,5,Agriculture,2025-02-01,Actif
+B00261,M83204,F,42.0,Z019,Vulnérable,6,Agriculture,2025-07-14,Actif
+B00262,M52830,M,37.0,Z004,Très vulnérable,2,Élevage,2025-07-18,Actif
+B00263,M19023,F,47.0,Z004,Vulnérable,7,Agriculture,2025-01-22,Actif
+B00264,M24284,F,36.0,Z008,Très vulnérable,10,Sans activité,2025-08-31,Actif
+B00265,M16912,F,25.0,Z003,Modérément vulnérable,5,Élevage,2025-01-12,Actif
+B00266,M25640,F,49.0,Z001,Vulnérable,6,Agriculture,2025-06-25,Actif
+B00267,M89245,F,26.0,Z006,Vulnérable,4,Agriculture,2025-03-03,Actif
+B00268,M23067,F,58.0,Z015,Modérément vulnérable,7,Sans activité,2025-08-05,Actif
+B00269,M44961,M,24.0,Z018,Vulnérable,3,Petit commerce,2025-01-14,Actif
+B00270,M87009,F,27.0,Z004,Vulnérable,2,Agriculture,2025-06-30,Actif
+B00271,M32588,F,45.0,Z019,Vulnérable,5,Artisanat,2025-03-27,Actif
+B00272,M26684,M,47.0,Z002,Très vulnérable,9,Agriculture,2025-06-02,Actif
+B00273,M47285,F,38.0,Z002,Très vulnérable,9,Élevage,2025-04-03,Actif
+B00274,M55740,M,43.0,Z014,Modérément vulnérable,8,Agriculture,2025-01-13,Actif
+B00275,M47168,F,55.0,Z001,Vulnérable,7,Sans activité,2025-04-16,Actif
+B00276,M41965,M,56.0,Z019,Modérément vulnérable,8,Élevage,2025-08-11,Actif
+B00277,M17949,F,22.0,Z005,Vulnérable,6,Petit commerce,2025-07-13,Actif
+B00278,M98752,M,54.0,Z002,Vulnérable,5,Artisanat,2025-07-04,Actif
+B00279,M14220,F,28.0,Z015,Vulnérable,5,Élevage,2025-03-30,Actif
+B00280,M74347,M,45.0,Z008,Vulnérable,3,Sans activité,2025-01-07,Actif
+B00281,M98778,F,61.0,Z018,Très vulnérable,6,Agriculture,2025-05-26,Actif
+B00282,M53255,F,38.0,Z009,Vulnérable,5,Petit commerce,2025-08-13,Actif
+B00283,M17456,M,29.0,Z001,Très vulnérable,4,Agriculture,2025-04-08,Sorti du programme
+B00284,M91781,M,34.0,Z003,Vulnérable,2,Sans activité,2025-06-01,Actif
+B00285,M28002,M,26.0,Z002,Vulnérable,8,Artisanat,2025-02-05,Actif
+B00286,M32073,F,46.0,Z003,Modérément vulnérable,6,Petit commerce,2025-05-27,Actif
+B00287,M27134,F,33.0,Z005,Modérément vulnérable,6,Sans activité,2025-08-30,Actif
+B00288,M13549,M,18.0,Z001,Vulnérable,5,Agriculture,2025-06-09,Actif
+B00289,M54408,F,30.0,Z017,Vulnérable,4,Petit commerce,2025-05-12,Actif
+B00290,M34509,M,31.0,Z013,Modérément vulnérable,5,Agriculture,2025-06-01,Sorti du programme
+B00291,M70272,M,47.0,Z008,Vulnérable,6,Agriculture,2025-08-31,Actif
+B00292,M59102,F,47.0,Z018,Très vulnérable,3,Agriculture,2025-07-26,Actif
+B00293,M32816,F,42.0,Z012,Modérément vulnérable,5,Petit commerce,2025-03-11,Actif
+B00294,M97044,F,46.0,Z014,Vulnérable,5,Élevage,2025-03-31,Actif
+B00295,M39351,F,40.0,Z014,Vulnérable,7,Petit commerce,2025-06-10,Actif
+B00296,M44492,F,51.0,Z008,Vulnérable,7,Agriculture,2025-01-16,Sorti du programme
+B00297,M45887,F,26.0,Z005,Très vulnérable,6,Agriculture,2025-07-10,Actif
+B00298,M66048,F,59.0,Z018,Très vulnérable,7,Agriculture,2025-03-13,Actif
+B00299,M92079,F,19.0,Z007,Très vulnérable,4,Agriculture,2025-06-16,Actif
+B00300,M58795,M,23.0,Z008,Très vulnérable,5,Sans activité,2025-07-02,Actif
+B00301,M84629,F,49.0,Z005,Vulnérable,5,Petit commerce,2025-08-22,Actif
+B00302,M72073,F,41.0,Z011,Très vulnérable,10,Agriculture,2025-03-01,Actif
+B00303,M32453,F,36.0,Z010,Vulnérable,7,Agriculture,2025-04-09,Actif
+B00304,M50772,F,52.0,Z008,Très vulnérable,5,Agriculture,2025-07-16,Actif
+B00305,M72987,F,60.0,Z006,Très vulnérable,9,Sans activité,2025-07-05,Actif
+B00306,M34745,M,36.0,Z010,Modérément vulnérable,4,Agriculture,2025-03-03,Sorti du programme
+B00307,M69594,M,50.0,Z007,Vulnérable,6,Agriculture,2025-03-06,Actif
+B00308,M57869,F,42.0,Z015,Très vulnérable,6,Élevage,2025-03-19,Actif
+B00309,M35016,M,19.0,Z003,Très vulnérable,5,Agriculture,2025-01-21,Actif
+B00310,M46642,F,41.0,Z014,Très vulnérable,10,Élevage,2025-01-27,Actif
+B00311,M43912,F,51.0,Z004,Modérément vulnérable,5,Agriculture,2025-05-30,Sorti du programme
+B00312,M13569,Feminin,33.0,Z019,Très vulnérable,9,Agriculture,2025-07-21,Actif
+B00313,M57837,F,57.0,Z007,Très vulnérable,6,Sans activité,2025-01-14,Actif
+B00314,M95709,F,41.0,Z006,Vulnérable,6,Artisanat,2025-05-13,Actif
+B00315,M62555,F,52.0,Z018,Vulnérable,2,Agriculture,2025-04-02,Actif
+B00316,M98279,F,40.0,Z001,Vulnérable,8,Élevage,2025-06-25,Actif
+B00317,M84204,M,40.0,Z020,Modérément vulnérable,5,Petit commerce,2025-01-18,Actif
+B00318,M24553,M,46.0,Z019,Très vulnérable,4,Artisanat,2025-02-27,Sorti du programme
+B00319,M53616,F,21.0,Z013,Très vulnérable,5,Artisanat,2025-07-17,Actif
+B00320,M92466,F,32.0,Z011,Vulnérable,4,Agriculture,2025-01-06,Actif
+B00321,M43387,M,53.0,Z010,Modérément vulnérable,4,Agriculture,2025-05-27,Actif
+B00322,M83160,M,40.0,Z002,Modérément vulnérable,2,Petit commerce,2025-07-04,Actif
+B00323,M71494,F,33.0,Z002,Vulnérable,9,Agriculture,2025-01-24,Actif
+B00324,M80397,M,43.0,Z014,Vulnérable,6,Artisanat,2025-02-11,Actif
+B00325,M45874,M,63.0,Z019,Vulnérable,6,Sans activité,2025-01-08,Actif
+B00326,M72205,M,18.0,Z010,Vulnérable,5,Sans activité,2025-04-04,Actif
+B00327,M66181,F,39.0,Z001,Modérément vulnérable,5,Sans activité,2025-06-12,Actif
+B00328,M68348,F,34.0,Z017,Modérément vulnérable,5,Agriculture,2025-07-29,Actif
+B00329,M26693,M,26.0,Z017,Très vulnérable,8,Agriculture,2025-02-14,Actif
+B00330,M63023,F,64.0,Z006,Vulnérable,4,Agriculture,2025-02-08,Actif
+B00331,M56239,F,35.0,Z014,Modérément vulnérable,7,Petit commerce,2025-05-16,Sorti du programme
+B00332,M28873,M,53.0,Z003,Vulnérable,6,Sans activité,2025-02-06,Actif
+B00333,M97271,M,23.0,Z003,Très vulnérable,4,Petit commerce,2025-03-24,Actif
+B00334,M98836,F,20.0,Z014,Très vulnérable,6,Agriculture,2025-06-09,Actif
+B00335,M68383,M,18.0,Z010,Modérément vulnérable,5,Agriculture,2025-05-02,Actif
+B00336,M89231,F,51.0,Z011,Modérément vulnérable,7,Agriculture,2025-04-15,Actif
+B00337,M21806,M,69.0,Z010,Vulnérable,7,Sans activité,2025-04-18,Actif
+B00338,M12157,F,52.0,Z019,Vulnérable,4,Sans activité,2025-04-20,Actif
+B00339,M90917,M,34.0,Z015,Très vulnérable,6,Sans activité,2025-08-01,Actif
+B00340,M98203,M,31.0,Z018,Très vulnérable,5,Agriculture,2025-06-29,Actif
+B00341,M45407,M,41.0,Z005,Très vulnérable,11,Petit commerce,2025-03-08,Sorti du programme
+B00342,M60282,F,43.0,Z020,Très vulnérable,6,Agriculture,2025-01-13,Actif
+B00343,M42436,F,18.0,Z016,Très vulnérable,6,Agriculture,2025-04-15,Sorti du programme
+B00344,M79003,M,60.0,Z002,Vulnérable,5,Agriculture,2025-06-01,Actif
+B00345,M31302,M,38.0,Z002,Vulnérable,6,Agriculture,2025-03-11,Actif
+B00346,M85557,F,51.0,Z004,Très vulnérable,4,Petit commerce,2025-08-10,Actif
+B00347,M37054,F,65.0,Z006,Modérément vulnérable,5,Artisanat,2025-06-12,Sorti du programme
+B00348,M34920,F,61.0,Z004,Vulnérable,8,Agriculture,2025-02-06,Actif
+B00349,M14198,M,26.0,Z001,Vulnérable,3,Agriculture,2025-06-16,Actif
+B00350,M20151,F,26.0,Z008,Vulnérable,5,Agriculture,2025-02-12,Actif
+B00351,M37591,M,18.0,Z005,Vulnérable,6,Petit commerce,2025-05-20,Actif
+B00352,M56756,M,55.0,Z009,Vulnérable,6,Agriculture,2025-04-18,Actif
+B00353,M31739,M,18.0,Z015,Modérément vulnérable,4,Petit commerce,2025-02-18,Actif
+B00354,M59531,M,46.0,Z006,Vulnérable,9,Agriculture,2025-04-17,Actif
+B00355,M22981,M,30.0,Z001,Vulnérable,11,Petit commerce,2025-08-11,Actif
+B00356,M34226,M,39.0,Z017,Vulnérable,5,Agriculture,2025-07-02,Actif
+B00357,M41956,F,29.0,Z009,Très vulnérable,4,Agriculture,2025-06-01,Actif
+B00358,M51029,M,30.0,Z005,Modérément vulnérable,7,Agriculture,2025-06-24,Actif
+B00359,M26186,M,51.0,Z019,Vulnérable,3,Agriculture,2025-06-06,Actif
+B00360,M20307,M,43.0,Z015,Très vulnérable,4,Petit commerce,2025-01-26,Actif
+B00361,M24540,F,37.0,Z008,Vulnérable,3,Petit commerce,2025-05-19,Actif
+B00362,M81768,F,48.0,Z006,Vulnérable,5,Sans activité,2025-08-16,Actif
+B00363,M93498,F,23.0,Z001,Vulnérable,11,Artisanat,2025-05-31,Actif
+B00364,M95255,M,44.0,Z005,Modérément vulnérable,4,Agriculture,2025-04-30,Actif
+B00365,M40153,M,28.0,Z014,Modérément vulnérable,3,Artisanat,2025-07-07,Actif
+B00366,M10189,F,39.0,Z001,Très vulnérable,7,Agriculture,2025-09-01,Actif
+B00367,M22754,F,42.0,Z007,Vulnérable,7,Sans activité,2025-04-07,Actif
+B00368,M39306,M,51.0,Z012,Modérément vulnérable,11,Agriculture,2025-03-13,Actif
+B00369,M40504,F,29.0,Z015,Vulnérable,6,Agriculture,2025-01-07,Actif
+B00370,M45456,F,37.0,Z015,Vulnérable,6,Élevage,2025-02-27,Actif
+B00371,M15859,F,18.0,Z005,Vulnérable,8,Agriculture,2025-08-17,Actif
+B00372,M25369,F,39.0,Z006,Vulnérable,4,Artisanat,2025-01-25,Actif
+B00373,M87129,F,54.0,Z003,Vulnérable,3,Petit commerce,2025-08-29,Actif
+B00374,M98023,M,67.0,Z015,Modérément vulnérable,4,Agriculture,2025-04-30,Actif
+B00375,M70944,F,40.0,Z005,Vulnérable,10,Artisanat,2025-05-31,Actif
+B00376,M30621,F,22.0,Z009,Vulnérable,8,Élevage,2025-04-17,Actif
+B00377,M34680,M,52.0,Z018,Très vulnérable,7,Élevage,2025-05-17,Actif
+B00378,M78044,F,37.0,Z001,Vulnérable,5,Agriculture,2025-06-15,Actif
+B00379,M93196,M,44.0,Z017,Très vulnérable,6,Agriculture,2025-07-20,Actif
+B00380,M43061,F,48.0,Z015,Très vulnérable,6,Petit commerce,2025-02-02,Actif
+B00381,M93782,F,47.0,Z013,Modérément vulnérable,4,Agriculture,2025-01-29,Actif
+B00382,M72366,F,20.0,Z008,Vulnérable,8,Petit commerce,2025-04-13,Actif
+B00383,M46513,F,44.0,Z013,Très vulnérable,6,Petit commerce,2025-05-01,Actif
+B00384,M17829,F,24.0,Z019,Vulnérable,4,Agriculture,2025-02-02,Actif
+B00385,M59601,F,50.0,Z002,Vulnérable,5,Sans activité,2025-03-11,Actif
+B00386,M36401,M,61.0,Z001,Vulnérable,5,Agriculture,2025-04-23,Actif
+B00387,M33206,F,46.0,Z006,Très vulnérable,4,Petit commerce,2025-05-15,Actif
+B00388,M69888,F,18.0,Z002,Très vulnérable,3,Agriculture,2025-07-04,Actif
+B00389,M66622,M,50.0,Z018,Vulnérable,8,Élevage,2025-08-26,Actif
+B00390,M26788,M,34.0,Z015,Vulnérable,9,Agriculture,2025-07-20,Actif
+B00391,M34452,F,53.0,Z003,Vulnérable,4,Sans activité,2025-01-22,Actif
+B00392,M45853,M,66.0,Z007,Très vulnérable,7,Élevage,2025-01-25,Actif
+B00393,M90118,F,55.0,Z008,Très vulnérable,2,Agriculture,2025-04-23,Actif
+B00394,M98598,M,32.0,Z019,Modérément vulnérable,9,Élevage,2025-04-28,Actif
+B00395,M46616,M,21.0,Z006,Vulnérable,6,Élevage,2025-03-08,Actif
+B00396,M64119,F,40.0,Z009,Vulnérable,7,Petit commerce,2025-01-25,Actif
+B00397,M90289,F,29.0,Z010,Vulnérable,10,Agriculture,2025-04-16,Actif
+B00398,M19532,F,61.0,Z015,Modérément vulnérable,4,Agriculture,2025-04-04,Actif
+B00399,M42824,M,52.0,Z017,Vulnérable,5,Petit commerce,2025-04-02,Actif
+B00400,M13923,F,29.0,Z013,Vulnérable,5,Élevage,2025-01-27,Actif
+B00401,M58789,F,52.0,Z007,Très vulnérable,5,Agriculture,2025-02-08,Actif
+B00402,M41294,F,32.0,Z004,Modérément vulnérable,6,Élevage,2025-02-14,Actif
+B00403,M66151,F,53.0,Z007,Modérément vulnérable,2,Artisanat,2025-08-21,Actif
+B00404,M95064,M,34.0,Z011,Très vulnérable,9,Artisanat,2025-04-09,Actif
+B00405,M88866,M,51.0,Z015,Très vulnérable,3,Artisanat,2025-03-23,Actif
+B00406,M96303,M,29.0,Z019,Très vulnérable,4,Élevage,2025-04-22,Actif
+B00407,M50089,M,18.0,Z017,Vulnérable,2,Sans activité,2025-01-08,Actif
+B00408,M30652,F,22.0,Z015,Modérément vulnérable,3,Sans activité,2025-07-23,Actif
+B00409,M57983,M,34.0,Z018,Modérément vulnérable,7,Sans activité,2025-08-29,Actif
+B00410,M54139,F,38.0,Z014,Très vulnérable,8,Agriculture,2025-06-25,Actif
+B00411,M65513,F,18.0,Z019,Modérément vulnérable,5,Sans activité,2025-07-29,Actif
+B00412,M77597,F,38.0,Z010,Vulnérable,6,Petit commerce,2025-06-24,Actif
+B00413,M97661,F,49.0,Z002,Vulnérable,6,Sans activité,2025-01-19,Actif
+B00414,M94088,F,51.0,Z015,Très vulnérable,3,Sans activité,2025-04-06,Actif
+B00415,M38002,F,32.0,Z019,Vulnérable,6,Agriculture,2025-08-05,Actif
+B00416,M29387,F,18.0,Z001,Vulnérable,6,Petit commerce,2025-01-23,Actif
+B00417,M73108,F,72.0,Z013,Vulnérable,7,Agriculture,2025-01-18,Sorti du programme
+B00418,M52710,F,19.0,Z006,Vulnérable,6,Élevage,2025-04-25,Actif
+B00419,M84261,F,39.0,Z008,Vulnérable,10,Élevage,2025-02-14,Actif
+B00420,M54230,M,60.0,Z018,Modérément vulnérable,6,Élevage,2025-02-12,Actif
+B00421,M72093,F,34.0,Z006,Très vulnérable,2,Sans activité,2025-04-25,Actif
+B00422,M96326,F,39.0,Z013,Très vulnérable,5,Agriculture,2025-06-01,Actif
+B00423,M37521,M,33.0,Z008,Très vulnérable,6,Agriculture,2025-08-04,Actif
+B00424,M44429,F,40.0,Z019,Modérément vulnérable,11,Agriculture,2025-03-18,Actif
+B00425,M34085,M,46.0,Z007,Vulnérable,7,Petit commerce,2025-03-02,Actif
+B00426,M39000,F,42.0,Z002,Vulnérable,4,Artisanat,2025-04-04,Actif
+B00427,M73726,F,26.0,Z008,Vulnérable,4,Agriculture,2025-08-30,Actif
+B00428,M47863,F,50.0,Z008,Modérément vulnérable,5,Agriculture,2025-02-25,Actif
+B00429,M78790,M,55.0,Z017,Vulnérable,4,Agriculture,2025-03-07,Actif
+B00430,M29964,M,20.0,Z006,Modérément vulnérable,2,Agriculture,2025-04-09,Actif
+B00431,M34850,M,24.0,Z005,Vulnérable,3,Agriculture,2025-02-01,Actif
+B00432,M47224,F,40.0,Z008,Très vulnérable,6,Agriculture,2025-07-15,Actif
+B00433,M97170,F,43.0,Z014,Très vulnérable,12,Petit commerce,2025-07-07,Actif
+B00434,M78473,F,54.0,Z008,Modérément vulnérable,10,Petit commerce,2025-05-15,Actif
+B00435,M77045,M,44.0,Z010,Vulnérable,2,Petit commerce,2025-06-17,Actif
+B00436,M46777,M,33.0,Z014,Modérément vulnérable,12,Agriculture,2025-03-29,Actif
+B00437,M12685,M,57.0,Z001,Vulnérable,8,Agriculture,2025-07-29,Actif
+B00438,M18601,M,41.0,Z002,Vulnérable,4,Élevage,2025-04-17,Actif
+B00439,M20256,F,50.0,Z015,Très vulnérable,10,Sans activité,2025-07-07,Actif
+B00440,M22162,M,29.0,Z018,Vulnérable,4,Artisanat,2025-08-14,Actif
+B00441,M53436,M,45.0,Z017,Très vulnérable,5,Agriculture,2025-02-16,Actif
+B00442,M60802,M,48.0,Z014,Vulnérable,1,Artisanat,2025-03-05,Actif
+B00443,M78458,M,72.0,Z020,Modérément vulnérable,2,Agriculture,2025-08-26,Actif
+B00444,M41402,F,29.0,Z017,Vulnérable,4,Élevage,2025-01-11,Actif
+B00445,M47207,F,48.0,Z014,Très vulnérable,4,Agriculture,2025-08-07,Actif
+B00446,M63919,M,51.0,Z013,Vulnérable,8,Élevage,2025-03-05,Actif
+B00447,M76205,F,47.0,Z017,Modérément vulnérable,8,Agriculture,2025-07-12,Actif
+B00448,M22860,M,34.0,Z017,Très vulnérable,8,Élevage,2025-07-23,Actif
+B00449,M37578,M,37.0,Z005,Vulnérable,10,Petit commerce,2025-08-08,Sorti du programme
+B00450,M41734,M,42.0,Z017,Vulnérable,9,Agriculture,2025-05-29,Actif
+B00451,M76371,M,46.0,Z011,Vulnérable,10,Sans activité,2025-07-13,Actif
+B00452,M94670,M,59.0,Z001,Très vulnérable,5,Artisanat,2025-01-15,Actif
+B00453,M82666,F,48.0,Z004,Très vulnérable,5,Petit commerce,2025-07-01,Actif
+B00454,M13975,F,24.0,Z015,Vulnérable,11,Petit commerce,2025-01-26,Actif
+B00455,M38511,F,18.0,Z006,Vulnérable,6,Sans activité,2025-06-24,Actif
+B00456,M80691,F,40.0,Z017,Vulnérable,12,Élevage,2025-06-29,Actif
+B00457,M40086,M,39.0,Z012,Modérément vulnérable,9,Agriculture,2025-07-02,Actif
+B00458,M85782,M,48.0,Z020,Vulnérable,6,Artisanat,2025-06-20,Actif
+B00459,M99243,F,39.0,Z015,Vulnérable,2,Artisanat,2025-07-16,Sorti du programme
+B00460,M58714,M,26.0,Z002,Vulnérable,3,Agriculture,2025-06-11,Actif
+B00461,M33459,F,30.0,Z017,Vulnérable,4,Petit commerce,2025-03-06,Sorti du programme
+B00462,M80684,F,34.0,Z013,Modérément vulnérable,5,Agriculture,2025-08-21,Actif
+B00463,M26745,F,24.0,Z004,Très vulnérable,6,Élevage,2025-04-21,Actif
+B00464,M69078,M,30.0,Z010,Très vulnérable,7,Élevage,2025-04-21,Actif
+B00465,M33165,M,39.0,Z003,Vulnérable,8,Agriculture,2025-07-01,Actif
+B00466,M21910,F,32.0,Z007,Très vulnérable,4,Petit commerce,2025-07-09,Actif
+B00467,M45374,F,43.0,Z015,Très vulnérable,5,Sans activité,2025-08-11,Actif
+B00468,M56912,M,46.0,Z008,Très vulnérable,5,Agriculture,2025-05-03,Actif
+B00469,M55761,M,46.0,Z013,Très vulnérable,7,Agriculture,2025-06-17,Actif
+B00470,M23918,F,40.0,Z018,Très vulnérable,4,Élevage,2025-04-10,Actif
+B00471,M41875,M,32.0,Z014,Vulnérable,5,Petit commerce,2025-07-10,Actif
+B00472,M15433,M,24.0,Z002,Très vulnérable,4,Agriculture,2025-04-03,Actif
+B00473,M55895,F,50.0,Z008,Vulnérable,7,Élevage,2025-05-01,Actif
+B00474,M30783,F,42.0,Z006,Vulnérable,4,Élevage,2025-03-30,Sorti du programme
+B00475,M86613,M,49.0,Z009,Vulnérable,7,Petit commerce,2025-08-01,Actif
+B00476,M62506,F,30.0,Z018,Très vulnérable,4,Agriculture,2025-01-14,Actif
+B00477,M44844,M,40.0,Z006,Vulnérable,7,Agriculture,2025-02-25,Actif
+B00478,M39800,F,19.0,Z015,Vulnérable,8,Agriculture,2025-04-13,Actif
+B00479,M88980,F,42.0,Z009,Très vulnérable,4,Élevage,2025-06-16,Actif
+B00480,M29353,M,26.0,Z017,Très vulnérable,5,Agriculture,2025-01-09,Actif
+B00481,M77404,F,25.0,Z004,Modérément vulnérable,7,Agriculture,2025-04-30,Actif
+B00482,M44223,M,38.0,Z010,Très vulnérable,8,Artisanat,2025-06-25,Actif
+B00483,M93026,M,33.0,Z013,Vulnérable,10,Petit commerce,2025-08-03,Actif
+B00484,M27303,F,36.0,Z007,Très vulnérable,10,Petit commerce,2025-02-08,Actif
+B00485,M87204,F,30.0,Z011,Vulnérable,4,Sans activité,2025-01-28,Actif
+B00486,M23847,M,48.0,Z005,Vulnérable,9,Petit commerce,2025-09-01,Actif
+B00487,M41943,M,47.0,Z020,Modérément vulnérable,7,Agriculture,2025-03-29,Actif
+B00488,M43147,M,43.0,Z014,Vulnérable,7,Agriculture,2025-08-31,Actif
+B00489,M21761,M,44.0,Z013,Très vulnérable,9,Sans activité,2025-02-10,Actif
+B00490,M12249,F,34.0,Z019,Modérément vulnérable,7,Agriculture,2025-02-25,Actif
+B00491,M21599,F,65.0,Z008,Vulnérable,7,Agriculture,2025-03-15,Actif
+B00492,M72491,M,55.0,Z020,Très vulnérable,6,Agriculture,2025-05-03,Actif
+B00493,M17056,F,37.0,Z002,Vulnérable,10,Sans activité,2025-04-06,Actif
+B00494,M64907,M,44.0,Z020,Très vulnérable,5,Élevage,2025-05-14,Actif
+B00495,M86285,F,20.0,Z014,Modérément vulnérable,5,Agriculture,2025-02-19,Actif
+B00496,M69889,M,25.0,Z011,Vulnérable,8,Agriculture,2025-07-23,Actif
+B00497,M27495,F,49.0,Z006,Vulnérable,2,Sans activité,2025-03-20,Actif
+B00498,M78382,F,61.0,Z004,Vulnérable,4,Sans activité,2025-06-19,Actif
+B00499,M67650,M,58.0,Z020,Vulnérable,5,Agriculture,2025-05-12,Actif
+B00500,M31730,F,35.0,Z004,Très vulnérable,3,Agriculture,2025-05-02,Actif
+B00501,M16574,M,41.0,Z017,Vulnérable,5,Agriculture,2025-06-09,Actif
+B00502,M84790,F,27.0,Z001,Vulnérable,5,,2025-06-26,Actif
+B00503,M35057,F,34.0,Z016,Vulnérable,7,Agriculture,2025-05-13,Actif
+B00504,M39165,F,57.0,Z017,Vulnérable,9,Sans activité,2025-06-08,Actif
+B00505,M22398,M,38.0,Z005,Vulnérable,8,Agriculture,2025-03-13,Actif
+B00506,M40499,M,29.0,Z020,Modérément vulnérable,6,Sans activité,2025-05-09,Actif
+B00507,M61517,F,36.0,Z007,Vulnérable,9,Petit commerce,2025-01-21,Actif
+B00508,M82094,F,23.0,Z003,Très vulnérable,5,Agriculture,2025-03-28,Actif
+B00509,M74966,F,56.0,Z008,Vulnérable,3,Agriculture,2025-03-25,Actif
+B00510,M73486,M,52.0,Z020,Modérément vulnérable,3,Petit commerce,2025-03-08,Actif
+B00511,M49609,F,54.0,Z002,Vulnérable,4,Petit commerce,2025-07-06,Actif
+B00512,M78248,F,18.0,Z014,Vulnérable,4,Sans activité,2025-08-10,Actif
+B00513,M38527,M,37.0,Z003,Très vulnérable,4,Petit commerce,2025-03-12,Actif
+B00514,M67544,M,37.0,Z014,Très vulnérable,9,Agriculture,2025-02-04,Actif
+B00515,M53909,F,67.0,Z003,Très vulnérable,5,Élevage,2025-01-31,Actif
+B00516,M43972,F,22.0,Z019,Modérément vulnérable,2,Agriculture,2025-02-26,Actif
+B00517,M13841,F,43.0,Z018,Vulnérable,5,Agriculture,2025-03-13,Actif
+B00518,M58076,M,36.0,Z020,Vulnérable,3,Agriculture,2025-06-15,Actif
+B00519,M51897,F,47.0,Z017,Modérément vulnérable,8,Élevage,2025-06-03,Actif
+B00520,M55712,M,32.0,Z007,Très vulnérable,4,Sans activité,2025-06-09,Sorti du programme
+B00521,M58869,M,27.0,Z009,Vulnérable,3,Petit commerce,2025-06-29,Actif
+B00522,M26311,F,43.0,Z006,Vulnérable,7,Agriculture,2025-06-04,Actif
+B00523,M76929,F,45.0,Z009,Vulnérable,6,Agriculture,2025-04-04,Actif
+B00524,M77001,F,34.0,Z004,Vulnérable,8,Agriculture,2025-07-18,Actif
+B00525,M61420,F,49.0,Z019,Vulnérable,4,Petit commerce,2025-07-15,Actif
+B00526,M72645,F,50.0,Z008,Vulnérable,6,Agriculture,2025-02-07,Actif
+B00527,M26165,M,49.0,Z006,Modérément vulnérable,9,Agriculture,2025-02-07,Actif
+B00528,M44629,F,40.0,Z019,Vulnérable,5,Petit commerce,2025-08-13,Actif
+B00529,M80341,F,52.0,Z006,Vulnérable,6,Sans activité,2025-03-15,Actif
+B00530,M94131,F,58.0,Z008,Modérément vulnérable,4,Agriculture,2025-03-26,Sorti du programme
+B00531,M19047,F,24.0,Z013,Modérément vulnérable,5,Agriculture,2025-02-11,Actif
+B00532,M45170,F,34.0,Z015,Très vulnérable,12,Élevage,2025-04-08,Actif
+B00533,M93684,M,39.0,Z008,Très vulnérable,8,Agriculture,2025-02-01,Actif
+B00534,M22930,M,36.0,Z004,Très vulnérable,6,Sans activité,2025-02-19,Actif
+B00535,M53842,F,39.0,Z013,Vulnérable,12,Petit commerce,2025-05-10,Actif
+B00536,M99672,F,34.0,Z003,Très vulnérable,5,Agriculture,2025-02-19,Actif
+B00537,M72678,F,18.0,Z012,Vulnérable,4,Petit commerce,2025-07-01,Actif
+B00538,M79045,F,29.0,Z013,Très vulnérable,4,Agriculture,2025-03-06,Actif
+B00539,M90405,F,18.0,Z013,Vulnérable,6,Agriculture,2025-04-10,Actif
+B00540,M62121,M,62.0,Z006,Modérément vulnérable,4,Agriculture,2025-07-13,Actif
+B00541,M68185,F,34.0,Z007,Modérément vulnérable,5,Agriculture,2025-06-15,Actif
+B00542,M64844,F,22.0,Z005,Vulnérable,5,Petit commerce,2025-08-13,Actif
+B00543,M79317,F,18.0,Z015,Modérément vulnérable,7,Sans activité,2025-08-30,Actif
+B00544,M38098,F,51.0,Z014,Vulnérable,5,Agriculture,2025-06-22,Actif
+B00545,M58463,F,43.0,Z014,Modérément vulnérable,9,Sans activité,2025-04-06,Actif
+B00546,M63143,F,18.0,Z019,Très vulnérable,8,Agriculture,2025-04-12,Actif
+B00547,M18888,M,33.0,Z018,Vulnérable,5,Agriculture,2025-02-25,Actif
+B00548,M89120,F,39.0,Z008,Très vulnérable,5,Agriculture,2025-05-30,Actif
+B00549,M32784,M,37.0,Z015,Modérément vulnérable,8,Petit commerce,2025-01-06,Sorti du programme
+B00550,M30404,F,41.0,Z013,Très vulnérable,2,Agriculture,2025-01-24,Sorti du programme
+B00551,M78334,F,43.0,Z010,Modérément vulnérable,7,Petit commerce,2025-02-07,Actif
+B00552,M24599,F,39.0,Z003,Vulnérable,8,Agriculture,2025-08-25,Actif
+B00553,M90788,F,20.0,Z009,Vulnérable,6,Petit commerce,2025-07-10,Actif
+B00554,M80171,F,54.0,Z004,Vulnérable,3,Élevage,2025-05-23,Actif
+B00555,M62876,F,39.0,Z016,Vulnérable,8,Petit commerce,2025-03-15,Actif
+B00556,M71340,F,34.0,Z015,Vulnérable,6,Agriculture,2025-05-22,Actif
+B00557,M69906,M,39.0,Z003,Vulnérable,7,Sans activité,2025-03-18,Actif
+B00558,M28616,M,43.0,Z002,Modérément vulnérable,4,Agriculture,2025-01-20,Sorti du programme
+B00559,M37658,M,22.0,Z002,Modérément vulnérable,6,Agriculture,2025-08-28,Actif
+B00560,M70662,F,35.0,Z015,Vulnérable,5,Agriculture,2025-02-03,Actif
+B00561,M36649,M,38.0,Z019,Très vulnérable,4,Agriculture,2025-02-12,Actif
+B00562,M74824,F,43.0,Z005,Vulnérable,9,Élevage,2025-04-17,Actif
+B00563,M25166,F,62.0,Z002,Vulnérable,6,Petit commerce,2025-04-23,Actif
+B00564,M35330,F,37.0,Z014,Vulnérable,6,Artisanat,2025-04-30,Actif
+B00565,M63619,M,43.0,Z010,Vulnérable,3,Agriculture,2025-04-21,Actif
+B00566,M37544,M,44.0,Z012,Très vulnérable,7,Agriculture,2025-04-18,Actif
+B00567,M40729,M,33.0,Z009,Très vulnérable,9,Agriculture,2025-04-26,Actif
+B00568,M23555,F,43.0,Z016,Vulnérable,8,Agriculture,2025-02-21,Actif
+B00569,M64904,F,31.0,Z011,Très vulnérable,10,Artisanat,2025-06-23,Actif
+B00570,M60193,F,63.0,Z016,Très vulnérable,11,Petit commerce,2025-02-22,Actif
+B00571,M43452,F,58.0,Z013,Vulnérable,6,Sans activité,2025-04-06,Actif
+B00572,M68354,M,40.0,Z014,Vulnérable,5,Sans activité,2025-05-23,Actif
+B00573,M10999,F,38.0,Z015,Vulnérable,2,Petit commerce,2025-05-25,Actif
+B00574,M60143,M,35.0,Z011,Modérément vulnérable,6,Petit commerce,2025-03-10,Actif
+B00575,M65136,M,45.0,Z006,Très vulnérable,6,Petit commerce,2025-01-07,Actif
+B00576,M34983,F,18.0,Z007,Très vulnérable,6,Agriculture,2025-05-02,Actif
+B00577,M47525,M,35.0,Z001,Très vulnérable,10,Petit commerce,2025-08-30,Actif
+B00578,M54213,F,34.0,Z001,Très vulnérable,8,Petit commerce,2025-08-25,Actif
+B00579,M79008,M,39.0,Z009,Modérément vulnérable,5,Agriculture,2025-05-27,Sorti du programme
+B00580,M39823,F,40.0,Z016,Très vulnérable,7,Agriculture,2025-03-10,Actif
+B00581,M79760,F,30.0,Z014,Vulnérable,1,Petit commerce,2025-02-23,Actif
+B00582,M40228,F,46.0,Z007,Vulnérable,3,Sans activité,2025-04-25,Actif
+B00583,M35081,M,60.0,Z009,Modérément vulnérable,7,Sans activité,2025-06-29,Actif
+B00584,M49794,M,44.0,Z017,Vulnérable,6,Élevage,2025-05-15,Actif
+B00585,M24438,M,42.0,Z015,Vulnérable,5,Agriculture,2025-02-04,Actif
+B00586,M47008,F,42.0,Z012,Vulnérable,8,Artisanat,2025-06-12,Actif
+B00587,M30770,M,44.0,Z017,Très vulnérable,5,Élevage,2025-01-24,Actif
+B00588,M39804,F,25.0,Z020,Vulnérable,3,Agriculture,2025-03-03,Actif
+B00589,M77074,M,29.0,Z013,Vulnérable,5,Agriculture,2025-06-24,Actif
+B00590,M47396,M,40.0,Z019,Vulnérable,9,Sans activité,2025-03-10,Actif
+B00591,M80441,F,47.0,Z002,Très vulnérable,7,Agriculture,2025-01-17,Actif
+B00592,M17518,F,45.0,Z015,Très vulnérable,3,Agriculture,2025-02-21,Actif
+B00593,M23195,F,40.0,Z002,Modérément vulnérable,7,Agriculture,2025-02-05,Sorti du programme
+B00594,M29797,F,18.0,Z004,Vulnérable,6,Petit commerce,2025-05-13,Actif
+B00595,M41266,F,45.0,Z006,Vulnérable,9,Agriculture,2025-07-27,Actif
+B00596,M99985,F,43.0,Z002,Vulnérable,3,Agriculture,2025-02-12,Actif
+B00597,M95738,M,55.0,Z014,Vulnérable,5,Élevage,2025-05-27,Actif
+B00598,M66731,M,59.0,Z006,Vulnérable,7,Agriculture,2025-02-04,Actif
+B00599,M78676,F,27.0,Z003,Très vulnérable,7,Élevage,2025-05-17,Actif
+B00600,M52253,F,39.0,Z004,Vulnérable,7,Sans activité,2025-06-08,Sorti du programme
+B00601,M58897,F,28.0,Z001,Très vulnérable,6,Agriculture,2025-06-29,Actif
+B00602,M12128,F,28.0,Z019,Très vulnérable,6,Petit commerce,2025-05-21,Actif
+B00603,M76082,F,49.0,Z019,Vulnérable,8,Agriculture,2025-08-25,Actif
+B00604,M25316,F,41.0,Z005,Très vulnérable,6,Agriculture,2025-01-18,Actif
+B00605,M74814,F,51.0,Z014,Très vulnérable,6,Élevage,2025-04-24,Actif
+B00606,M13700,F,23.0,Z001,Très vulnérable,5,Sans activité,2025-07-19,Actif
+B00607,M17451,F,38.0,Z006,Très vulnérable,7,Sans activité,2025-03-26,Actif
+B00608,M35690,F,32.0,Z014,Vulnérable,9,Petit commerce,2025-05-10,Actif
+B00609,M99889,F,23.0,Z004,Très vulnérable,8,Élevage,2025-07-11,Actif
+B00610,M67874,M,18.0,Z006,Vulnérable,5,Sans activité,2025-04-23,Actif
+B00611,M17830,F,52.0,Z002,Modérément vulnérable,4,Sans activité,2025-02-24,Actif
+B00612,M60274,M,27.0,Z003,Vulnérable,5,Agriculture,2025-06-27,Actif
+B00613,M35054,F,26.0,Z001,Vulnérable,4,Petit commerce,2025-02-21,Actif
+B00614,M11825,F,44.0,Z006,Modérément vulnérable,7,Artisanat,2025-04-20,Actif
+B00615,M73700,F,42.0,Z008,Vulnérable,3,Sans activité,2025-04-15,Sorti du programme
+B00616,M64084,F,40.0,Z008,Modérément vulnérable,3,Agriculture,2025-05-15,Actif
+B00617,M57839,M,26.0,Z005,Vulnérable,6,Agriculture,2025-06-16,Actif
+B00618,M11984,F,66.0,Z010,Vulnérable,6,Agriculture,2025-08-02,Actif
+B00619,M75617,M,52.0,Z001,Très vulnérable,9,Agriculture,2025-07-08,Actif
+B00620,M24310,F,63.0,Z008,Vulnérable,5,Agriculture,2025-08-24,Actif
+B00621,M92831,M,20.0,Z012,Très vulnérable,6,Agriculture,2025-06-02,Actif
+B00622,M25010,M,36.0,Z015,Vulnérable,11,Petit commerce,2025-08-12,Actif
+B00623,M70354,F,26.0,Z020,Vulnérable,12,Élevage,2025-06-28,Actif
+B00624,M87376,F,24.0,Z008,Très vulnérable,4,Artisanat,2025-08-12,Actif
+B00625,M75588,F,45.0,Z019,Vulnérable,5,Petit commerce,2025-06-13,Actif
+B00626,M28776,M,47.0,Z018,Modérément vulnérable,10,Agriculture,2025-01-23,Actif
+B00627,M61369,M,44.0,Z003,Vulnérable,7,Agriculture,2025-08-08,Actif
+B00628,M87945,F,67.0,Z009,Vulnérable,4,Agriculture,2025-01-27,Actif
+B00629,M99526,M,57.0,Z004,Vulnérable,4,Agriculture,2025-06-20,Actif
+B00630,M62298,F,26.0,Z016,Vulnérable,8,Agriculture,2025-08-15,Actif
+B00631,M20133,M,45.0,Z015,Très vulnérable,5,Élevage,2025-08-19,Actif
+B00632,M70418,M,45.0,Z020,Vulnérable,8,Agriculture,2025-07-14,Actif
+B00633,M41410,F,49.0,Z001,Très vulnérable,7,Sans activité,2025-04-20,Actif
+B00634,M59603,M,50.0,Z008,Vulnérable,5,Petit commerce,2025-03-16,Actif
+B00635,M93225,F,61.0,Z007,Vulnérable,5,Élevage,2025-04-10,Actif
+B00636,M66514,M,53.0,Z013,Vulnérable,6,Agriculture,2025-05-06,Actif
+B00637,M18257,F,58.0,Z010,Vulnérable,4,Agriculture,2025-01-28,Actif
+B00638,M16698,M,44.0,Z011,Très vulnérable,8,Agriculture,2025-08-14,Actif
+B00639,M71917,M,18.0,Z003,Très vulnérable,7,Petit commerce,2025-08-13,Actif
+B00640,M47139,M,52.0,Z019,Modérément vulnérable,7,Agriculture,2025-05-22,Actif
+B00641,M58051,F,28.0,Z006,Vulnérable,5,Sans activité,2025-04-22,Actif
+B00642,M33606,M,31.0,Z007,Vulnérable,12,Artisanat,2025-07-17,Actif
+B00643,M55714,F,33.0,Z004,Vulnérable,4,Petit commerce,2025-08-06,Actif
+B00644,M75866,M,35.0,Z005,Modérément vulnérable,6,Agriculture,2025-01-18,Actif
+B00645,M40552,M,43.0,Z007,Modérément vulnérable,8,Petit commerce,2025-05-15,Actif
+B00646,M16812,F,53.0,Z005,Vulnérable,3,Agriculture,2025-04-21,Actif
+B00647,M28429,M,52.0,Z008,Vulnérable,5,Agriculture,2025-06-02,Actif
+B00648,M79517,F,49.0,Z017,Très vulnérable,7,Élevage,2025-07-16,Actif
+B00649,M25592,F,38.0,Z017,Modérément vulnérable,5,Sans activité,2025-03-06,Actif
+B00650,M16681,F,58.0,Z012,Vulnérable,9,Agriculture,2025-04-20,Actif
+B00651,M22390,M,145.0,Z011,Modérément vulnérable,7,Petit commerce,2025-08-31,Actif
+B00652,M42439,F,46.0,Z012,Très vulnérable,7,Agriculture,2025-02-26,Actif
+B00653,M86765,M,20.0,Z009,Modérément vulnérable,7,Artisanat,2025-05-28,Actif
+B00654,M56452,F,19.0,Z001,Très vulnérable,7,Artisanat,2025-06-16,Actif
+B00655,M66527,F,36.0,Z002,Vulnérable,8,Agriculture,2025-03-09,Sorti du programme
+B00656,M91744,M,47.0,Z009,Très vulnérable,6,Sans activité,2025-04-13,Actif
+B00657,M45832,M,48.0,Z001,Très vulnérable,5,Agriculture,2025-04-06,Actif
+B00658,M79454,F,18.0,Z002,Modérément vulnérable,6,Agriculture,2025-03-28,Actif
+B00659,M32901,M,51.0,Z013,Très vulnérable,5,Agriculture,2025-01-15,Actif
+B00660,M14010,M,28.0,Z019,Vulnérable,4,Agriculture,2025-08-22,Actif
+B00661,M59527,F,58.0,Z001,Très vulnérable,5,Agriculture,2025-03-22,Actif
+B00662,M85769,M,55.0,Z012,Vulnérable,5,Sans activité,2025-03-14,Actif
+B00663,M31635,M,27.0,Z008,Modérément vulnérable,6,Petit commerce,2025-08-31,Actif
+B00664,M76745,F,47.0,Z001,Vulnérable,6,Petit commerce,2025-07-27,Actif
+B00665,M35192,F,44.0,Z015,Modérément vulnérable,9,Agriculture,2025-07-24,Actif
+B00666,M27891,F,18.0,Z014,Vulnérable,7,Agriculture,2025-01-09,Actif
+B00667,M67771,M,35.0,Z019,Modérément vulnérable,3,Agriculture,2025-04-05,Actif
+B00668,M72169,F,24.0,Z013,Vulnérable,4,Sans activité,2025-01-27,Actif
+B00669,M44113,M,38.0,Z014,Vulnérable,8,Sans activité,2025-08-16,Actif
+B00670,M62214,F,45.0,Z006,Modérément vulnérable,7,Sans activité,2025-07-18,Actif
+B00671,M22188,F,38.0,Z011,Vulnérable,7,Élevage,2025-02-09,Actif
+B00672,M49658,M,53.0,Z013,Vulnérable,1,Agriculture,2025-07-14,Actif
+B00673,M34786,F,49.0,Z002,Vulnérable,7,Sans activité,2025-07-06,Actif
+B00674,M84648,F,47.0,Z004,Vulnérable,4,Petit commerce,2025-06-10,Sorti du programme
+B00675,M99144,M,30.0,Z004,Très vulnérable,6,Agriculture,2025-03-27,Actif
+B00676,M34973,M,32.0,Z012,Modérément vulnérable,5,Agriculture,2025-02-13,Actif
+B00677,M99824,M,38.0,Z010,Vulnérable,3,Agriculture,2025-05-17,Sorti du programme
+B00678,M17793,F,18.0,Z006,Vulnérable,8,Élevage,2025-06-01,Actif
+B00679,M76441,F,57.0,Z015,Très vulnérable,5,Agriculture,2025-04-19,Actif
+B00680,M93261,F,18.0,Z014,Modérément vulnérable,9,Sans activité,2025-04-21,Actif
+B00681,M86596,M,54.0,Z003,Modérément vulnérable,8,Agriculture,2025-05-08,Actif
+B00682,M89685,F,25.0,Z015,Vulnérable,8,Petit commerce,2025-03-06,Actif
+B00683,M71723,M,20.0,Z006,Modérément vulnérable,5,Sans activité,2025-02-27,Actif
+B00684,M86389,M,45.0,Z009,Modérément vulnérable,6,Artisanat,2025-04-18,Actif
+B00685,M67752,M,50.0,Z003,Vulnérable,7,Agriculture,2025-04-04,Sorti du programme
+B00686,M42052,M,38.0,Z008,Très vulnérable,5,Petit commerce,2025-02-14,Actif
+B00687,M50565,F,39.0,Z004,Vulnérable,6,Agriculture,2025-03-20,Actif
+B00688,M76915,M,23.0,Z015,Vulnérable,8,Artisanat,2025-08-25,Actif
+B00689,M95901,F,40.0,Z011,Vulnérable,10,Sans activité,2025-02-15,Actif
+B00690,M20150,M,28.0,Z017,Vulnérable,7,Élevage,2025-04-14,Actif
+B00691,M36968,F,37.0,Z003,Vulnérable,3,Agriculture,2025-03-09,Actif
+B00692,M97608,F,39.0,Z011,Vulnérable,4,Agriculture,2025-03-31,Actif
+B00693,M34708,F,51.0,Z009,Modérément vulnérable,5,Petit commerce,2025-05-05,Actif
+B00694,M54326,M,53.0,Z009,Modérément vulnérable,10,Petit commerce,2025-06-15,Actif
+B00695,M88165,M,48.0,Z015,Très vulnérable,5,Agriculture,2025-08-16,Actif
+B00696,M79810,F,40.0,Z008,Modérément vulnérable,8,Artisanat,2025-03-10,Actif
+B00697,M35415,F,18.0,Z014,Vulnérable,12,Sans activité,2025-08-30,Actif
+B00698,M69370,F,57.0,Z005,Vulnérable,4,Petit commerce,2025-04-26,Actif
+B00699,M52756,M,30.0,Z002,Modérément vulnérable,8,Agriculture,2025-07-16,Actif
+B00700,M35127,F,28.0,Z016,Très vulnérable,7,Petit commerce,2025-05-28,Sorti du programme
+B00701,M29445,F,33.0,Z010,Vulnérable,6,Artisanat,2025-04-27,Actif
+B00702,M18215,F,28.0,Z005,Vulnérable,7,Agriculture,2025-01-26,Actif
+B00703,M87921,F,40.0,Z008,Modérément vulnérable,6,Artisanat,2025-08-27,Actif
+B00704,M69576,M,32.0,Z013,Très vulnérable,5,Agriculture,2025-08-09,Actif
+B00705,M60167,F,54.0,Z005,Vulnérable,4,Élevage,2025-09-01,Actif
+B00706,M17652,F,21.0,Z003,Vulnérable,3,Agriculture,2025-07-30,Actif
+B00707,M31203,M,31.0,Z020,Vulnérable,3,Agriculture,2025-03-09,Actif
+B00708,M54911,M,18.0,Z003,Vulnérable,6,Petit commerce,2025-05-28,Actif
+B00709,M39523,F,41.0,Z006,Vulnérable,8,Artisanat,2025-01-12,Actif
+B00710,M56508,F,60.0,Z007,Vulnérable,8,Agriculture,2025-06-23,Actif
+B00711,M78643,F,31.0,Z017,Vulnérable,3,Agriculture,2025-06-28,Actif
+B00712,M27856,M,32.0,Z005,Vulnérable,11,Petit commerce,2025-02-28,Actif
+B00713,M20347,F,32.0,Z004,Vulnérable,9,Agriculture,2025-04-10,Actif
+B00714,M99341,F,51.0,Z002,Vulnérable,9,Agriculture,2025-01-31,Actif
+B00715,M14502,F,52.0,Z015,Vulnérable,10,Sans activité,2025-05-17,Actif
+B00716,M84361,F,18.0,Z011,Vulnérable,5,Agriculture,2025-07-07,Actif
+B00717,M57681,F,43.0,Z002,Vulnérable,7,Petit commerce,2025-01-21,Actif
+B00718,M47868,F,61.0,Z008,Vulnérable,8,Élevage,2025-05-20,Actif
+B00719,M24742,F,29.0,Z020,Vulnérable,6,Agriculture,2025-07-14,Actif
+B00720,M97530,F,32.0,Z018,Vulnérable,10,Élevage,2025-01-24,Actif
+B00721,M50505,F,24.0,Z011,Vulnérable,5,Sans activité,2025-03-01,Actif
+B00722,M38663,M,,Z004,Vulnérable,7,Agriculture,2025-01-13,Sorti du programme
+B00723,M15568,F,18.0,Z011,Vulnérable,6,Agriculture,2025-01-15,Actif
+B00724,M94489,M,43.0,Z010,Modérément vulnérable,5,Petit commerce,2025-03-01,Actif
+B00725,M78028,F,29.0,Z019,Très vulnérable,10,Petit commerce,2025-04-30,Actif
+B00726,M15246,F,41.0,Z001,Vulnérable,4,Petit commerce,2025-04-10,Actif
+B00727,M48861,M,32.0,Z006,Vulnérable,6,Petit commerce,2025-08-15,Actif
+B00728,M66850,F,31.0,Z008,Vulnérable,7,Sans activité,2025-04-03,Actif
+B00729,M40876,F,63.0,Z015,Vulnérable,7,Agriculture,2025-03-02,Actif
+B00730,M82554,M,29.0,Z015,Très vulnérable,6,Sans activité,2025-08-30,Sorti du programme
+B00731,M35328,M,33.0,Z015,Vulnérable,7,Petit commerce,2025-02-03,Actif
+B00732,M22436,F,33.0,Z011,Modérément vulnérable,9,Élevage,2025-04-02,Actif
+B00733,M56145,F,45.0,Z010,Modérément vulnérable,5,Agriculture,2025-08-31,Actif
+B00734,M68785,F,27.0,Z005,Modérément vulnérable,7,Élevage,2025-03-27,Actif
+B00735,M89300,F,52.0,Z017,Vulnérable,8,Petit commerce,2025-01-07,Actif
+B00736,M32125,F,50.0,Z008,Vulnérable,9,Agriculture,2025-05-10,Actif
+B00737,M87935,M,43.0,Z006,Très vulnérable,7,Artisanat,2025-07-23,Actif
+B00738,M49171,M,28.0,Z016,Vulnérable,6,Agriculture,2025-05-13,Actif
+B00739,M42362,M,30.0,Z015,Vulnérable,7,Agriculture,2025-02-26,Actif
+B00740,M58521,F,18.0,Z006,Très vulnérable,7,Élevage,2025-07-09,Actif
+B00741,M20090,F,23.0,Z001,Vulnérable,5,Agriculture,2025-08-28,Actif
+B00742,M41242,F,57.0,Z001,Modérément vulnérable,8,Élevage,2025-08-12,Actif
+B00743,M86430,F,43.0,Z017,Vulnérable,8,Agriculture,2025-03-21,Actif
+B00744,M71453,F,62.0,Z003,Vulnérable,2,Petit commerce,2025-03-03,Actif
+B00745,M27568,M,43.0,Z012,Vulnérable,8,Artisanat,2025-04-28,Actif
+B00746,M21500,M,35.0,Z012,Vulnérable,7,Élevage,2025-01-05,Actif
+B00747,M98296,F,38.0,Z004,Modérément vulnérable,8,Élevage,2025-04-30,Sorti du programme
+B00748,M44819,M,40.0,Z008,Modérément vulnérable,7,Agriculture,2025-05-24,Actif
+B00749,M15520,F,18.0,Z008,Vulnérable,9,Agriculture,2025-06-24,Actif
+B00750,M43169,F,41.0,Z009,Très vulnérable,7,Sans activité,2025-05-09,Actif
+B00751,M79587,F,51.0,Z017,Vulnérable,5,Petit commerce,2025-07-04,Actif
+B00752,M56135,F,48.0,Z018,Très vulnérable,7,Agriculture,2025-06-03,Actif
+B00753,M91405,F,26.0,Z002,Vulnérable,3,Agriculture,2025-07-17,Actif
+B00754,M41014,F,40.0,Z008,Modérément vulnérable,8,Petit commerce,2025-01-17,Actif
+B00755,M15834,F,38.0,Z005,Modérément vulnérable,3,Agriculture,2025-03-19,Actif
+B00756,M61408,F,50.0,Z015,Vulnérable,5,Agriculture,2025-07-05,Actif
+B00757,M41386,F,34.0,Z006,Vulnérable,2,Agriculture,2025-07-26,Actif
+B00758,M91487,F,46.0,Z009,Vulnérable,3,Petit commerce,2025-07-04,Actif
+B00759,M14961,M,18.0,Z014,Vulnérable,5,Élevage,2025-01-20,Actif
+B00760,M84985,M,32.0,Z013,Vulnérable,4,Agriculture,2025-01-27,Actif
+B00761,M76608,F,53.0,Z015,Modérément vulnérable,6,Élevage,2025-08-02,Actif
+B00762,M90749,M,27.0,Z008,Très vulnérable,6,Sans activité,2025-06-15,Actif
+B00763,M37947,M,55.0,Z010,Vulnérable,8,Petit commerce,2025-08-27,Actif
+B00764,M58747,M,32.0,Z005,Vulnérable,6,Agriculture,2025-06-01,Actif
+B00765,M65341,M,18.0,Z015,Modérément vulnérable,4,Sans activité,2025-07-05,Actif
+B00766,M19904,F,48.0,Z017,Modérément vulnérable,4,Élevage,2025-06-09,Actif
+B00767,M11128,F,25.0,Z005,Vulnérable,7,Agriculture,2025-02-13,Actif
+B00768,M78844,M,44.0,Z009,Très vulnérable,2,Agriculture,2025-01-05,Actif
+B00769,M78064,F,55.0,Z002,Très vulnérable,10,Élevage,2025-06-05,Sorti du programme
+B00770,M56497,M,43.0,Z002,Vulnérable,4,Petit commerce,2025-04-17,Actif
+B00771,M23940,M,38.0,Z003,Vulnérable,4,Agriculture,2025-04-24,Actif
+B00772,M61014,M,44.0,Z013,Vulnérable,6,Élevage,2025-02-27,Actif
+B00773,M12576,F,29.0,Z015,Très vulnérable,6,Petit commerce,2025-07-18,Actif
+B00774,M12625,F,62.0,Z002,Vulnérable,2,Agriculture,2025-01-30,Actif
+B00775,M76354,M,70.0,Z020,Modérément vulnérable,5,Petit commerce,2025-05-14,Actif
+B00776,M65967,F,55.0,Z006,Vulnérable,8,Petit commerce,2025-03-22,Actif
+B00777,M74522,F,24.0,Z018,Vulnérable,3,Artisanat,2025-05-11,Actif
+B00778,M22707,M,43.0,Z020,Vulnérable,0,Agriculture,2025-03-21,Actif
+B00779,M61389,F,22.0,Z017,Très vulnérable,4,Artisanat,2025-06-17,Actif
+B00780,M70612,M,25.0,Z007,Modérément vulnérable,5,Agriculture,2025-05-03,Actif
+B00781,M57371,F,35.0,Z001,Vulnérable,6,Artisanat,2025-08-05,Actif
+B00782,M29699,M,42.0,Z010,Très vulnérable,4,Élevage,2025-07-17,Actif
+B00783,M95701,F,37.0,Z009,Vulnérable,3,Petit commerce,2025-06-13,Actif
+B00784,M13964,F,45.0,Z001,Très vulnérable,3,Sans activité,2025-07-05,Actif
+B00785,M15153,F,49.0,Z017,Modérément vulnérable,8,Élevage,2025-03-06,Actif
+B00786,M25053,M,46.0,Z003,Vulnérable,7,Élevage,2025-02-08,Actif
+B00787,M90016,F,42.0,Z013,Vulnérable,7,Artisanat,2025-08-17,Actif
+B00788,M53098,F,38.0,Z005,Vulnérable,5,Élevage,2025-03-07,Actif
+B00789,M38802,M,64.0,Z008,Vulnérable,4,Élevage,2025-06-14,Actif
+B00790,M40946,F,44.0,Z009,Modérément vulnérable,9,Agriculture,2025-01-18,Actif
+B00791,M44135,M,51.0,Z011,Vulnérable,3,Agriculture,2025-02-02,Actif
+B00792,M64330,M,28.0,Z010,Modérément vulnérable,5,Agriculture,2025-01-16,Actif
+B00793,M48248,M,25.0,Z007,Vulnérable,5,Sans activité,2025-05-11,Actif
+B00794,M41740,F,46.0,Z001,Modérément vulnérable,7,Agriculture,2025-01-23,Actif
+B00795,M35417,F,43.0,Z002,Vulnérable,7,Agriculture,2025-08-05,Actif
+B00796,M80148,F,55.0,Z013,Vulnérable,3,Agriculture,2025-08-21,Actif
+B00797,M96779,F,33.0,Z012,Modérément vulnérable,5,Artisanat,2025-06-16,Actif
+B00798,M78032,M,30.0,Z013,Vulnérable,2,Artisanat,2025-02-28,Actif
+B00799,M72814,F,50.0,Z002,Très vulnérable,7,Petit commerce,2025-04-04,Actif
+B00800,M58043,F,56.0,Z005,Vulnérable,4,Agriculture,2025-03-22,Actif
+B00801,M51192,M,18.0,Z004,Vulnérable,7,Élevage,2025-06-16,Actif
+B00802,M74898,F,60.0,Z016,Très vulnérable,7,Petit commerce,2025-03-02,Actif
+B00803,M41629,F,18.0,Z015,Vulnérable,4,Sans activité,2025-05-07,Actif
+B00804,M56651,M,57.0,Z015,Très vulnérable,8,Élevage,2025-02-04,Actif
+B00805,M71586,F,18.0,Z020,Vulnérable,9,Agriculture,2025-04-20,Actif
+B00806,M13580,F,34.0,Z018,Vulnérable,9,Élevage,2025-01-31,Actif
+B00807,M37435,M,35.0,Z013,Vulnérable,8,Élevage,2025-01-16,Actif
+B00808,M17995,F,41.0,Z010,Vulnérable,3,Agriculture,2025-06-17,Actif
+B00809,M28909,F,24.0,Z016,Vulnérable,6,Agriculture,2025-01-29,Actif
+B00810,M31069,M,18.0,Z010,Vulnérable,8,Agriculture,2025-05-01,Actif
+B00811,M36133,M,27.0,Z015,Vulnérable,5,Petit commerce,2025-05-14,Actif
+B00812,M91939,F,51.0,Z003,Vulnérable,5,Sans activité,2025-04-20,Actif
+B00813,M39080,F,39.0,Z010,Vulnérable,7,Agriculture,2025-04-21,Actif
+B00814,M63594,F,40.0,Z009,Vulnérable,8,Petit commerce,2025-02-06,Actif
+B00815,M91742,M,34.0,Z009,Très vulnérable,6,Sans activité,2025-02-11,Actif
+B00816,M47448,M,40.0,Z010,Vulnérable,6,Élevage,2025-04-06,Actif
+B00817,M35619,F,49.0,Z012,Vulnérable,7,Agriculture,2025-06-11,Actif
+B00818,M93884,F,62.0,Z012,Vulnérable,3,Artisanat,2025-05-26,Sorti du programme
+B00819,M52326,F,35.0,Z019,Modérément vulnérable,8,Sans activité,2025-07-15,Actif
+B00820,M16235,F,35.0,Z004,Très vulnérable,6,Agriculture,2025-04-07,Actif
+B00821,M21096,F,33.0,Z003,Très vulnérable,7,Petit commerce,2025-08-25,Actif
+B00822,M52541,M,54.0,Z015,Vulnérable,6,Élevage,2025-03-23,Actif
+B00823,M13199,F,50.0,Z005,Modérément vulnérable,11,Agriculture,2025-01-12,Actif
+B00824,M29320,M,26.0,Z005,Vulnérable,3,Petit commerce,2025-03-04,Actif
+B00825,M52224,M,49.0,Z003,Vulnérable,8,Petit commerce,2025-03-15,Actif
+B00826,M11907,M,35.0,Z009,Vulnérable,6,Agriculture,2025-02-20,Actif
+B00827,M81194,M,31.0,Z008,Modérément vulnérable,3,Petit commerce,2025-01-24,Actif
+B00828,M13798,F,38.0,Z020,Vulnérable,9,Sans activité,2025-01-12,Actif
+B00829,M41964,F,43.0,Z013,Très vulnérable,8,Sans activité,2025-06-27,Actif
+B00830,M66733,F,31.0,Z011,Vulnérable,3,Sans activité,2025-07-22,Actif
+B00831,M24100,M,28.0,Z011,Vulnérable,4,Agriculture,2025-03-23,Actif
+B00832,M60979,M,64.0,Z005,Vulnérable,9,Sans activité,2025-08-31,Actif
+B00833,M33329,M,41.0,Z018,Vulnérable,6,Élevage,2025-01-27,Actif
+B00834,M89558,F,45.0,Z002,Vulnérable,6,Sans activité,2025-08-08,Actif
+B00835,M64013,F,45.0,Z015,Vulnérable,8,Artisanat,2025-03-24,Actif
+B00836,M51644,M,39.0,Z002,Vulnérable,7,Agriculture,2025-01-05,Actif
+B00837,M73267,F,29.0,Z009,Très vulnérable,6,Agriculture,2025-02-17,Actif
+B00838,M86428,F,54.0,Z004,Modérément vulnérable,4,Petit commerce,2025-05-28,Actif
+B00839,M17476,M,56.0,Z011,Vulnérable,5,Agriculture,2025-01-15,Actif
+B00840,M81710,F,51.0,Z004,Très vulnérable,7,Sans activité,2025-04-07,Actif
+B00841,M78814,M,28.0,Z009,Très vulnérable,7,Agriculture,2025-01-24,Actif
+B00842,M51705,F,47.0,Z001,Modérément vulnérable,4,Artisanat,2025-01-23,Actif
+B00843,M29659,M,47.0,Z005,Vulnérable,7,Élevage,2025-01-15,Actif
+B00844,M59588,F,44.0,Z015,Vulnérable,3,Sans activité,2025-08-28,Actif
+B00845,M43147,M,24.0,Z010,Modérément vulnérable,4,Sans activité,2025-06-14,Actif
+B00846,M40910,F,52.0,Z009,Vulnérable,6,Agriculture,2025-03-08,Actif
+B00847,M60677,M,55.0,Z013,Vulnérable,4,Élevage,2025-05-14,Actif
+B00848,M79342,F,36.0,Z010,Vulnérable,5,Petit commerce,2025-08-18,Actif
+B00849,M61486,M,45.0,Z005,Modérément vulnérable,3,Artisanat,2025-02-15,Actif
+B00850,M63202,M,37.0,Z018,Vulnérable,3,Petit commerce,2025-08-12,Actif
+B00851,M29965,M,48.0,Z006,Modérément vulnérable,8,Agriculture,2025-05-10,Actif
+B00852,M70121,F,30.0,Z001,Vulnérable,10,Petit commerce,2025-01-16,Actif
+B00853,M85491,M,44.0,Z003,Vulnérable,7,Agriculture,2025-07-27,Actif
+B00854,M68768,M,59.0,Z008,Modérément vulnérable,4,Agriculture,2025-03-20,Sorti du programme
+B00855,M55419,F,36.0,Z001,Très vulnérable,3,Agriculture,2025-07-27,Actif
+B00856,M38111,F,46.0,Z010,Vulnérable,7,Agriculture,2025-03-22,Actif
+B00857,M77718,M,36.0,Z019,Vulnérable,7,Petit commerce,2025-07-22,Actif
+B00858,M84906,F,38.0,Z011,Très vulnérable,4,Agriculture,2025-04-01,Actif
+B00859,M76575,M,33.0,Z004,Très vulnérable,4,Agriculture,2025-04-26,Actif
+B00860,M74606,F,24.0,Z001,Vulnérable,5,Agriculture,2025-06-10,Actif
+B00861,M68976,M,18.0,Z010,Très vulnérable,7,Petit commerce,2025-08-23,Actif
+B00862,M26168,F,55.0,Z014,Vulnérable,10,Petit commerce,2025-04-22,Actif
+B00863,M22210,F,52.0,Z013,Très vulnérable,6,Sans activité,2025-04-17,Actif
+B00864,M66675,M,42.0,Z011,Très vulnérable,5,Sans activité,2025-08-30,Actif
+B00865,M30396,F,46.0,Z007,Très vulnérable,6,Agriculture,2025-08-01,Actif
+B00866,M74826,M,42.0,Z007,Modérément vulnérable,8,Petit commerce,2025-07-21,Actif
+B00867,M13658,F,39.0,Z017,Vulnérable,5,Petit commerce,2025-08-02,Actif
+B00868,M34183,F,37.0,Z001,Très vulnérable,7,Élevage,2025-06-07,Actif
+B00869,M39031,F,52.0,Z005,Très vulnérable,8,Agriculture,2025-02-23,Actif
+B00870,M17520,F,34.0,Z005,Très vulnérable,4,Agriculture,2025-07-01,Actif
+B00871,M13779,M,22.0,Z020,Très vulnérable,6,Agriculture,2025-07-08,Actif
+B00872,M10374,M,38.0,Z009,Vulnérable,7,Artisanat,2025-08-19,Sorti du programme
+B00873,M52563,M,68.0,Z003,Vulnérable,5,Agriculture,2025-06-06,Actif
+B00874,M76423,M,51.0,Z017,Très vulnérable,4,Agriculture,2025-07-20,Actif
+B00875,M90187,M,43.0,Z007,Modérément vulnérable,8,Artisanat,2025-02-27,Actif
+B00876,M83559,F,37.0,Z007,Vulnérable,3,Agriculture,2025-05-07,Actif
+B00877,M51880,M,39.0,Z006,Vulnérable,4,Petit commerce,2025-02-13,Actif
+B00878,M75180,F,48.0,Z003,Très vulnérable,6,Agriculture,2025-08-26,Actif
+B00879,M80677,F,33.0,Z008,Modérément vulnérable,8,Sans activité,2025-02-01,Actif
+B00880,M20184,F,41.0,Z010,Modérément vulnérable,7,Agriculture,2025-03-29,Actif
+B00881,M24064,M,29.0,Z008,Très vulnérable,6,Artisanat,2025-02-20,Actif
+B00882,M67505,F,38.0,Z007,Vulnérable,6,Élevage,2025-02-13,Actif
+B00883,M22327,F,37.0,Z004,Vulnérable,6,Élevage,2025-07-12,Actif
+B00884,M58431,M,34.0,Z017,Très vulnérable,6,Élevage,2025-02-07,Actif
+B00885,M21827,M,30.0,Z017,Très vulnérable,4,Élevage,2025-03-01,Actif
+B00886,M85439,F,61.0,Z011,Très vulnérable,5,Élevage,2025-05-16,Actif
+B00887,M86115,F,39.0,Z014,Très vulnérable,6,Agriculture,2025-05-27,Actif
+B00888,M40569,M,18.0,Z018,Vulnérable,9,Artisanat,2025-03-24,Actif
+B00889,M38685,F,44.0,Z003,Vulnérable,5,Sans activité,2025-06-19,Actif
+B00890,M10635,M,33.0,Z002,Modérément vulnérable,3,Agriculture,2025-06-27,Actif
+B00891,M26732,M,40.0,Z004,Vulnérable,5,Agriculture,2025-08-29,Actif
+B00892,M35093,M,56.0,Z012,Très vulnérable,7,Élevage,2025-01-11,Actif
+B00893,M18993,F,32.0,Z001,Vulnérable,8,Agriculture,2025-04-25,Actif
+B00894,M87685,F,46.0,Z015,Vulnérable,9,Petit commerce,2025-09-01,Actif
+B00895,M85405,F,47.0,Z001,Vulnérable,5,Agriculture,2025-08-30,Actif
+B00896,M77339,F,26.0,Z001,Très vulnérable,7,Agriculture,2025-06-01,Sorti du programme
+B00897,M75456,M,52.0,Z019,Vulnérable,11,Petit commerce,2025-07-19,Actif
+B00898,M56207,F,38.0,Z006,Modérément vulnérable,4,Élevage,2025-07-29,Actif
+B00899,M75822,F,56.0,Z011,Vulnérable,7,Agriculture,2025-05-12,Actif
+B00900,M87769,F,38.0,Z009,Vulnérable,7,Petit commerce,2025-05-14,Actif
+B00901,M92731,F,48.0,Z013,Vulnérable,7,Petit commerce,2025-01-24,Actif
+B00902,M27619,M,35.0,Z019,Vulnérable,5,,2025-07-15,Actif
+B00903,M80160,F,69.0,Z011,Vulnérable,7,Artisanat,2025-03-06,Actif
+B00904,M53480,F,43.0,Z006,Modérément vulnérable,3,Petit commerce,2025-06-10,Actif
+B00905,M52157,F,51.0,Z001,Très vulnérable,4,Sans activité,2025-03-08,Actif
+B00906,M13507,F,23.0,Z013,Très vulnérable,7,Sans activité,2025-05-17,Actif
+B00907,M85887,F,47.0,Z008,Très vulnérable,8,Agriculture,2025-03-19,Actif
+B00908,M58504,M,61.0,Z019,Vulnérable,4,Artisanat,2025-07-09,Actif
+B00909,M57456,F,53.0,Z011,Vulnérable,5,Agriculture,2025-08-17,Actif
+B00910,M91842,F,18.0,Z013,Vulnérable,5,Agriculture,2025-03-19,Actif
+B00911,M66146,F,39.0,Z013,Très vulnérable,4,Petit commerce,2025-03-21,Actif
+B00912,M29495,M,50.0,Z010,Vulnérable,8,Agriculture,2025-06-11,Actif
+B00913,M88607,F,39.0,Z007,Vulnérable,5,Sans activité,2025-04-14,Actif
+B00914,M50519,M,24.0,Z009,Vulnérable,9,Petit commerce,2025-04-30,Actif
+B00915,M42675,M,55.0,Z014,Très vulnérable,7,Artisanat,2025-06-21,Actif
+B00916,M39796,M,39.0,Z005,Vulnérable,5,Agriculture,2025-03-18,Actif
+B00917,M95741,M,35.0,Z003,Modérément vulnérable,3,Élevage,2025-03-27,Actif
+B00918,M85431,M,18.0,Z018,Vulnérable,6,Petit commerce,2025-03-24,Actif
+B00919,M98981,F,24.0,Z014,Modérément vulnérable,2,Élevage,2025-07-25,Actif
+B00920,M72663,M,25.0,Z017,Vulnérable,5,Agriculture,2025-04-03,Actif
+B00921,M34063,M,26.0,Z007,Modérément vulnérable,5,Agriculture,2025-02-08,Actif
+B00922,M53403,F,40.0,Z011,Très vulnérable,6,Petit commerce,2025-05-04,Actif
+B00923,M26990,F,39.0,Z012,Très vulnérable,5,Agriculture,2025-07-30,Actif
+B00924,M22513,M,18.0,Z018,Très vulnérable,7,Élevage,2025-03-17,Actif
+B00925,M34087,F,18.0,Z017,Très vulnérable,6,Sans activité,2025-06-20,Actif
+B00926,M59279,M,35.0,Z005,Vulnérable,5,Artisanat,2025-01-11,Actif
+B00927,M33232,F,50.0,Z019,Modérément vulnérable,5,Agriculture,2025-03-31,Actif
+B00928,M43194,F,18.0,Z007,Très vulnérable,9,Élevage,2025-08-31,Actif
+B00929,M46879,F,42.0,Z012,Modérément vulnérable,4,Sans activité,2025-01-26,Actif
+B00930,M39079,F,41.0,Z020,Vulnérable,7,Artisanat,2025-05-24,Actif
+B00931,M61028,M,21.0,Z008,Modérément vulnérable,5,Agriculture,2025-01-23,Actif
+B00932,M32773,F,52.0,Z013,Vulnérable,5,Petit commerce,2025-04-29,Actif
+B00933,M91699,F,60.0,Z020,Très vulnérable,8,Petit commerce,2025-06-16,Sorti du programme
+B00934,M30681,F,53.0,Z013,Vulnérable,10,Sans activité,2025-06-09,Actif
+B00935,M46115,F,18.0,Z013,Modérément vulnérable,5,Agriculture,2025-06-03,Actif
+B00936,M65813,F,33.0,Z015,Très vulnérable,4,Agriculture,2025-08-20,Actif
+B00937,M77492,F,42.0,Z015,Vulnérable,3,Agriculture,2025-07-12,Actif
+B00938,M56597,F,26.0,Z019,Modérément vulnérable,7,Agriculture,2025-08-25,Actif
+B00939,M23869,M,26.0,Z013,Vulnérable,8,Petit commerce,2025-06-22,Actif
+B00940,M36957,M,28.0,Z005,Très vulnérable,7,Petit commerce,2025-03-18,Sorti du programme
+B00941,M64884,M,46.0,Z001,Modérément vulnérable,3,Agriculture,2025-01-13,Actif
+B00942,M88890,M,33.0,Z002,Vulnérable,4,Artisanat,2025-07-01,Actif
+B00943,M36790,M,27.0,Z019,Très vulnérable,6,Agriculture,2025-04-13,Actif
+B00944,M30048,M,47.0,Z016,Très vulnérable,6,Agriculture,2025-02-02,Actif
+B00945,M40273,F,35.0,Z012,Vulnérable,5,Agriculture,2025-04-07,Actif
+B00946,M56542,F,48.0,Z018,Modérément vulnérable,6,Sans activité,2025-01-15,Actif
+B00947,M85393,F,18.0,Z017,Très vulnérable,7,Petit commerce,2025-05-26,Actif
+B00948,M85836,M,71.0,Z006,Modérément vulnérable,11,Petit commerce,2025-08-22,Actif
+B00949,M40819,F,52.0,Z016,Vulnérable,8,Agriculture,2025-02-13,Actif
+B00950,M61958,F,45.0,Z004,Très vulnérable,8,Petit commerce,2025-05-14,Actif
+B00951,M67364,F,30.0,Z020,Vulnérable,8,Élevage,2025-07-07,Actif
+B00952,M98073,M,47.0,Z006,Modérément vulnérable,9,Petit commerce,2025-06-08,Actif
+B00953,M61292,F,46.0,Z005,Vulnérable,6,Agriculture,2025-01-05,Actif
+B00954,M99147,F,42.0,Z003,Vulnérable,7,Agriculture,2025-07-22,Actif
+B00955,M11988,M,20.0,Z011,Vulnérable,3,Agriculture,2025-07-23,Actif
+B00956,M16649,M,44.0,Z018,Vulnérable,5,Agriculture,2025-03-05,Actif
+B00957,M33453,F,44.0,Z011,Vulnérable,4,Sans activité,2025-03-22,Actif
+B00958,M30259,M,42.0,Z001,Vulnérable,10,Petit commerce,2025-03-07,Actif
+B00959,M36016,F,53.0,Z001,Très vulnérable,6,Agriculture,2025-07-14,Actif
+B00960,M40020,F,64.0,Z010,Très vulnérable,4,Agriculture,2025-08-04,Actif
+B00961,M36521,M,58.0,Z018,Modérément vulnérable,6,Agriculture,2025-04-06,Actif
+B00962,M44218,M,38.0,Z011,Modérément vulnérable,8,Élevage,2025-02-26,Actif
+B00963,M51173,F,36.0,Z015,Très vulnérable,5,Agriculture,2025-05-19,Actif
+B00964,M99880,F,45.0,Z017,Très vulnérable,5,Agriculture,2025-05-15,Actif
+B00965,M59518,F,18.0,Z002,Très vulnérable,9,Sans activité,2025-04-05,Actif
+B00966,M33841,F,52.0,Z008,Très vulnérable,5,Artisanat,2025-07-09,Actif
+B00967,M58824,M,24.0,Z001,Très vulnérable,4,Élevage,2025-08-28,Actif
+B00968,M32891,F,46.0,Z008,Très vulnérable,7,Artisanat,2025-01-12,Actif
+B00969,M17789,F,39.0,Z017,Modérément vulnérable,5,Agriculture,2025-03-15,Actif
+B00970,M84006,F,36.0,Z015,Très vulnérable,5,Petit commerce,2025-01-11,Actif
+B00971,M16762,F,32.0,Z006,Très vulnérable,6,Artisanat,2025-05-07,Actif
+B00972,M73569,M,43.0,Z014,Vulnérable,7,Élevage,2025-05-25,Actif
+B00973,M74821,M,18.0,Z014,Vulnérable,5,Petit commerce,2025-05-12,Actif
+B00974,M55334,M,26.0,Z009,Très vulnérable,5,Agriculture,2025-05-24,Actif
+B00975,M51952,M,42.0,Z002,Vulnérable,5,Agriculture,2025-06-22,Actif
+B00976,M92262,M,35.0,Z019,Vulnérable,5,Petit commerce,2025-04-24,Actif
+B00977,M46696,M,31.0,Z011,Vulnérable,5,Agriculture,2025-01-18,Actif
+B00978,M15744,F,30.0,Z003,Vulnérable,6,Sans activité,2025-07-28,Actif
+B00979,M35772,M,40.0,Z013,Vulnérable,6,Petit commerce,2025-01-14,Actif
+B00980,M77601,M,46.0,Z015,Vulnérable,5,Sans activité,2025-05-06,Sorti du programme
+B00981,M20770,F,21.0,Z002,Vulnérable,7,Sans activité,2025-03-30,Actif
+B00982,M56268,F,35.0,Z008,Vulnérable,3,Petit commerce,2025-03-12,Actif
+B00983,M21179,F,43.0,Z019,Modérément vulnérable,5,Sans activité,2025-07-13,Actif
+B00984,M16056,F,27.0,Z011,Très vulnérable,3,Agriculture,2025-02-24,Actif
+B00985,M40702,M,45.0,Z015,Vulnérable,4,Artisanat,2025-05-28,Actif
+B00986,M81779,M,23.0,Z003,Vulnérable,6,Agriculture,2025-02-15,Actif
+B00987,M84047,F,50.0,Z005,Vulnérable,7,Petit commerce,2025-04-29,Actif
+B00988,M92299,F,33.0,Z019,Très vulnérable,6,Agriculture,2025-03-21,Actif
+B00989,M16011,F,29.0,Z002,Modérément vulnérable,2,Petit commerce,2025-04-27,Actif
+B00990,M15777,M,45.0,Z018,Modérément vulnérable,4,Sans activité,2025-06-17,Actif
+B00991,M63076,F,30.0,Z001,Très vulnérable,10,Agriculture,2025-08-04,Actif
+B00992,M70071,M,42.0,Z012,Vulnérable,4,Sans activité,2025-08-26,Actif
+B00993,M64406,F,28.0,Z001,Vulnérable,5,Agriculture,2025-07-23,Actif
+B00994,M20207,F,45.0,Z018,Très vulnérable,2,Sans activité,2025-01-24,Actif
+B00995,M29988,M,38.0,Z010,Très vulnérable,2,Artisanat,2025-04-28,Actif
+B00996,M21438,M,30.0,Z010,Vulnérable,10,Petit commerce,2025-05-20,Actif
+B00997,M29441,F,54.0,Z007,Très vulnérable,8,Artisanat,2025-07-06,Actif
+B00998,M58107,F,18.0,Z014,Très vulnérable,6,Artisanat,2025-08-13,Sorti du programme
+B00999,M76789,F,31.0,Z013,Très vulnérable,8,Petit commerce,2025-07-13,Sorti du programme
+B01000,M11352,M,33.0,Z012,Modérément vulnérable,5,Artisanat,2025-05-14,Actif
+B01001,M64064,F,33.0,Z009,Vulnérable,4,Élevage,2025-05-09,Actif
+B01002,M17753,F,55.0,Z003,Vulnérable,4,Agriculture,2025-07-15,Actif
+B01003,M51124,M,32.0,Z011,Vulnérable,3,Artisanat,2025-04-16,Actif
+B01004,M73019,F,52.0,Z019,Vulnérable,8,Petit commerce,2025-03-11,Sorti du programme
+B01005,M24006,F,37.0,Z005,Modérément vulnérable,6,Agriculture,2025-08-15,Actif
+B01006,M43302,M,29.0,Z009,Vulnérable,9,Agriculture,2025-04-10,Actif
+B01007,M35062,F,21.0,Z001,Très vulnérable,3,Élevage,2025-06-02,Actif
+B01008,M95252,F,39.0,Z002,Modérément vulnérable,8,Petit commerce,2025-01-30,Actif
+B01009,M49071,F,29.0,Z004,Vulnérable,10,Petit commerce,2025-03-01,Actif
+B01010,M70354,F,41.0,Z013,Modérément vulnérable,6,Petit commerce,2025-06-18,Actif
+B01011,M18181,M,28.0,Z005,Modérément vulnérable,5,Agriculture,2025-05-18,Actif
+B01012,M60417,M,63.0,Z019,Très vulnérable,5,Agriculture,2025-01-06,Actif
+B01013,M18583,M,35.0,Z008,Vulnérable,4,Agriculture,2025-04-12,Actif
+B01014,M29290,F,38.0,Z013,Très vulnérable,4,Petit commerce,2025-05-09,Actif
+B01015,M45009,F,48.0,Z011,Très vulnérable,8,Agriculture,2025-06-28,Actif
+B01016,M22003,F,24.0,Z009,Vulnérable,6,Petit commerce,2025-02-21,Actif
+B01017,M79822,M,34.0,Z007,Vulnérable,4,Agriculture,2025-01-25,Actif
+B01018,M66529,F,48.0,Z008,Vulnérable,6,Agriculture,2025-01-16,Actif
+B01019,M89698,F,34.0,Z020,Vulnérable,4,Agriculture,2025-06-02,Actif
+B01020,M56421,M,30.0,Z002,Très vulnérable,5,Petit commerce,2025-07-17,Actif
+B01021,M94530,M,34.0,Z019,Vulnérable,3,Agriculture,2025-07-30,Actif
+B01022,M92949,F,43.0,Z005,Vulnérable,7,Artisanat,2025-06-06,Actif
+B01023,M52177,M,49.0,Z016,Très vulnérable,3,Agriculture,2025-02-27,Actif
+B01024,M36135,M,26.0,Z004,Modérément vulnérable,6,Agriculture,2025-01-28,Actif
+B01025,M75389,F,52.0,Z007,Très vulnérable,2,Petit commerce,2025-01-06,Actif
+B01026,M66339,M,53.0,Z014,Vulnérable,4,Sans activité,2025-03-23,Actif
+B01027,M97328,M,39.0,Z019,Modérément vulnérable,5,Agriculture,2025-07-31,Actif
+B01028,M52994,F,70.0,Z008,Vulnérable,3,Agriculture,2025-01-09,Actif
+B01029,M79392,F,50.0,Z012,Vulnérable,3,Agriculture,2025-06-02,Actif
+B01030,M25854,M,37.0,Z006,Vulnérable,4,Sans activité,2025-04-05,Actif
+B01031,M75950,F,47.0,Z004,Vulnérable,4,Agriculture,2025-04-02,Actif
+B01032,M98887,F,24.0,Z019,Vulnérable,7,Agriculture,2025-01-13,Actif
+B01033,M94813,F,19.0,Z019,Vulnérable,9,Agriculture,2025-04-15,Actif
+B01034,M43305,F,39.0,Z020,Très vulnérable,9,Petit commerce,2025-03-06,Actif
+B01035,M19269,F,30.0,Z020,Vulnérable,5,Agriculture,2025-05-09,Actif
+B01036,M31855,F,34.0,Z018,Vulnérable,8,Petit commerce,2025-02-13,Actif
+B01037,M88349,M,40.0,Z011,Modérément vulnérable,5,Petit commerce,2025-05-02,Actif
+B01038,M34684,M,46.0,Z006,Modérément vulnérable,2,Agriculture,2025-04-07,Actif
+B01039,M40229,M,25.0,Z007,Très vulnérable,6,Élevage,2025-06-14,Actif
+B01040,M65780,F,55.0,Z005,Vulnérable,5,Agriculture,2025-05-16,Actif
+B01041,M38526,F,54.0,Z006,Très vulnérable,7,Petit commerce,2025-03-14,Actif
+B01042,M50062,F,43.0,Z015,Modérément vulnérable,10,Petit commerce,2025-02-06,Actif
+B01043,M43063,M,57.0,Z019,Vulnérable,8,Agriculture,2025-08-11,Actif
+B01044,M82226,M,36.0,Z011,Très vulnérable,8,Agriculture,2025-05-05,Actif
+B01045,M71781,M,26.0,Z014,Très vulnérable,7,Élevage,2025-08-01,Actif
+B01046,M35903,F,45.0,Z005,Vulnérable,6,Artisanat,2025-01-24,Actif
+B01047,M86615,M,49.0,Z018,Vulnérable,7,Élevage,2025-06-04,Actif
+B01048,M51947,F,43.0,Z010,Très vulnérable,4,Élevage,2025-05-19,Actif
+B01049,M22180,M,37.0,Z013,Modérément vulnérable,6,Petit commerce,2025-01-19,Actif
+B01050,M75830,M,40.0,Z017,Modérément vulnérable,7,Petit commerce,2025-03-16,Actif
+B01051,M13577,M,40.0,Z006,Très vulnérable,5,Élevage,2025-01-13,Actif
+B01052,M16541,F,37.0,Z003,Modérément vulnérable,7,Artisanat,2025-01-06,Actif
+B01053,M10771,F,44.0,Z011,Vulnérable,3,Agriculture,2025-08-18,Actif
+B01054,M67103,F,33.0,Z016,Vulnérable,8,Sans activité,2025-08-09,Actif
+B01055,M88165,M,50.0,Z017,Modérément vulnérable,3,Artisanat,2025-02-25,Actif
+B01056,M25435,M,56.0,Z001,Modérément vulnérable,6,Agriculture,2025-03-17,Actif
+B01057,M38135,F,56.0,Z016,Très vulnérable,6,Agriculture,2025-03-03,Actif
+B01058,M85875,M,39.0,Z005,Modérément vulnérable,12,Sans activité,2025-06-27,Actif
+B01059,M61690,F,54.0,Z002,Vulnérable,2,Sans activité,2025-05-04,Actif
+B01060,M42191,M,50.0,Z005,Très vulnérable,7,Agriculture,2025-04-01,Actif
+B01061,M51936,F,41.0,Z002,Très vulnérable,9,Agriculture,2025-04-23,Actif
+B01062,M60504,F,52.0,Z007,Modérément vulnérable,9,Sans activité,2025-05-12,Actif
+B01063,M96585,F,21.0,Z009,Vulnérable,6,Agriculture,2025-07-19,Sorti du programme
+B01064,M47902,F,50.0,Z018,Vulnérable,6,Artisanat,2025-04-15,Actif
+B01065,M51672,F,27.0,Z017,Très vulnérable,3,Sans activité,2025-05-25,Actif
+B01066,M97587,M,22.0,Z015,Vulnérable,4,Agriculture,2025-01-21,Actif
+B01067,M29280,M,41.0,Z002,Vulnérable,4,Élevage,2025-08-08,Actif
+B01068,M58292,F,24.0,Z008,Vulnérable,5,Agriculture,2025-02-02,Actif
+B01069,M13206,M,44.0,Z006,Très vulnérable,6,Petit commerce,2025-04-03,Actif
+B01070,M15080,F,52.0,Z020,Vulnérable,10,Agriculture,2025-03-26,Actif
+B01071,M18255,F,39.0,Z018,Vulnérable,5,Agriculture,2025-06-17,Actif
+B01072,M62938,F,39.0,Z018,Vulnérable,9,Agriculture,2025-01-07,Actif
+B01073,M55256,F,33.0,Z017,Vulnérable,6,Agriculture,2025-08-15,Actif
+B01074,M58980,M,47.0,Z015,Vulnérable,5,Petit commerce,2025-06-17,Actif
+B01075,M97712,F,18.0,Z014,Modérément vulnérable,5,Sans activité,2025-03-06,Actif
+B01076,M60574,F,21.0,Z010,Très vulnérable,2,Petit commerce,2025-03-10,Actif
+B01077,M87888,F,23.0,Z011,Modérément vulnérable,6,Agriculture,2025-08-19,Actif
+B01078,M52269,M,55.0,Z009,Très vulnérable,6,Agriculture,2025-02-19,Actif
+B01079,M67487,F,28.0,Z010,Très vulnérable,9,Petit commerce,2025-03-12,Actif
+B01080,M79158,M,40.0,Z003,Très vulnérable,6,Agriculture,2025-04-27,Sorti du programme
+B01081,M88946,F,35.0,Z005,Vulnérable,7,Élevage,2025-07-12,Actif
+B01082,M17919,F,34.0,Z004,Vulnérable,3,Agriculture,2025-08-17,Actif
+B01083,M46071,M,18.0,Z006,Très vulnérable,6,Agriculture,2025-06-07,Actif
+B01084,M53967,F,47.0,Z009,Vulnérable,6,Agriculture,2025-02-02,Actif
+B01085,M83983,F,18.0,Z008,Vulnérable,4,Agriculture,2025-04-21,Sorti du programme
+B01086,M70760,M,30.0,Z018,Très vulnérable,5,Agriculture,2025-04-20,Actif
+B01087,M89483,F,32.0,Z003,Vulnérable,6,Petit commerce,2025-05-22,Sorti du programme
+B01088,M74166,M,52.0,Z008,Vulnérable,10,Agriculture,2025-04-20,Actif
+B01089,M88154,F,38.0,Z005,Modérément vulnérable,8,Sans activité,2025-06-11,Actif
+B01090,M23630,M,52.0,Z019,Vulnérable,5,Agriculture,2025-06-13,Actif
+B01091,M60899,F,26.0,Z010,Vulnérable,7,Agriculture,2025-08-31,Actif
+B01092,M68028,F,51.0,Z012,Très vulnérable,3,Petit commerce,2025-02-27,Actif
+B01093,M16334,F,36.0,Z019,Très vulnérable,6,Agriculture,2025-02-20,Actif
+B01094,M39426,M,40.0,Z014,Vulnérable,7,Petit commerce,2025-04-02,Actif
+B01095,M63674,F,29.0,Z010,Vulnérable,2,Élevage,2025-07-17,Actif
+B01096,M81855,F,46.0,Z007,Très vulnérable,3,Petit commerce,2025-07-09,Actif
+B01097,M99456,F,61.0,Z015,Vulnérable,5,Agriculture,2025-03-30,Actif
+B01098,M27510,M,54.0,Z008,Vulnérable,5,Agriculture,2025-08-16,Actif
+B01099,M19055,M,52.0,Z015,Modérément vulnérable,5,Sans activité,2025-02-16,Actif
+B01100,M98676,F,38.0,Z004,Vulnérable,4,Artisanat,2025-03-15,Sorti du programme
+B01101,M31832,M,49.0,Z001,Vulnérable,7,Agriculture,2025-01-06,Actif
+B01102,M76964,F,31.0,Z006,Très vulnérable,10,Petit commerce,2025-07-25,Actif
+B01103,M12167,M,,Z014,Vulnérable,5,Élevage,2025-04-04,Actif
+B01104,M32913,M,30.0,Z020,Très vulnérable,8,Sans activité,2025-04-12,Actif
+B01105,M29003,M,38.0,Z004,Très vulnérable,6,Agriculture,2025-01-21,Actif
+B01106,M67540,F,65.0,Z016,Modérément vulnérable,6,Agriculture,2025-06-26,Sorti du programme
+B01107,M29470,F,39.0,Z012,Modérément vulnérable,5,Sans activité,2025-06-18,Actif
+B01108,M27633,F,34.0,Z009,Vulnérable,8,Agriculture,2025-07-16,Actif
+B01109,M92381,F,20.0,Z018,Modérément vulnérable,5,Petit commerce,2025-06-07,Actif
+B01110,M51523,F,46.0,Z010,Très vulnérable,5,Élevage,2025-06-29,Actif
+B01111,M54593,F,23.0,Z011,Modérément vulnérable,9,Sans activité,2025-02-11,Actif
+B01112,M40922,F,48.0,Z001,Vulnérable,7,Petit commerce,2025-01-19,Actif
+B01113,M32231,F,39.0,Z013,Vulnérable,4,Sans activité,2025-08-09,Actif
+B01114,M67317,F,27.0,Z015,Modérément vulnérable,6,Petit commerce,2025-03-25,Actif
+B01115,M57420,M,26.0,Z011,Très vulnérable,6,Agriculture,2025-03-31,Actif
+B01116,M84950,F,50.0,Z016,Vulnérable,9,Élevage,2025-02-06,Actif
+B01117,M91112,F,48.0,Z011,Modérément vulnérable,5,Agriculture,2025-06-25,Actif
+B01118,M28710,M,43.0,Z014,Vulnérable,8,Agriculture,2025-01-27,Actif
+B01119,M99201,M,59.0,Z005,Modérément vulnérable,5,Agriculture,2025-01-22,Actif
+B01120,M48900,F,54.0,Z003,Vulnérable,8,Agriculture,2025-07-26,Actif
+B01121,M98315,M,33.0,Z011,Vulnérable,7,Agriculture,2025-07-08,Actif
+B01122,M44411,M,35.0,Z015,Vulnérable,7,Élevage,2025-05-11,Actif
+B01123,M76878,F,47.0,Z010,Vulnérable,7,Petit commerce,2025-01-11,Actif
+B01124,M89345,F,38.0,Z003,Vulnérable,8,Agriculture,2025-04-23,Actif
+B01125,M57614,F,47.0,Z016,Vulnérable,5,Agriculture,2025-01-22,Actif
+B01126,M55009,M,48.0,Z003,Vulnérable,10,Élevage,2025-06-13,Actif
+B01127,M84278,F,31.0,Z008,Très vulnérable,12,Artisanat,2025-02-07,Actif
+B01128,M34766,F,46.0,Z017,Vulnérable,3,Agriculture,2025-05-23,Actif
+B01129,M88522,M,34.0,Z004,Très vulnérable,5,Artisanat,2025-07-24,Actif
+B01130,M99786,M,61.0,Z005,Très vulnérable,4,Agriculture,2025-05-17,Actif
+B01131,M64884,F,39.0,Z019,Vulnérable,3,Agriculture,2025-01-26,Actif
+B01132,M46288,F,22.0,Z009,Très vulnérable,6,Petit commerce,2025-03-05,Actif
+B01133,M88600,M,50.0,Z005,Vulnérable,4,Agriculture,2025-03-25,Actif
+B01134,M29256,M,30.0,Z001,Vulnérable,4,Agriculture,2025-03-17,Actif
+B01135,M35691,F,55.0,Z010,Vulnérable,11,Artisanat,2025-06-21,Actif
+B01136,M84958,F,58.0,Z017,Vulnérable,7,Agriculture,2025-05-06,Actif
+B01137,M52834,M,23.0,Z005,Vulnérable,6,Petit commerce,2025-04-23,Actif
+B01138,M47713,F,32.0,Z012,Vulnérable,9,Petit commerce,2025-02-15,Actif
+B01139,M95897,F,68.0,Z001,Très vulnérable,8,Petit commerce,2025-04-17,Actif
+B01140,M59093,F,43.0,Z001,Modérément vulnérable,8,Agriculture,2025-05-29,Actif
+B01141,M24622,M,39.0,Z011,Vulnérable,10,Élevage,2025-03-20,Actif
+B01142,M24324,M,42.0,Z002,Modérément vulnérable,6,Agriculture,2025-05-18,Actif
+B01143,M22264,M,39.0,Z020,Vulnérable,7,Agriculture,2025-03-05,Actif
+B01144,M43369,F,46.0,Z013,Modérément vulnérable,12,Sans activité,2025-03-21,Actif
+B01145,M86573,M,36.0,Z009,Modérément vulnérable,4,Petit commerce,2025-01-28,Actif
+B01146,M64437,F,38.0,Z008,Modérément vulnérable,9,Agriculture,2025-02-16,Actif
+B01147,M42722,F,56.0,Z002,Modérément vulnérable,6,Agriculture,2025-03-05,Actif
+B01148,M26065,F,29.0,Z014,Vulnérable,6,Agriculture,2025-08-31,Actif
+B01149,M79009,F,35.0,Z019,Très vulnérable,6,Agriculture,2025-06-04,Actif
+B01150,M65780,M,31.0,Z011,Vulnérable,3,Agriculture,2025-07-18,Actif
+B01151,M77803,M,55.0,Z011,Vulnérable,3,Agriculture,2025-04-16,Actif
+B01152,M86773,M,34.0,Z004,Vulnérable,5,Agriculture,2025-04-05,Actif
+B01153,M22779,F,31.0,Z004,Très vulnérable,5,Sans activité,2025-01-18,Actif
+B01154,M44201,M,22.0,Z001,Modérément vulnérable,9,Petit commerce,2025-04-30,Actif
+B01155,M13282,M,41.0,Z014,Modérément vulnérable,7,Petit commerce,2025-08-01,Actif
+B01156,M28990,M,53.0,Z015,Vulnérable,5,Petit commerce,2025-01-21,Actif
+B01157,M25600,F,27.0,Z012,Vulnérable,7,Agriculture,2025-04-07,Actif
+B01158,M14253,F,39.0,Z002,Vulnérable,4,Agriculture,2025-01-11,Actif
+B01159,M29569,F,32.0,Z002,Vulnérable,7,Agriculture,2025-01-23,Actif
+B01160,M23912,M,20.0,Z006,Modérément vulnérable,8,Agriculture,2025-04-04,Actif
+B01161,M17565,F,47.0,Z013,Vulnérable,4,Élevage,2025-01-21,Actif
+B01162,M81603,F,51.0,Z016,Modérément vulnérable,4,Élevage,2025-02-19,Actif
+B01163,M56640,M,47.0,Z013,Très vulnérable,3,Élevage,2025-04-09,Actif
+B01164,M34952,M,31.0,Z002,Modérément vulnérable,7,Sans activité,2025-02-27,Actif
+B01165,M46840,M,34.0,Z008,Modérément vulnérable,2,Agriculture,2025-07-25,Actif
+B01166,M18159,M,57.0,Z002,Modérément vulnérable,5,Petit commerce,2025-07-17,Actif
+B01167,M11020,M,40.0,Z007,Vulnérable,6,Agriculture,2025-01-20,Actif
+B01168,M79362,M,34.0,Z018,Vulnérable,6,Élevage,2025-03-27,Actif
+B01169,M25067,M,24.0,Z016,Très vulnérable,4,Artisanat,2025-07-27,Actif
+B01170,M79798,M,18.0,Z013,Vulnérable,7,Agriculture,2025-04-12,Actif
+B01171,M73801,F,40.0,Z004,Vulnérable,6,Élevage,2025-01-08,Actif
+B01172,M45763,F,47.0,Z002,Vulnérable,4,Agriculture,2025-05-03,Actif
+B01173,M59836,M,21.0,Z017,Vulnérable,7,Élevage,2025-01-08,Actif
+B01174,M38909,F,53.0,Z009,Vulnérable,12,Sans activité,2025-01-09,Actif
+B01175,M32588,M,42.0,Z002,Modérément vulnérable,9,Petit commerce,2025-08-28,Actif
+B01176,M12303,F,51.0,Z017,Très vulnérable,5,Agriculture,2025-07-01,Actif
+B01177,M99388,F,56.0,Z010,Très vulnérable,7,Petit commerce,2025-02-26,Actif
+B01178,M52908,F,49.0,Z019,Vulnérable,8,Petit commerce,2025-08-01,Actif
+B01179,M13416,F,69.0,Z001,Très vulnérable,8,Agriculture,2025-08-11,Actif
+B01180,M14293,F,38.0,Z004,Vulnérable,7,Artisanat,2025-07-25,Actif
+B01181,M89673,F,36.0,Z006,Très vulnérable,9,Agriculture,2025-04-05,Actif
+B01182,M99172,F,31.0,Z002,Vulnérable,4,Agriculture,2025-06-06,Actif
+B01183,M48436,F,58.0,Z003,Vulnérable,7,Petit commerce,2025-07-08,Actif
+B01184,M35454,M,48.0,Z010,Vulnérable,5,Élevage,2025-08-03,Actif
+B01185,M81023,F,30.0,Z006,Vulnérable,5,Sans activité,2025-01-28,Actif
+B01186,M88319,M,49.0,Z009,Très vulnérable,6,Agriculture,2025-03-03,Actif
+B01187,M23874,M,44.0,Z002,Vulnérable,4,Artisanat,2025-05-31,Actif
+B01188,M80605,F,18.0,Z019,Vulnérable,11,Petit commerce,2025-02-08,Actif
+B01189,M17672,F,58.0,Z010,Vulnérable,8,Petit commerce,2025-06-13,Actif
+B01190,M41281,M,33.0,Z006,Vulnérable,8,Agriculture,2025-04-18,Actif
+B01191,M21103,F,24.0,Z010,Vulnérable,10,Artisanat,2025-01-21,Actif
+B01192,M86528,F,48.0,Z014,Vulnérable,7,Artisanat,2025-08-22,Actif
+B01193,M52235,F,49.0,Z008,Vulnérable,6,Agriculture,2025-01-05,Actif
+B01194,M57559,F,49.0,Z010,Vulnérable,7,Artisanat,2025-01-23,Actif
+B01195,M76125,F,53.0,Z010,Très vulnérable,9,Élevage,2025-08-18,Actif
+B01196,M90470,M,51.0,Z013,Très vulnérable,10,Agriculture,2025-08-05,Actif
+B01197,M23463,M,49.0,Z005,Très vulnérable,5,Petit commerce,2025-06-04,Actif
+B01198,M81530,F,32.0,Z015,Vulnérable,7,Agriculture,2025-06-02,Actif
+B01199,M55787,M,32.0,Z008,Vulnérable,3,Petit commerce,2025-08-27,Sorti du programme
+B01200,M29680,F,57.0,Z017,Vulnérable,8,Petit commerce,2025-05-11,Actif
+B01201,M29369,M,32.0,Z006,Très vulnérable,10,Agriculture,2025-08-08,Actif
+B01202,M92932,F,30.0,Z004,Vulnérable,3,Petit commerce,2025-08-13,Actif
+B01203,M93401,F,31.0,Z005,Modérément vulnérable,3,Agriculture,2025-08-24,Actif
+B01204,M40926,M,37.0,Z002,Vulnérable,4,Agriculture,2025-03-20,Actif
+B01205,M75401,M,54.0,Z013,Vulnérable,8,,2025-04-22,Actif
+B01206,M73822,F,45.0,Z005,Vulnérable,7,Agriculture,2025-08-21,Actif
+B01207,M86512,F,32.0,Z007,Vulnérable,6,Artisanat,2025-04-21,Actif
+B01208,M34837,M,54.0,Z005,Modérément vulnérable,4,Agriculture,2025-06-02,Actif
+B01209,M46999,M,35.0,Z005,Très vulnérable,6,Sans activité,2025-03-08,Actif
+B01210,M41735,F,31.0,Z018,Modérément vulnérable,6,Petit commerce,2025-03-26,Actif
+B01211,M14247,M,49.0,Z020,Très vulnérable,6,Artisanat,2025-08-06,Actif
+B01212,M11601,M,51.0,Z015,Vulnérable,5,Sans activité,2025-07-22,Actif
+B01213,M18499,M,54.0,Z018,Très vulnérable,7,Sans activité,2025-01-05,Actif
+B01214,M57985,M,32.0,Z004,Très vulnérable,8,Sans activité,2025-08-08,Actif
+B01215,M23059,F,37.0,Z001,Très vulnérable,3,Élevage,2025-03-29,Actif
+B01216,M33609,M,20.0,Z006,Vulnérable,4,Sans activité,2025-03-16,Actif
+B01217,M16067,F,18.0,Z003,Très vulnérable,7,Agriculture,2025-02-28,Actif
+B01218,M18402,F,26.0,Z003,Vulnérable,5,Sans activité,2025-04-26,Actif
+B01219,M53077,F,31.0,Z020,Très vulnérable,4,Petit commerce,2025-03-03,Actif
+B01220,M12484,F,42.0,Z003,Vulnérable,4,Agriculture,2025-07-23,Actif
+B01221,M51986,F,34.0,Z006,Très vulnérable,6,Agriculture,2025-03-22,Actif
+B01222,M35032,F,18.0,Z001,Très vulnérable,6,Élevage,2025-04-25,Actif
+B01223,M47968,F,45.0,Z014,Très vulnérable,7,Agriculture,2025-06-13,Sorti du programme
+B01224,M71123,M,38.0,Z009,Modérément vulnérable,6,Petit commerce,2025-07-29,Actif
+B01225,M61062,M,47.0,Z002,Très vulnérable,3,Petit commerce,2025-05-16,Actif
+B01226,M84027,F,48.0,Z005,Vulnérable,6,Agriculture,2025-07-17,Actif
+B01227,M19037,F,18.0,Z001,Vulnérable,7,Agriculture,2025-05-24,Actif
+B01228,M62158,F,50.0,Z020,Très vulnérable,10,Élevage,2025-08-15,Actif
+B01229,M92557,M,27.0,Z006,Modérément vulnérable,4,Agriculture,2025-07-23,Actif
+B01230,M29333,F,40.0,Z001,Très vulnérable,9,Petit commerce,2025-05-04,Actif
+B01231,M76986,M,47.0,Z017,Vulnérable,4,Artisanat,2025-02-23,Actif
+B01232,M10158,F,51.0,Z010,Modérément vulnérable,5,Petit commerce,2025-07-15,Actif
+B01233,M71925,M,48.0,Z011,Modérément vulnérable,7,Élevage,2025-05-10,Actif
+B01234,M61324,M,41.0,Z007,Vulnérable,10,Sans activité,2025-07-30,Actif
+B01235,M14735,M,44.0,Z013,Vulnérable,4,Élevage,2025-08-04,Sorti du programme
+B01236,M47438,F,59.0,Z005,Modérément vulnérable,10,Agriculture,2025-05-26,Actif
+B01237,M87684,M,46.0,Z012,Très vulnérable,7,Sans activité,2025-01-10,Actif
+B01238,M50485,F,28.0,Z005,Vulnérable,8,Petit commerce,2025-08-28,Actif
+B01239,M45280,M,28.0,Z008,Vulnérable,5,Agriculture,2025-06-22,Actif
+B01240,M86019,F,52.0,Z005,Vulnérable,5,Sans activité,2025-07-05,Actif
+B01241,M30998,F,36.0,Z018,Très vulnérable,3,Agriculture,2025-05-25,Actif
+B01242,M14666,F,54.0,Z009,Vulnérable,5,Élevage,2025-07-12,Actif
+B01243,M22796,M,45.0,Z012,Modérément vulnérable,5,Agriculture,2025-02-09,Actif
+B01244,M24207,M,32.0,Z012,Vulnérable,6,Petit commerce,2025-01-26,Actif
+B01245,M94397,F,23.0,Z017,Vulnérable,8,Petit commerce,2025-01-16,Actif
+B01246,M65742,F,38.0,Z009,Vulnérable,6,Élevage,2025-08-25,Actif
+B01247,M26013,M,39.0,Z019,Vulnérable,10,Artisanat,2025-03-02,Actif
+B01248,M10171,F,40.0,Z016,Vulnérable,6,Petit commerce,2025-04-12,Actif
+B01249,M79260,M,24.0,Z018,Vulnérable,7,Agriculture,2025-05-25,Actif
+B01250,M53516,M,35.0,Z011,Vulnérable,5,Agriculture,2025-08-10,Actif
+B01251,M11717,M,43.0,Z005,Modérément vulnérable,9,Agriculture,2025-07-24,Actif
+B01252,M20855,M,27.0,Z003,Très vulnérable,8,Agriculture,2025-02-17,Actif
+B01253,M30180,F,34.0,Z014,Vulnérable,4,Sans activité,2025-01-14,Actif
+B01254,M75537,M,50.0,Z001,Modérément vulnérable,5,Agriculture,2025-01-15,Actif
+B01255,M69964,F,34.0,Z011,Très vulnérable,4,Agriculture,2025-04-19,Actif
+B01256,M22292,M,52.0,Z008,Vulnérable,6,Agriculture,2025-06-13,Actif
+B01257,M65730,M,37.0,Z004,Très vulnérable,10,Agriculture,2025-08-14,Actif
+B01258,M83044,F,43.0,Z017,Modérément vulnérable,6,Agriculture,2025-03-01,Actif
+B01259,M91391,M,58.0,Z005,Vulnérable,9,Artisanat,2025-06-28,Actif
+B01260,M61660,M,52.0,Z002,Vulnérable,9,Artisanat,2025-06-28,Actif
+B01261,M46775,F,57.0,Z005,Modérément vulnérable,9,Agriculture,2025-04-14,Actif
+B01262,M90677,F,27.0,Z008,Vulnérable,5,Petit commerce,2025-07-27,Actif
+B01263,M94861,F,42.0,Z011,Vulnérable,5,Élevage,2025-03-05,Actif
+B01264,M22221,M,49.0,Z019,Très vulnérable,7,Petit commerce,2025-05-20,Actif
+B01265,M47122,F,48.0,Z006,Vulnérable,4,Élevage,2025-03-18,Actif
+B01266,M32877,M,40.0,Z016,Vulnérable,6,Agriculture,2025-08-12,Actif
+B01267,M84087,F,56.0,Z015,Vulnérable,8,Agriculture,2025-01-15,Actif
+B01268,M60070,M,39.0,Z006,Modérément vulnérable,3,Petit commerce,2025-08-18,Actif
+B01269,M82651,F,44.0,Z013,Vulnérable,10,Petit commerce,2025-05-23,Actif
+B01270,M29045,F,45.0,Z013,Vulnérable,4,Artisanat,2025-06-27,Actif
+B01271,M36988,M,40.0,Z004,Très vulnérable,6,Petit commerce,2025-03-25,Actif
+B01272,M52670,M,39.0,Z019,Vulnérable,6,Agriculture,2025-08-28,Actif
+B01273,M38716,F,56.0,Z001,Vulnérable,5,Petit commerce,2025-05-24,Actif
+B01274,M32473,F,50.0,Z001,Modérément vulnérable,8,Élevage,2025-08-17,Actif
+B01275,M38232,F,64.0,Z011,Vulnérable,5,Artisanat,2025-02-05,Sorti du programme
+B01276,M47486,F,40.0,Z006,Vulnérable,6,Petit commerce,2025-04-04,Actif
+B01277,M52284,M,29.0,Z011,Vulnérable,6,Petit commerce,2025-02-12,Actif
+B01278,M70387,M,34.0,Z005,Modérément vulnérable,7,Artisanat,2025-01-27,Actif
+B01279,M83185,F,32.0,Z018,Très vulnérable,4,Sans activité,2025-08-10,Actif
+B01280,M55019,M,51.0,Z008,Très vulnérable,9,Élevage,2025-06-24,Actif
+B01281,M77523,F,26.0,Z002,Vulnérable,9,Petit commerce,2025-08-25,Actif
+B01282,M91665,F,26.0,Z005,Vulnérable,5,Petit commerce,2025-08-03,Sorti du programme
+B01283,M94645,M,37.0,Z003,Vulnérable,2,Agriculture,2025-08-19,Actif
+B01284,M69867,M,18.0,Z020,Vulnérable,5,Petit commerce,2025-03-28,Sorti du programme
+B01285,M31686,M,35.0,Z015,Modérément vulnérable,4,Artisanat,2025-05-20,Actif
+B01286,M38372,M,36.0,Z005,Très vulnérable,8,Élevage,2025-05-06,Actif
+B01287,M89092,M,18.0,Z004,Vulnérable,5,Sans activité,2025-02-11,Actif
+B01288,M77671,M,58.0,Z014,Vulnérable,4,Élevage,2025-06-03,Actif
+B01289,M21861,M,30.0,Z015,Vulnérable,5,Sans activité,2025-04-10,Actif
+B01290,M35804,M,49.0,Z009,Très vulnérable,5,Agriculture,2025-06-17,Actif
+B01291,M66013,M,69.0,Z018,Vulnérable,4,Petit commerce,2025-03-11,Actif
+B01292,M97894,F,37.0,Z008,Très vulnérable,6,Sans activité,2025-05-16,Actif
+B01293,M82699,M,26.0,Z012,Vulnérable,8,Sans activité,2025-04-04,Actif
+B01294,M17671,F,48.0,Z001,Vulnérable,5,Artisanat,2025-04-08,Sorti du programme
+B01295,M32008,F,41.0,Z010,Vulnérable,6,Élevage,2025-04-21,Actif
+B01296,M49211,F,43.0,Z004,Vulnérable,6,Petit commerce,2025-07-09,Actif
+B01297,M24401,M,33.0,Z002,Modérément vulnérable,8,Petit commerce,2025-03-28,Sorti du programme
+B01298,M35198,M,25.0,Z007,Vulnérable,6,Agriculture,2025-04-11,Actif
+B01299,M69164,F,44.0,Z012,Vulnérable,5,Petit commerce,2025-04-01,Actif
+B01300,M67916,M,34.0,Z017,Très vulnérable,10,Agriculture,2025-05-24,Actif
+B01301,M89404,M,45.0,Z006,Très vulnérable,5,Agriculture,2025-07-25,Actif
+B01302,M85312,M,32.0,Z010,Très vulnérable,4,Agriculture,2025-02-16,Actif
+B01303,M29346,M,19.0,Z013,Très vulnérable,3,Élevage,2025-06-29,Actif
+B01304,M96775,M,24.0,Z001,Vulnérable,9,Petit commerce,2025-08-13,Actif
+B01305,M61131,F,46.0,Z011,Vulnérable,4,Agriculture,2025-01-10,Actif
+B01306,M48462,F,51.0,Z012,Vulnérable,6,Agriculture,2025-06-03,Actif
+B01307,M41764,M,38.0,Z002,Très vulnérable,3,Petit commerce,2025-08-18,Actif
+B01308,M65833,M,31.0,Z008,Vulnérable,5,Petit commerce,2025-02-10,Actif
+B01309,M77216,F,39.0,Z008,Très vulnérable,3,Agriculture,2025-04-15,Actif
+B01310,M93661,F,26.0,Z015,Très vulnérable,3,Élevage,2025-03-14,Actif
+B01311,M47431,F,28.0,Z006,Vulnérable,6,Agriculture,2025-06-29,Sorti du programme
+B01312,M58490,M,39.0,Z007,Vulnérable,9,Agriculture,2025-04-28,Actif
+B01313,M88262,M,53.0,Z001,Vulnérable,4,Sans activité,2025-05-16,Actif
+B01314,M21290,M,42.0,Z005,Très vulnérable,3,Petit commerce,2025-01-13,Actif
+B01315,M24979,F,49.0,Z013,Modérément vulnérable,7,Agriculture,2025-08-14,Actif
+B01316,M81036,M,37.0,Z006,Vulnérable,6,Agriculture,2025-06-12,Actif
+B01317,M15706,F,48.0,Z012,Vulnérable,6,Sans activité,2025-08-02,Actif
+B01318,M99197,M,34.0,Z006,Vulnérable,4,Agriculture,2025-04-11,Actif
+B01319,M58410,M,61.0,Z011,Modérément vulnérable,5,Agriculture,2025-04-12,Actif
+B01320,M10072,F,43.0,Z013,Vulnérable,6,Agriculture,2025-03-18,Actif
+B01321,M30265,M,40.0,Z008,Vulnérable,9,Artisanat,2025-02-08,Actif
+B01322,M61781,M,75.0,Z017,Vulnérable,4,Petit commerce,2025-01-12,Actif
+B01323,M34117,M,69.0,Z001,Très vulnérable,7,Agriculture,2025-07-11,Actif
+B01324,M82407,M,26.0,Z002,Très vulnérable,8,Sans activité,2025-06-10,Sorti du programme
+B01325,M31080,M,53.0,Z011,Vulnérable,5,Artisanat,2025-01-16,Sorti du programme
+B01326,M70879,M,67.0,Z003,Vulnérable,3,Élevage,2025-02-28,Actif
+B01327,M12948,F,44.0,Z005,Très vulnérable,7,Agriculture,2025-03-18,Actif
+B01328,M85904,M,22.0,Z005,Vulnérable,8,Agriculture,2025-05-04,Actif
+B01329,M96144,M,33.0,Z016,Vulnérable,10,Petit commerce,2025-02-20,Actif
+B01330,M71446,M,25.0,Z005,Modérément vulnérable,10,Élevage,2025-02-27,Actif
+B01331,M74180,M,49.0,Z008,Très vulnérable,9,Artisanat,2025-05-26,Actif
+B01332,M36677,F,50.0,Z017,Modérément vulnérable,5,Petit commerce,2025-06-20,Actif
+B01333,M52134,F,27.0,Z009,Vulnérable,3,Artisanat,2025-04-13,Actif
+B01334,M53228,F,49.0,Z017,Vulnérable,5,Agriculture,2025-01-27,Actif
+B01335,M27709,M,27.0,Z012,Vulnérable,5,Petit commerce,2025-04-26,Actif
+B01336,M90609,F,44.0,Z016,Très vulnérable,5,Agriculture,2025-04-04,Actif
+B01337,M90640,M,32.0,Z007,Vulnérable,7,Artisanat,2025-01-17,Actif
+B01338,M24820,F,54.0,Z010,Vulnérable,8,Agriculture,2025-03-10,Actif
+B01339,M23421,F,38.0,Z001,Vulnérable,6,Élevage,2025-07-22,Actif
+B01340,M17953,F,50.0,Z014,Vulnérable,9,Agriculture,2025-03-04,Actif
+B01341,M25217,M,22.0,Z001,Vulnérable,11,Élevage,2025-04-27,Actif
+B01342,M32789,F,54.0,Z015,Vulnérable,7,Agriculture,2025-07-01,Actif
+B01343,M19912,M,25.0,Z020,Vulnérable,7,Agriculture,2025-02-26,Actif
+B01344,M74981,F,43.0,Z019,Très vulnérable,11,Sans activité,2025-01-08,Actif
+B01345,M93675,F,57.0,Z013,Vulnérable,6,Petit commerce,2025-07-09,Actif
+B01346,M15050,M,37.0,Z015,Très vulnérable,4,Petit commerce,2025-03-07,Actif
+B01347,M74378,M,55.0,Z004,Très vulnérable,5,Agriculture,2025-02-08,Sorti du programme
+B01348,M80231,F,41.0,Z009,Vulnérable,5,Sans activité,2025-01-30,Actif
+B01349,M70511,M,53.0,Z015,Vulnérable,7,Élevage,2025-06-13,Actif
+B01350,M97014,M,59.0,Z002,Modérément vulnérable,7,Petit commerce,2025-02-02,Actif
+B01351,M33916,F,47.0,Z005,Vulnérable,6,Agriculture,2025-04-07,Actif
+B01352,M31396,M,55.0,Z003,Modérément vulnérable,6,Petit commerce,2025-03-14,Actif
+B01353,M13095,F,68.0,Z005,Vulnérable,5,Agriculture,2025-04-06,Actif
+B01354,M84781,M,57.0,Z002,Modérément vulnérable,9,Agriculture,2025-04-25,Actif
+B01355,M86468,F,26.0,Z004,Vulnérable,8,Agriculture,2025-06-07,Sorti du programme
+B01356,M60732,M,45.0,Z013,Modérément vulnérable,5,Sans activité,2025-03-02,Actif
+B01357,M21231,M,43.0,Z019,Vulnérable,6,Agriculture,2025-02-07,Actif
+B01358,M33263,M,28.0,Z010,Vulnérable,4,Artisanat,2025-02-25,Actif
+B01359,M42516,F,35.0,Z019,Très vulnérable,6,Agriculture,2025-01-06,Actif
+B01360,M75301,F,18.0,Z007,Vulnérable,3,Agriculture,2025-04-18,Actif
+B01361,M72541,M,18.0,Z014,Vulnérable,9,Agriculture,2025-06-24,Sorti du programme
+B01362,M36605,M,48.0,Z006,Vulnérable,5,Agriculture,2025-01-11,Actif
+B01363,M70423,M,36.0,Z010,Très vulnérable,8,Sans activité,2025-01-25,Actif
+B01364,M87723,M,36.0,Z003,Vulnérable,5,Agriculture,2025-06-04,Actif
+B01365,M20886,F,36.0,Z015,Très vulnérable,6,Agriculture,2025-07-02,Actif
+B01366,M50592,M,33.0,Z005,Modérément vulnérable,5,Élevage,2025-03-31,Actif
+B01367,M86735,F,29.0,Z009,Modérément vulnérable,6,Petit commerce,2025-03-05,Sorti du programme
+B01368,M69558,F,48.0,Z020,Très vulnérable,6,Artisanat,2025-07-02,Actif
+B01369,M46734,F,37.0,Z009,Vulnérable,4,Sans activité,2025-07-14,Actif
+B01370,M81114,F,56.0,Z018,Très vulnérable,6,Élevage,2025-01-06,Actif
+B01371,M58509,M,25.0,Z017,Vulnérable,3,Sans activité,2025-04-20,Actif
+B01372,M28459,M,47.0,Z009,Vulnérable,4,Petit commerce,2025-02-16,Actif
+B01373,M25052,F,49.0,Z003,Modérément vulnérable,6,Artisanat,2025-04-22,Actif
+B01374,M13973,F,35.0,Z003,Vulnérable,6,Agriculture,2025-01-26,Actif
+B01375,M85917,F,28.0,Z008,Très vulnérable,7,Artisanat,2025-05-22,Actif
+B01376,M65048,M,54.0,Z008,Modérément vulnérable,5,Agriculture,2025-01-11,Actif
+B01377,M73412,F,51.0,Z015,Vulnérable,4,Sans activité,2025-05-15,Actif
+B01378,M47086,F,51.0,Z015,Très vulnérable,8,Agriculture,2025-01-29,Sorti du programme
+B01379,M99488,F,50.0,Z002,Vulnérable,4,Agriculture,2025-03-21,Actif
+B01380,M19397,F,44.0,Z007,Vulnérable,7,Élevage,2025-05-02,Actif
+B01381,M48662,M,36.0,Z001,Vulnérable,9,Agriculture,2025-03-04,Actif
+B01382,M30155,M,58.0,Z004,Très vulnérable,8,Agriculture,2025-08-30,Actif
+B01383,M11251,M,64.0,Z019,Très vulnérable,9,Agriculture,2025-05-06,Actif
+B01384,M66751,M,54.0,Z005,Modérément vulnérable,6,Petit commerce,2025-02-07,Actif
+B01385,M99704,M,62.0,Z002,Vulnérable,6,Agriculture,2025-03-25,Actif
+B01386,M56026,F,18.0,Z014,Vulnérable,4,Agriculture,2025-04-20,Actif
+B01387,M76979,M,40.0,Z002,Vulnérable,4,Agriculture,2025-07-16,Actif
+B01388,M23539,M,34.0,Z018,Très vulnérable,5,Sans activité,2025-06-04,Actif
+B01389,M81072,F,25.0,Z013,Vulnérable,3,Sans activité,2025-02-16,Actif
+B01390,M54552,M,18.0,Z014,Modérément vulnérable,10,Sans activité,2025-05-25,Actif
+B01391,M68221,M,50.0,Z011,Vulnérable,6,Sans activité,2025-06-14,Actif
+B01392,M80350,M,51.0,Z006,Vulnérable,5,Sans activité,2025-06-25,Actif
+B01393,M25248,M,29.0,Z001,Vulnérable,5,Sans activité,2025-01-26,Actif
+B01394,M83646,F,33.0,Z005,Vulnérable,4,Agriculture,2025-04-10,Actif
+B01395,M92681,F,29.0,Z001,Vulnérable,4,Petit commerce,2025-05-11,Actif
+B01396,M99248,M,27.0,Z015,Vulnérable,5,Petit commerce,2025-06-29,Actif
+B01397,M76265,F,37.0,Z008,Vulnérable,6,Agriculture,2025-02-23,Actif
+B01398,M35320,F,66.0,Z013,Vulnérable,4,Petit commerce,2025-05-21,Actif
+B01399,M19829,F,35.0,Z017,Modérément vulnérable,10,Agriculture,2025-02-01,Actif
+B01400,M37851,F,42.0,Z005,Vulnérable,4,Sans activité,2025-08-26,Actif
+B01401,M12610,F,43.0,Z017,Vulnérable,5,Artisanat,2025-06-08,Actif
+B01402,M64682,F,36.0,Z002,Vulnérable,6,Agriculture,2025-05-29,Sorti du programme
+B01403,M48075,M,47.0,Z010,Très vulnérable,4,Agriculture,2025-03-14,Actif
+B01404,M22657,M,39.0,Z015,Très vulnérable,7,Petit commerce,2025-02-17,Actif
+B01405,M20600,M,46.0,Z015,Très vulnérable,5,Agriculture,2025-02-06,Actif
+B01406,M53224,M,36.0,Z013,Vulnérable,6,Agriculture,2025-02-27,Actif
+B01407,M92942,M,25.0,Z011,Vulnérable,7,Petit commerce,2025-05-19,Actif
+B01408,M35023,M,40.0,Z004,Très vulnérable,3,Élevage,2025-06-12,Actif
+B01409,M92743,F,46.0,Z005,Modérément vulnérable,6,Agriculture,2025-03-10,Actif
+B01410,M59311,F,25.0,Z001,Modérément vulnérable,5,Agriculture,2025-02-17,Actif
+B01411,M52616,F,20.0,Z008,Vulnérable,2,Artisanat,2025-04-16,Actif
+B01412,M82943,F,42.0,Z005,Vulnérable,11,Artisanat,2025-07-18,Actif
+B01413,M71316,M,37.0,Z005,Vulnérable,3,Élevage,2025-08-10,Actif
+B01414,M70996,F,36.0,Z013,Très vulnérable,3,Petit commerce,2025-05-04,Actif
+B01415,M17212,F,35.0,Z003,Modérément vulnérable,9,Agriculture,2025-06-23,Actif
+B01416,M80321,M,28.0,Z004,Modérément vulnérable,10,Agriculture,2025-05-11,Actif
+B01417,M24677,F,60.0,Z015,Vulnérable,6,Sans activité,2025-05-27,Actif
+B01418,M53656,M,18.0,Z007,Vulnérable,5,Agriculture,2025-08-11,Sorti du programme
+B01419,M84501,F,38.0,Z015,Modérément vulnérable,5,Agriculture,2025-08-23,Actif
+B01420,M78415,F,37.0,Z003,Modérément vulnérable,4,Agriculture,2025-08-22,Actif
+B01421,M73829,M,47.0,Z007,Très vulnérable,6,Petit commerce,2025-08-02,Actif
+B01422,M78672,M,44.0,Z013,Vulnérable,4,Agriculture,2025-06-26,Actif
+B01423,M55523,F,43.0,Z011,Vulnérable,8,Agriculture,2025-07-17,Actif
+B01424,M55566,M,24.0,Z005,Très vulnérable,7,Petit commerce,2025-06-23,Actif
+B01425,M70820,F,24.0,Z020,Modérément vulnérable,7,Agriculture,2025-03-15,Actif
+B01426,M41128,M,45.0,Z007,Vulnérable,5,Agriculture,2025-03-07,Actif
+B01427,M41662,M,34.0,Z013,Très vulnérable,8,Élevage,2025-04-18,Actif
+B01428,M45022,F,37.0,Z003,Modérément vulnérable,5,Agriculture,2025-07-04,Actif
+B01429,M89359,F,52.0,Z003,Vulnérable,11,Agriculture,2025-01-08,Actif
+B01430,M52408,F,45.0,Z001,Vulnérable,9,Artisanat,2025-02-21,Actif
+B01431,M20730,M,18.0,Z004,Très vulnérable,8,Élevage,2025-07-31,Actif
+B01432,M72691,F,53.0,Z004,Vulnérable,9,Agriculture,2025-06-12,Actif
+B01433,M65786,F,32.0,Z016,Vulnérable,4,Artisanat,2025-03-02,Actif
+B01434,M64180,M,34.0,Z003,Modérément vulnérable,5,Agriculture,2025-07-10,Actif
+B01435,M18479,F,36.0,Z007,Très vulnérable,7,Agriculture,2025-05-27,Actif
+B01436,M78072,F,67.0,Z019,Vulnérable,3,Sans activité,2025-07-23,Actif
+B01437,M40043,M,51.0,Z007,Vulnérable,5,Sans activité,2025-06-23,Actif
+B01438,M98633,F,63.0,Z003,Vulnérable,7,Sans activité,2025-01-05,Actif
+B01439,M69139,M,44.0,Z018,Vulnérable,4,Sans activité,2025-01-15,Actif
+B01440,M62665,M,39.0,Z003,Très vulnérable,7,Petit commerce,2025-06-17,Actif
+B01441,M76791,M,53.0,Z019,Vulnérable,5,Agriculture,2025-05-12,Actif
+B01442,M97431,M,43.0,Z019,Vulnérable,10,Agriculture,2025-02-01,Actif
+B01443,M36709,F,37.0,Z004,Très vulnérable,6,Agriculture,2025-07-05,Actif
+B01444,M87299,F,28.0,Z005,Modérément vulnérable,9,Agriculture,2025-04-27,Actif
+B01445,M20942,M,52.0,Z014,Vulnérable,7,Petit commerce,2025-05-26,Actif
+B01446,M78631,M,55.0,Z006,Vulnérable,6,Sans activité,2025-01-21,Actif
+B01447,M72317,F,36.0,Z003,Très vulnérable,8,Agriculture,2025-04-28,Sorti du programme
+B01448,M83424,M,18.0,Z009,Très vulnérable,6,Petit commerce,2025-03-03,Actif
+B01449,M83081,F,46.0,Z001,Vulnérable,9,Élevage,2025-05-06,Actif
+B01450,M16904,F,25.0,Z005,Vulnérable,5,Agriculture,2025-06-21,Actif
+B01451,M79655,F,29.0,Z012,Modérément vulnérable,8,Agriculture,2025-03-15,Actif
+B01452,M30156,M,31.0,Z020,Très vulnérable,6,Agriculture,2025-07-05,Actif
+B01453,M42302,M,44.0,Z001,Modérément vulnérable,10,Agriculture,2025-04-09,Actif
+B01454,M78630,M,55.0,Z002,Vulnérable,3,Agriculture,2025-05-15,Actif
+B01455,M91410,M,25.0,Z009,Vulnérable,6,Petit commerce,2025-04-07,Actif
+B01456,M63942,M,69.0,Z016,Vulnérable,5,Élevage,2025-02-23,Actif
+B01457,M63374,F,51.0,Z003,Modérément vulnérable,3,Petit commerce,2025-01-19,Actif
+B01458,M28122,M,47.0,Z011,Modérément vulnérable,6,Agriculture,2025-01-12,Actif
+B01459,M58343,M,29.0,Z006,Vulnérable,4,Petit commerce,2025-01-18,Actif
+B01460,M77672,F,49.0,Z009,Vulnérable,5,Élevage,2025-05-20,Actif
+B01461,M90990,F,39.0,Z003,Très vulnérable,5,Agriculture,2025-06-08,Actif
+B01462,M49100,F,69.0,Z017,Vulnérable,6,Agriculture,2025-03-05,Actif
+B01463,M70524,F,62.0,Z008,Vulnérable,6,Petit commerce,2025-05-06,Actif
+B01464,M37228,M,43.0,Z001,Très vulnérable,3,Agriculture,2025-03-31,Actif
+B01465,M97333,F,49.0,Z012,Très vulnérable,5,Petit commerce,2025-04-16,Actif
+B01466,M96586,M,19.0,Z005,Vulnérable,4,Agriculture,2025-04-23,Actif
+B01467,M61121,F,53.0,Z015,Très vulnérable,8,Agriculture,2025-08-29,Actif
+B01468,M70522,M,39.0,Z001,Très vulnérable,4,Sans activité,2025-04-12,Actif
+B01469,M95246,F,34.0,Z008,Vulnérable,6,Sans activité,2025-03-28,Actif
+B01470,M25855,F,42.0,Z013,Modérément vulnérable,4,Agriculture,2025-02-11,Actif
+B01471,M56215,M,49.0,Z006,Vulnérable,9,Agriculture,2025-02-10,Actif
+B01472,M29610,M,51.0,Z007,Vulnérable,8,Agriculture,2025-03-26,Actif
+B01473,M64696,M,24.0,Z007,Très vulnérable,7,Agriculture,2025-04-30,Actif
+B01474,M78455,M,20.0,Z014,Très vulnérable,7,Élevage,2025-07-08,Actif
+B01475,M65760,M,35.0,Z019,Modérément vulnérable,5,Artisanat,2025-08-29,Actif
+B01476,M11984,F,42.0,Z019,Très vulnérable,6,Sans activité,2025-01-17,Actif
+B01477,M19303,F,18.0,Z004,Vulnérable,4,Agriculture,2025-03-07,Sorti du programme
+B01478,M84092,F,45.0,Z010,Vulnérable,5,Petit commerce,2025-02-06,Actif
+B01479,M76215,F,44.0,Z008,Vulnérable,4,Élevage,2025-08-17,Actif
+B01480,M11376,F,20.0,Z004,Modérément vulnérable,8,Agriculture,2025-04-09,Actif
+B01481,M76048,F,51.0,Z013,Vulnérable,4,Petit commerce,2025-07-09,Actif
+B01482,M49069,F,24.0,Z017,Très vulnérable,7,Agriculture,2025-01-10,Actif
+B01483,M13966,M,18.0,Z014,Très vulnérable,6,Agriculture,2025-07-01,Actif
+B01484,M87205,M,21.0,Z005,Modérément vulnérable,9,Agriculture,2025-08-29,Actif
+B01485,M74785,F,21.0,Z017,Modérément vulnérable,7,Petit commerce,2025-06-02,Actif
+B01486,M48787,F,40.0,Z015,Très vulnérable,3,Agriculture,2025-06-30,Actif
+B01487,M12397,M,59.0,Z007,Modérément vulnérable,5,Sans activité,2025-01-25,Actif
+B01488,M49202,F,48.0,Z012,Vulnérable,6,Agriculture,2025-01-17,Actif
+B01489,M61833,M,55.0,Z014,Très vulnérable,3,Petit commerce,2025-07-21,Actif
+B01490,M50429,F,49.0,Z015,Modérément vulnérable,7,Petit commerce,2025-03-09,Actif
+B01491,M97555,M,24.0,Z007,Vulnérable,7,Artisanat,2025-01-21,Actif
+B01492,M35519,F,29.0,Z002,Très vulnérable,2,Élevage,2025-01-26,Sorti du programme
+B01493,M48554,F,39.0,Z013,Vulnérable,7,Petit commerce,2025-03-23,Actif
+B01494,M76288,F,42.0,Z010,Très vulnérable,6,Petit commerce,2025-07-03,Actif
+B01495,M52370,M,30.0,Z011,Vulnérable,3,Agriculture,2025-07-31,Actif
+B01496,M33228,F,25.0,Z016,Très vulnérable,6,Agriculture,2025-08-17,Actif
+B01497,M50966,F,18.0,Z017,Vulnérable,6,Agriculture,2025-08-18,Actif
+B01498,M79206,M,41.0,Z012,Modérément vulnérable,10,Agriculture,2025-02-16,Actif
+B01499,M54615,M,45.0,Z015,Très vulnérable,6,Sans activité,2025-04-23,Actif
+B01500,M92823,F,61.0,Z014,Très vulnérable,8,Agriculture,2025-03-12,Actif
+B01501,M17221,M,28.0,Z009,Vulnérable,4,Agriculture,2025-06-25,Actif
+B01502,M15773,F,35.0,Z011,Vulnérable,8,Agriculture,2025-08-01,Actif
+B01503,M11642,F,25.0,Z010,Vulnérable,8,Artisanat,2025-06-23,Actif
+B01504,M11131,M,34.0,Z009,Vulnérable,7,Agriculture,2025-07-27,Actif
+B01505,M35060,M,48.0,Z007,Vulnérable,6,Petit commerce,2025-07-06,Actif
+B01506,M77450,F,41.0,Z014,Modérément vulnérable,7,Petit commerce,2025-04-06,Actif
+B01507,M74414,F,44.0,Z002,Très vulnérable,7,Agriculture,2025-07-02,Actif
+B01508,M78580,F,39.0,Z009,Très vulnérable,3,Artisanat,2025-01-24,Sorti du programme
+B01509,M75693,M,31.0,Z010,Vulnérable,6,Agriculture,2025-08-28,Actif
+B01510,M31073,F,48.0,Z017,Vulnérable,5,Agriculture,2025-03-04,Actif
+B01511,M31839,M,26.0,Z008,Très vulnérable,5,Agriculture,2025-04-21,Actif
+B01512,M39682,F,48.0,Z008,Vulnérable,6,Agriculture,2025-06-13,Actif
+B01513,M19005,F,32.0,Z009,Vulnérable,6,Agriculture,2025-03-26,Actif
+B01514,M29241,M,40.0,Z017,Très vulnérable,3,Élevage,2025-07-20,Actif
+B01515,M17946,M,25.0,Z014,Très vulnérable,3,Petit commerce,2025-06-21,Actif
+B01516,M24466,M,18.0,Z009,Très vulnérable,4,Petit commerce,2025-02-17,Actif
+B01517,M57948,M,47.0,Z005,Vulnérable,8,Sans activité,2025-02-06,Actif
+B01518,M37874,F,63.0,Z020,Modérément vulnérable,6,Petit commerce,2025-08-17,Actif
+B01519,M28192,F,66.0,Z007,Très vulnérable,4,Sans activité,2025-01-07,Actif
+B01520,M16725,M,70.0,Z006,Vulnérable,8,Élevage,2025-02-28,Actif
+B01521,M15157,M,45.0,Z006,Vulnérable,7,Agriculture,2025-04-29,Actif
+B01522,M48210,M,45.0,Z003,Très vulnérable,7,Agriculture,2025-01-17,Actif
+B01523,M66195,F,25.0,Z009,Vulnérable,8,Agriculture,2025-07-17,Actif
+B01524,M78958,F,45.0,Z003,Très vulnérable,11,Petit commerce,2025-07-05,Actif
+B01525,M90272,M,44.0,Z005,Vulnérable,6,Agriculture,2025-04-16,Sorti du programme
+B01526,M72808,M,30.0,Z015,Vulnérable,5,Agriculture,2025-08-28,Actif
+B01527,M85207,M,62.0,Z003,Vulnérable,7,Agriculture,2025-05-01,Actif
+B01528,M39818,M,43.0,Z001,Très vulnérable,2,Agriculture,2025-01-25,Actif
+B01529,M15807,M,33.0,Z018,Vulnérable,4,Sans activité,2025-05-07,Actif
+B01530,M41000,F,18.0,Z003,Très vulnérable,6,Sans activité,2025-05-05,Actif
+B01531,M56665,F,72.0,Z002,Très vulnérable,4,Agriculture,2025-05-19,Actif
+B01532,M91889,F,47.0,Z011,Vulnérable,7,Petit commerce,2025-03-22,Actif
+B01533,M85936,F,45.0,Z009,Modérément vulnérable,5,Agriculture,2025-07-06,Actif
+B01534,M70154,F,31.0,Z005,Très vulnérable,6,Agriculture,2025-04-15,Actif
+B01535,M44202,F,43.0,Z001,Vulnérable,6,Agriculture,2025-02-11,Actif
+B01536,M38379,F,41.0,Z016,Très vulnérable,3,Sans activité,2025-05-08,Actif
+B01537,M32835,F,41.0,Z013,Vulnérable,9,Agriculture,2025-04-11,Sorti du programme
+B01538,M39578,F,21.0,Z003,Modérément vulnérable,5,Agriculture,2025-01-11,Actif
+B01539,M19765,F,35.0,Z005,Très vulnérable,9,Agriculture,2025-03-03,Actif
+B01540,M18554,M,42.0,Z017,Vulnérable,5,Élevage,2025-05-08,Actif
+B01541,M55736,F,38.0,Z018,Vulnérable,5,Agriculture,2025-02-23,Actif
+B01542,M45441,F,28.0,Z010,Vulnérable,9,Artisanat,2025-05-12,Actif
+B01543,M49517,F,19.0,Z003,Vulnérable,4,Élevage,2025-03-19,Actif
+B01544,M21284,F,54.0,Z001,Modérément vulnérable,4,Agriculture,2025-07-15,Actif
+B01545,M82478,M,56.0,Z002,Vulnérable,6,Agriculture,2025-01-14,Actif
+B01546,M21804,F,45.0,Z017,Très vulnérable,10,Sans activité,2025-06-11,Actif
+B01547,M60032,F,38.0,Z015,Vulnérable,9,Agriculture,2025-05-14,Actif
+B01548,M18953,M,33.0,Z005,Vulnérable,8,Petit commerce,2025-07-02,Actif
+B01549,M81966,F,25.0,Z009,Vulnérable,5,Petit commerce,2025-06-06,Actif
+B01550,M24271,F,28.0,Z003,Très vulnérable,4,Agriculture,2025-02-17,Actif
+B01551,M67805,F,42.0,Z002,Vulnérable,4,Petit commerce,2025-03-02,Actif
+B01552,M40179,M,40.0,Z001,Très vulnérable,5,Agriculture,2025-02-03,Actif
+B01553,M58270,F,36.0,Z010,Vulnérable,6,Petit commerce,2025-07-21,Actif
+B01554,M22081,F,29.0,Z014,Très vulnérable,4,Artisanat,2025-07-26,Sorti du programme
+B01555,M50675,M,25.0,Z001,Très vulnérable,7,Élevage,2025-04-30,Actif
+B01556,M48119,F,40.0,Z008,Vulnérable,5,Agriculture,2025-03-16,Actif
+B01557,M42133,F,24.0,Z011,Modérément vulnérable,2,Agriculture,2025-09-01,Actif
+B01558,M56753,F,54.0,Z008,Très vulnérable,7,Sans activité,2025-02-26,Actif
+B01559,M39039,F,46.0,Z001,Très vulnérable,6,Agriculture,2025-04-12,Actif
+B01560,M63187,M,66.0,Z006,Vulnérable,4,Artisanat,2025-05-13,Sorti du programme
+B01561,M60267,M,45.0,Z012,Très vulnérable,6,Agriculture,2025-03-12,Actif
+B01562,M14524,F,47.0,Z004,Vulnérable,6,Élevage,2025-04-16,Actif
+B01563,M14473,F,42.0,Z013,Vulnérable,4,Sans activité,2025-05-17,Actif
+B01564,M16971,F,42.0,Z009,Vulnérable,10,Agriculture,2025-08-15,Actif
+B01565,M79636,M,48.0,Z013,Vulnérable,12,Agriculture,2025-02-08,Actif
+B01566,M48507,F,37.0,Z010,Modérément vulnérable,6,Artisanat,2025-01-24,Actif
+B01567,M95932,M,64.0,Z001,Très vulnérable,5,Artisanat,2025-01-11,Actif
+B01568,M18789,F,46.0,Z020,Vulnérable,12,Agriculture,2025-07-28,Actif
+B01569,M68120,F,43.0,Z013,Vulnérable,6,Petit commerce,2025-07-08,Sorti du programme
+B01570,M16175,M,18.0,Z001,Très vulnérable,12,Agriculture,2025-02-25,Actif
+B01571,M35718,M,21.0,Z006,Modérément vulnérable,7,Agriculture,2025-03-08,Actif
+B01572,M99778,M,38.0,Z004,Vulnérable,10,Élevage,2025-02-14,Actif
+B01573,M19068,F,40.0,Z010,Très vulnérable,7,Agriculture,2025-08-20,Actif
+B01574,M37549,F,33.0,Z010,Modérément vulnérable,6,Agriculture,2025-05-02,Actif
+B01575,M85107,M,50.0,Z006,Vulnérable,6,Petit commerce,2025-02-08,Actif
+B01576,M24141,M,35.0,Z014,Vulnérable,3,Agriculture,2025-03-27,Actif
+B01577,M17566,M,39.0,Z017,Vulnérable,8,Élevage,2025-04-11,Actif
+B01578,M77214,F,24.0,Z005,Modérément vulnérable,4,Petit commerce,2025-02-22,Actif
+B01579,M45970,M,26.0,Z002,Vulnérable,6,Sans activité,2025-05-07,Actif
+B01580,M51016,F,35.0,Z020,Très vulnérable,8,Petit commerce,2025-06-25,Actif
+B01581,M77496,F,24.0,Z017,Modérément vulnérable,7,Artisanat,2025-06-01,Actif
+B01582,M96285,F,59.0,Z005,Très vulnérable,6,Élevage,2025-02-25,Actif
+B01583,M33143,F,26.0,Z012,Modérément vulnérable,8,Sans activité,2025-08-19,Actif
+B01584,M23679,F,33.0,Z002,Vulnérable,8,Agriculture,2025-02-12,Actif
+B01585,M93195,M,45.0,Z019,Très vulnérable,3,Agriculture,2025-07-15,Actif
+B01586,M26498,F,37.0,Z005,Vulnérable,7,Agriculture,2025-01-28,Actif
+B01587,M18406,F,46.0,Z005,Vulnérable,5,Élevage,2025-04-08,Actif
+B01588,M91266,M,37.0,Z004,Vulnérable,4,Sans activité,2025-03-02,Actif
+B01589,M72039,M,37.0,Z004,Vulnérable,2,Agriculture,2025-03-20,Actif
+B01590,M98293,M,24.0,Z018,Modérément vulnérable,3,Sans activité,2025-01-11,Actif
+B01591,M48593,F,50.0,Z005,Vulnérable,4,Petit commerce,2025-02-13,Actif
+B01592,M96050,F,52.0,Z008,Très vulnérable,6,Petit commerce,2025-05-25,Actif
+B01593,M81314,F,37.0,Z010,Modérément vulnérable,7,Agriculture,2025-03-30,Actif
+B01594,M96878,F,56.0,Z015,Vulnérable,10,Agriculture,2025-05-13,Actif
+B01595,M56524,M,43.0,Z019,Vulnérable,9,Sans activité,2025-01-13,Actif
+B01596,M10403,F,46.0,Z018,Vulnérable,10,Artisanat,2025-08-19,Actif
+B01597,M22671,F,26.0,Z010,Modérément vulnérable,3,Petit commerce,2025-08-23,Actif
+B01598,M77583,M,18.0,Z014,Vulnérable,5,Agriculture,2025-06-02,Actif
+B01599,M41791,M,49.0,Z005,Très vulnérable,6,Sans activité,2025-02-20,Sorti du programme
+B01600,M16183,F,73.0,Z010,Modérément vulnérable,4,Petit commerce,2025-06-15,Actif
+B01601,M24405,F,31.0,Z003,Vulnérable,5,Élevage,2025-05-19,Actif
+B01602,M47952,F,40.0,Z002,Modérément vulnérable,7,Agriculture,2025-05-14,Actif
+B01603,M73576,M,48.0,Z002,Très vulnérable,6,Agriculture,2025-01-23,Actif
+B01604,M51271,M,56.0,Z016,Modérément vulnérable,6,Sans activité,2025-04-19,Actif
+B01605,M58447,M,40.0,Z006,Vulnérable,5,Sans activité,2025-06-23,Actif
+B01606,M35052,F,48.0,Z019,Vulnérable,4,Agriculture,2025-04-30,Actif
+B01607,M99626,F,31.0,Z014,Très vulnérable,4,Agriculture,2025-06-12,Actif
+B01608,M69687,F,35.0,Z012,Vulnérable,6,Agriculture,2025-07-26,Actif
+B01609,M27157,F,53.0,Z006,Vulnérable,3,Agriculture,2025-08-26,Actif
+B01610,M30259,M,42.0,Z007,Vulnérable,12,Agriculture,2025-04-13,Actif
+B01611,M44334,F,18.0,Z016,Très vulnérable,7,Petit commerce,2025-05-28,Actif
+B01612,M57360,M,39.0,Z010,Vulnérable,6,Petit commerce,2025-04-06,Actif
+B01613,M90444,F,63.0,Z014,Vulnérable,8,Petit commerce,2025-01-29,Actif
+B01614,M41430,F,38.0,Z010,Modérément vulnérable,4,Agriculture,2025-05-09,Actif
+B01615,M16398,F,44.0,Z018,Vulnérable,4,Artisanat,2025-07-10,Actif
+B01616,M65459,F,18.0,Z009,Vulnérable,9,Élevage,2025-08-02,Actif
+B01617,M72971,F,34.0,Z015,Vulnérable,8,Artisanat,2025-05-03,Actif
+B01618,M60660,M,40.0,Z013,Modérément vulnérable,6,Artisanat,2025-05-10,Actif
+B01619,M94456,F,41.0,Z015,Très vulnérable,4,Agriculture,2025-02-22,Actif
+B01620,M22538,F,33.0,Z007,Très vulnérable,5,Élevage,2025-06-24,Actif
+B01621,M84436,F,35.0,Z006,Vulnérable,2,Agriculture,2025-02-02,Actif
+B01622,M61502,F,19.0,Z008,Vulnérable,5,Petit commerce,2025-07-22,Actif
+B01623,M71535,F,26.0,Z001,Vulnérable,3,Agriculture,2025-02-23,Actif
+B01624,M24504,M,34.0,Z001,Vulnérable,8,Agriculture,2025-08-31,Actif
+B01625,M46940,M,46.0,Z017,Modérément vulnérable,5,Petit commerce,2025-02-23,Actif
+B01626,M47423,M,39.0,Z014,Très vulnérable,6,Petit commerce,2025-04-17,Actif
+B01627,M47795,F,48.0,Z017,Très vulnérable,5,Agriculture,2025-08-22,Actif
+B01628,M65988,F,54.0,Z009,Très vulnérable,7,Artisanat,2025-03-09,Actif
+B01629,M34350,F,32.0,Z006,Très vulnérable,7,Agriculture,2025-03-12,Actif
+B01630,M81695,M,32.0,Z004,Très vulnérable,9,Artisanat,2025-02-11,Actif
+B01631,M58783,M,58.0,Z001,Vulnérable,4,Petit commerce,2025-01-24,Actif
+B01632,M79327,F,26.0,Z001,Très vulnérable,5,Agriculture,2025-08-20,Actif
+B01633,M36236,F,22.0,Z016,Vulnérable,10,Élevage,2025-03-19,Actif
+B01634,M91025,M,29.0,Z001,Vulnérable,4,Petit commerce,2025-07-30,Actif
+B01635,M30419,M,20.0,Z002,Très vulnérable,8,Agriculture,2025-06-08,Sorti du programme
+B01636,M71811,F,21.0,Z019,Modérément vulnérable,6,Élevage,2025-07-14,Actif
+B01637,M30256,F,24.0,Z002,Vulnérable,8,Petit commerce,2025-03-19,Actif
+B01638,M37671,M,33.0,Z002,Vulnérable,7,Sans activité,2025-08-29,Actif
+B01639,M49912,F,46.0,Z017,Très vulnérable,5,Agriculture,2025-04-06,Actif
+B01640,M48348,M,37.0,Z017,Vulnérable,6,Sans activité,2025-04-27,Actif
+B01641,M41586,M,29.0,Z013,Très vulnérable,5,Agriculture,2025-02-23,Actif
+B01642,M48371,F,64.0,Z010,Vulnérable,7,Agriculture,2025-05-27,Actif
+B01643,M10363,F,34.0,Z001,Vulnérable,1,Petit commerce,2025-04-25,Actif
+B01644,M43820,F,45.0,Z001,Modérément vulnérable,3,Élevage,2025-06-19,Actif
+B01645,M16996,F,45.0,Z002,Très vulnérable,3,Artisanat,2025-06-19,Actif
+B01646,M50139,F,35.0,Z017,Vulnérable,3,Élevage,2025-09-01,Actif
+B01647,M65467,F,45.0,Z011,Vulnérable,1,Artisanat,2025-01-27,Actif
+B01648,M78472,F,42.0,Z015,Vulnérable,6,Agriculture,2025-06-08,Actif
+B01649,M51804,F,33.0,Z013,Vulnérable,2,Petit commerce,2025-03-21,Actif
+B01650,M57135,M,31.0,Z004,Modérément vulnérable,5,Artisanat,2025-04-18,Actif
+B01651,M52080,M,39.0,Z012,Vulnérable,4,Petit commerce,2025-03-04,Actif
+B01652,M99759,F,18.0,Z002,Vulnérable,8,Artisanat,2025-07-08,Actif
+B01653,M52776,F,40.0,Z005,Vulnérable,5,Agriculture,2025-04-01,Actif
+B01654,M87886,F,41.0,Z015,Vulnérable,5,Petit commerce,2025-04-05,Actif
+B01655,M23055,F,44.0,Z006,Très vulnérable,4,Petit commerce,2025-04-19,Actif
+B01656,M61228,F,43.0,Z007,Vulnérable,5,Agriculture,2025-01-09,Actif
+B01657,M22414,M,34.0,Z006,Très vulnérable,6,Sans activité,2025-04-30,Actif
+B01658,M28332,M,57.0,Z014,Vulnérable,5,Sans activité,2025-08-09,Actif
+B01659,M74920,M,26.0,Z020,Très vulnérable,9,Artisanat,2025-07-15,Actif
+B01660,M44825,M,28.0,Z016,Vulnérable,5,Élevage,2025-01-06,Actif
+B01661,M91818,F,38.0,Z001,Vulnérable,5,Agriculture,2025-05-30,Actif
+B01662,M22672,F,60.0,Z006,Très vulnérable,6,Agriculture,2025-05-29,Actif
+B01663,M90645,M,53.0,Z014,Vulnérable,9,Sans activité,2025-02-10,Actif
+B01664,M29845,F,55.0,Z009,Très vulnérable,8,Élevage,2025-03-11,Actif
+B01665,M41335,F,61.0,Z002,Vulnérable,12,Agriculture,2025-05-28,Actif
+B01666,M80014,F,28.0,Z019,Vulnérable,4,Petit commerce,2025-02-26,Actif
+B01667,M93565,F,18.0,Z002,Très vulnérable,6,Sans activité,2025-08-03,Actif
+B01668,M93355,F,47.0,Z012,Vulnérable,10,Agriculture,2025-04-30,Actif
+B01669,M51002,F,25.0,Z019,Vulnérable,6,Agriculture,2025-03-08,Actif
+B01670,M74105,M,35.0,Z004,Vulnérable,5,Élevage,2025-01-27,Sorti du programme
+B01671,M38022,F,49.0,Z003,Modérément vulnérable,4,Élevage,2025-04-29,Actif
+B01672,M19300,F,25.0,Z004,Vulnérable,5,Agriculture,2025-08-16,Actif
+B01673,M46976,F,35.0,Z016,Vulnérable,7,Agriculture,2025-04-15,Actif
+B01674,M57867,F,52.0,Z015,Modérément vulnérable,7,Sans activité,2025-02-22,Actif
+B01675,M77681,M,54.0,Z019,Vulnérable,8,Petit commerce,2025-05-02,Actif
+B01676,M88419,F,50.0,Z020,Vulnérable,6,Petit commerce,2025-07-15,Actif
+B01677,M65509,M,57.0,Z005,Vulnérable,5,Agriculture,2025-02-23,Actif
+B01678,M26564,M,32.0,Z005,Vulnérable,4,Petit commerce,2025-02-10,Actif
+B01679,M18622,F,36.0,Z017,Vulnérable,9,Élevage,2025-06-01,Actif
+B01680,M32349,M,52.0,Z005,Vulnérable,8,Agriculture,2025-03-16,Actif
+B01681,M86015,M,51.0,Z016,Très vulnérable,1,Petit commerce,2025-03-19,Actif
+B01682,M93566,F,52.0,Z011,Vulnérable,2,Élevage,2025-08-02,Actif
+B01683,M22685,F,53.0,Z010,Modérément vulnérable,7,Élevage,2025-08-25,Actif
+B01684,M83011,M,67.0,Z017,Très vulnérable,6,Agriculture,2025-01-27,Sorti du programme
+B01685,M30695,F,48.0,Z011,Modérément vulnérable,7,Petit commerce,2025-02-14,Actif
+B01686,M83517,M,25.0,Z015,Vulnérable,5,Petit commerce,2025-02-24,Actif
+B01687,M87828,M,44.0,Z017,Très vulnérable,8,Petit commerce,2025-07-03,Actif
+B01688,M57060,F,33.0,Z005,Vulnérable,6,Élevage,2025-07-31,Actif
+B01689,M60541,M,29.0,Z019,Très vulnérable,9,Agriculture,2025-04-02,Actif
+B01690,M64211,M,55.0,Z008,Modérément vulnérable,9,Élevage,2025-03-21,Actif
+B01691,M58786,M,62.0,Z008,Modérément vulnérable,7,Élevage,2025-04-05,Actif
+B01692,M89100,F,45.0,Z018,Vulnérable,6,Élevage,2025-03-08,Actif
+B01693,M73034,M,45.0,Z008,Vulnérable,4,Artisanat,2025-03-09,Actif
+B01694,M74234,F,34.0,Z005,Vulnérable,10,Petit commerce,2025-01-07,Actif
+B01695,M71772,F,34.0,Z013,Très vulnérable,7,Élevage,2025-08-02,Actif
+B01696,M45044,M,18.0,Z016,Très vulnérable,5,Petit commerce,2025-03-28,Actif
+B01697,M77828,M,49.0,Z002,Très vulnérable,8,Petit commerce,2025-03-21,Actif
+B01698,M59340,M,33.0,Z001,Vulnérable,4,Agriculture,2025-06-12,Actif
+B01699,M28448,F,47.0,Z006,Vulnérable,4,Petit commerce,2025-01-24,Actif
+B01700,M91352,F,45.0,Z012,Très vulnérable,5,Agriculture,2025-05-04,Actif
+B01701,M67996,F,18.0,Z005,Vulnérable,5,Agriculture,2025-05-13,Actif
+B01702,M73668,M,55.0,Z002,Très vulnérable,9,Élevage,2025-03-12,Sorti du programme
+B01703,M59838,F,43.0,Z001,Modérément vulnérable,6,Petit commerce,2025-04-30,Actif
+B01704,M57366,F,45.0,Z019,Très vulnérable,8,Petit commerce,2025-04-08,Actif
+B01705,M10081,M,21.0,Z003,Vulnérable,5,Agriculture,2025-07-14,Actif
+B01706,M21376,F,41.0,Z003,Modérément vulnérable,3,Agriculture,2025-06-30,Actif
+B01707,M18668,F,29.0,Z006,Vulnérable,6,Petit commerce,2025-03-28,Actif
+B01708,M20681,F,40.0,Z013,Modérément vulnérable,7,Agriculture,2025-03-13,Actif
+B01709,M88379,F,65.0,Z019,Vulnérable,5,Agriculture,2025-02-05,Actif
+B01710,M14683,F,25.0,Z020,Modérément vulnérable,5,Élevage,2025-06-13,Actif
+B01711,M30796,F,18.0,Z015,Très vulnérable,1,Élevage,2025-08-25,Actif
+B01712,M18426,M,38.0,Z013,Vulnérable,6,Agriculture,2025-01-17,Actif
+B01713,M24517,F,39.0,Z008,Très vulnérable,5,Agriculture,2025-04-08,Actif
+B01714,M43245,M,43.0,Z013,Vulnérable,5,Artisanat,2025-01-21,Actif
+B01715,M34531,F,58.0,Z003,Vulnérable,7,Agriculture,2025-02-22,Actif
+B01716,M50587,F,30.0,Z003,Vulnérable,7,Agriculture,2025-05-26,Actif
+B01717,M50157,M,45.0,Z008,Modérément vulnérable,9,Élevage,2025-07-01,Actif
+B01718,M18454,F,24.0,Z004,Très vulnérable,9,Élevage,2025-05-13,Actif
+B01719,M26804,M,22.0,Z003,Modérément vulnérable,6,Petit commerce,2025-05-08,Actif
+B01720,M30750,F,43.0,Z013,Vulnérable,4,Sans activité,2025-08-20,Actif
+B01721,M50009,F,49.0,Z005,Très vulnérable,6,Petit commerce,2025-08-09,Actif
+B01722,M50700,M,34.0,Z009,Très vulnérable,4,Petit commerce,2025-07-20,Actif
+B01723,M89332,M,24.0,Z009,Très vulnérable,8,Agriculture,2025-01-23,Actif
+B01724,M87246,M,22.0,Z003,Vulnérable,7,Agriculture,2025-02-21,Actif
+B01725,M51319,F,33.0,Z001,Vulnérable,6,Agriculture,2025-05-14,Actif
+B01726,M76711,M,37.0,Z004,Vulnérable,3,Élevage,2025-08-30,Actif
+B01727,M66774,F,47.0,Z009,Très vulnérable,7,Petit commerce,2025-02-20,Actif
+B01728,M96664,M,29.0,Z007,Modérément vulnérable,6,Agriculture,2025-02-04,Actif
+B01729,M97842,M,21.0,Z013,Modérément vulnérable,7,Agriculture,2025-02-16,Actif
+B01730,M61036,F,23.0,Z014,Très vulnérable,3,Petit commerce,2025-08-30,Actif
+B01731,M88778,F,18.0,Z018,Modérément vulnérable,3,Agriculture,2025-07-22,Actif
+B01732,M37649,M,31.0,Z005,Vulnérable,5,Agriculture,2025-06-22,Actif
+B01733,M75955,M,38.0,Z017,Très vulnérable,7,Petit commerce,2025-05-09,Actif
+B01734,M80437,M,54.0,Z008,Très vulnérable,5,Petit commerce,2025-01-07,Actif
+B01735,M45457,F,57.0,Z003,Très vulnérable,3,Petit commerce,2025-07-31,Actif
+B01736,M72679,F,52.0,Z011,Vulnérable,5,Agriculture,2025-07-16,Actif
+B01737,M19032,F,31.0,Z012,Vulnérable,7,Agriculture,2025-07-02,Actif
+B01738,M73389,M,36.0,Z002,Vulnérable,3,Agriculture,2025-02-17,Actif
+B01739,M65512,F,47.0,Z006,Très vulnérable,8,Agriculture,2025-03-27,Actif
+B01740,M59766,M,43.0,Z008,Vulnérable,5,Agriculture,2025-08-29,Actif
+B01741,M76403,M,54.0,Z005,Vulnérable,6,Agriculture,2025-07-22,Actif
+B01742,M18872,F,27.0,Z014,Vulnérable,4,Agriculture,2025-03-29,Actif
+B01743,M81953,M,46.0,Z003,Vulnérable,4,Agriculture,2025-03-09,Sorti du programme
+B01744,M31667,M,43.0,Z009,Vulnérable,7,Artisanat,2025-02-15,Actif
+B01745,M78159,M,40.0,Z001,Vulnérable,4,Agriculture,2025-05-23,Actif
+B01746,M96179,M,43.0,Z005,Vulnérable,9,Petit commerce,2025-08-12,Actif
+B01747,M14933,M,23.0,Z020,Très vulnérable,5,Agriculture,2025-01-16,Sorti du programme
+B01748,M24179,F,44.0,Z002,Très vulnérable,4,Agriculture,2025-04-16,Actif
+B01749,M11022,F,34.0,Z015,Vulnérable,7,Petit commerce,2025-08-06,Actif
+B01750,M50962,F,35.0,Z009,Très vulnérable,5,Agriculture,2025-04-29,Actif
+B01751,M55414,M,36.0,Z005,Modérément vulnérable,8,Agriculture,2025-01-08,Sorti du programme
+B01752,M17502,F,65.0,Z013,Modérément vulnérable,7,Élevage,2025-07-26,Actif
+B01753,M33961,F,45.0,Z015,Vulnérable,8,Artisanat,2025-02-27,Actif
+B01754,M59501,M,45.0,Z003,Vulnérable,7,Élevage,2025-02-05,Actif
+B01755,M84150,M,62.0,Z017,Vulnérable,5,Agriculture,2025-07-15,Actif
+B01756,M51722,F,55.0,Z005,Modérément vulnérable,7,Petit commerce,2025-08-08,Actif
+B01757,M30013,F,54.0,Z015,Très vulnérable,8,Agriculture,2025-03-15,Actif
+B01758,M34422,M,27.0,Z001,Vulnérable,10,Agriculture,2025-01-18,Actif
+B01759,M72605,M,38.0,Z005,Très vulnérable,8,Agriculture,2025-01-26,Actif
+B01760,M50171,F,38.0,Z011,Vulnérable,3,Agriculture,2025-02-14,Actif
+B01761,M98448,F,51.0,Z017,Vulnérable,3,Petit commerce,2025-08-14,Actif
+B01762,M30697,M,59.0,Z015,Très vulnérable,6,Agriculture,2025-01-18,Actif
+B01763,M25947,F,48.0,Z008,Vulnérable,6,Agriculture,2025-07-12,Actif
+B01764,M31289,M,50.0,Z015,Vulnérable,6,Élevage,2025-01-19,Actif
+B01765,M36672,F,52.0,Z010,Vulnérable,4,Petit commerce,2025-01-31,Sorti du programme
+B01766,M97814,F,46.0,Z002,Modérément vulnérable,7,Artisanat,2025-01-17,Actif
+B01767,M19636,F,23.0,Z002,Vulnérable,7,Élevage,2025-02-13,Actif
+B01768,M81861,M,48.0,Z006,Modérément vulnérable,4,Agriculture,2025-03-03,Actif
+B01769,M94382,F,30.0,Z007,Vulnérable,8,Agriculture,2025-05-18,Actif
+B01770,M30496,F,30.0,Z017,Vulnérable,5,Agriculture,2025-03-30,Actif
+B01771,M34958,F,49.0,Z014,Vulnérable,4,Petit commerce,2025-01-18,Actif
+B01772,M14931,F,28.0,Z015,Vulnérable,5,Agriculture,2025-08-03,Actif
+B01773,M75945,M,48.0,Z020,Modérément vulnérable,5,Agriculture,2025-01-25,Actif
+B01774,M24568,F,35.0,Z001,Modérément vulnérable,9,Artisanat,2025-05-11,Actif
+B01775,M11111,F,39.0,Z001,Vulnérable,5,Agriculture,2025-01-10,Actif
+B01776,M12525,F,35.0,Z001,Très vulnérable,7,Petit commerce,2025-05-16,Actif
+B01777,M54455,M,45.0,Z015,Modérément vulnérable,10,Artisanat,2025-03-02,Actif
+B01778,M26822,M,36.0,Z019,Vulnérable,3,Élevage,2025-03-30,Actif
+B01779,M52360,F,36.0,Z001,Très vulnérable,5,Petit commerce,2025-01-13,Actif
+B01780,M37793,F,44.0,Z007,Modérément vulnérable,6,Agriculture,2025-02-13,Actif
+B01781,M24397,F,37.0,Z018,Vulnérable,7,Artisanat,2025-02-18,Actif
+B01782,M77677,F,18.0,Z004,Très vulnérable,5,Agriculture,2025-04-06,Actif
+B01783,M60482,F,32.0,Z009,Vulnérable,5,Sans activité,2025-05-26,Actif
+B01784,M61407,F,27.0,Z008,Très vulnérable,8,Agriculture,2025-07-18,Actif
+B01785,M45416,F,46.0,Z013,Vulnérable,4,Agriculture,2025-08-07,Sorti du programme
+B01786,M18045,F,44.0,Z015,Vulnérable,7,Agriculture,2025-01-20,Actif
+B01787,M14249,F,47.0,Z016,Modérément vulnérable,8,Sans activité,2025-07-06,Actif
+B01788,M93545,M,47.0,Z014,Vulnérable,4,Agriculture,2025-07-30,Actif
+B01789,M77417,F,53.0,Z003,Modérément vulnérable,5,Agriculture,2025-05-18,Actif
+B01790,M75150,M,41.0,Z001,Vulnérable,4,Petit commerce,2025-05-03,Actif
+B01791,M56955,F,48.0,Z020,Vulnérable,10,Sans activité,2025-08-15,Sorti du programme
+B01792,M56240,F,42.0,Z016,Modérément vulnérable,8,Agriculture,2025-07-18,Actif
+B01793,M40532,M,38.0,Z015,Très vulnérable,5,Agriculture,2025-07-22,Actif
+B01794,M61885,F,18.0,Z016,Vulnérable,5,Sans activité,2025-02-07,Actif
+B01795,M77529,F,41.0,Z009,Très vulnérable,3,Petit commerce,2025-05-01,Actif
+B01796,M66276,M,45.0,Z005,Vulnérable,5,Sans activité,2025-08-18,Sorti du programme
+B01797,M29660,F,38.0,Z017,Vulnérable,5,Agriculture,2025-05-19,Actif
+B01798,M64490,F,36.0,Z010,Vulnérable,9,Artisanat,2025-04-08,Actif
+B01799,M63864,M,42.0,Z019,Vulnérable,11,Sans activité,2025-05-16,Sorti du programme
+B01800,M87243,M,20.0,Z004,Très vulnérable,4,Sans activité,2025-03-07,Actif
+B00101,M47961,F,37.0,Z011,Vulnérable,5,Sans activité,2025-02-22,Sorti du programme
+B00401,M58789,F,52.0,Z007,Très vulnérable,5,Agriculture,2025-02-08,Actif
